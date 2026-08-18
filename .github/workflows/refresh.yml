@@ -1,0 +1,80 @@
+name: Refresh the Cherokee 411 wire
+
+# Rewritten for the FLAT repo layout: the web uploader put every file in the root rather
+# than under docs/ and tools/, so this reads and writes the root. GitHub Pages is served
+# from the root branch for the same reason. The one path that is NOT negotiable is this
+# file's own: a workflow only runs from .github/workflows/.
+
+on:
+  schedule:
+    # Hourly at :17. Not on the hour, because every naive cron fires at :00 and the small
+    # newsroom feeds we poll are slowest exactly then.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "*.py"
+      - ".github/workflows/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-wire
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      C411_OUT: ${{ github.workspace }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          # No install step: the aggregator is deliberately pure standard library.
+
+      - name: Poll the sources
+        run: python aggregate.py
+
+      - name: Build the RSS feeds
+        run: python build_rss.py "https://jonintellz.github.io/cherokee411-wire"
+
+      - name: Build the readable page
+        run: |
+          python build_share_page.py
+          mv share.html index.html
+
+      - name: Refuse to publish a broken feed
+        # A feed that fails to parse is worse than a stale one: a reader that has already
+        # subscribed shows nothing and gives no reason. Check before committing.
+        run: |
+          python - <<'PY'
+          import sys, xml.etree.ElementTree as ET
+          bad = 0
+          for f in ("cherokee411-all.xml", "cherokee411-native.xml"):
+              try:
+                  ch = ET.parse(f).getroot().find("channel")
+                  n = len(ch.findall("item"))
+                  print("%-26s %4d items" % (f, n))
+                  if n == 0:
+                      print("   REFUSING: no items"); bad += 1
+              except Exception as e:
+                  print("   REFUSING: %s does not parse: %s" % (f, e)); bad += 1
+          sys.exit(1 if bad else 0)
+          PY
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "cherokee411-wire bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A -- '*.xml' '*.json' index.html
+          if git diff --staged --quiet; then
+            echo "no change in the wire this run"
+          else
+            git commit -m "wire refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
