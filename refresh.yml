@@ -1,0 +1,85 @@
+name: Refresh the Cherokee 411 wire
+
+# WHY THIS RUNS HERE AND NOT ON THE WORKSTATION.
+# The feed has to keep updating when Jon's machine is asleep, and it has to be public. This
+# runs in GitHub's cloud on a schedule, commits the regenerated files, and GitHub Pages
+# serves them at a fixed public URL. It uses the built-in GITHUB_TOKEN, so no credential is
+# stored anywhere and nobody has to hold a secret for it to keep working.
+
+on:
+  schedule:
+    # Hourly at :17. Not on the hour: every naive cron in the world fires at :00 and the
+    # small newsroom feeds we poll are slowest exactly then.
+    - cron: "17 * * * *"
+  workflow_dispatch:        # so it can be run by hand from the Actions tab
+  push:
+    branches: [main]
+    paths: ["tools/**", ".github/workflows/**"]
+
+permissions:
+  contents: write           # the job commits the refreshed feed back to the repo
+
+concurrency:
+  # Two overlapping runs would race on the same commit and one would be rejected.
+  group: refresh-wire
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          # No pip install step: the aggregator is deliberately pure standard library.
+
+      - name: Poll the sources
+        env:
+          C411_OUT: ${{ github.workspace }}/docs
+        run: python tools/aggregate.py
+
+      - name: Build the RSS feeds
+        env:
+          C411_OUT: ${{ github.workspace }}/docs
+        run: python tools/build_rss.py "https://jonintellz.github.io/cherokee411-wire"
+
+      - name: Build the readable page
+        env:
+          C411_OUT: ${{ github.workspace }}/docs
+        run: |
+          python tools/build_share_page.py
+          mv docs/share.html docs/index.html
+
+      - name: Check the feed before publishing it
+        # A feed that fails to parse is worse than a stale one, because a reader that has
+        # already subscribed will simply show nothing and give no reason. Refuse to commit
+        # a broken document.
+        run: |
+          python - <<'PY'
+          import sys, xml.etree.ElementTree as ET
+          bad = 0
+          for f in ("docs/cherokee411-all.xml", "docs/cherokee411-native.xml"):
+              try:
+                  ch = ET.parse(f).getroot().find("channel")
+                  n = len(ch.findall("item"))
+                  print("%-34s %4d items" % (f, n))
+                  if n == 0:
+                      print("   REFUSING: feed has no items"); bad += 1
+              except Exception as e:
+                  print("   REFUSING: %s does not parse: %s" % (f, e)); bad += 1
+          sys.exit(1 if bad else 0)
+          PY
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "cherokee411-wire bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          if git diff --staged --quiet; then
+            echo "no change in the wire this run"
+          else
+            git commit -m "wire refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
