@@ -1,11 +1,46 @@
 {
-  "generated": "2026-08-19T16:49:38Z",
+  "generated": "2026-08-19T17:43:44Z",
   "stats": {
     "items_before_dedup": 257,
     "items_after_dedup": 256,
     "duplicates_removed": 1
   },
   "items": [
+    {
+      "source": "KOSU",
+      "title": "Oklahoma auditor report alleges more details of embezzlement scheme at Tulsa Public Schools",
+      "link": "https://www.kosu.org/education/2026-08-19/oklahoma-auditor-report-alleges-more-details-of-embezzlement-scheme-at-tulsa-public-schools",
+      "published": "2026-08-19T17:15:02Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Government"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Why Aitana's 'Superestrella' is the surprise Latin hit song of the summer",
+      "link": "https://www.kosu.org/music/2026-08-19/why-aitanas-superestrella-is-the-surprise-latin-hit-song-of-the-summer",
+      "published": "2026-08-19T17:03:41Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "Federal Court Vacates Izembek Land Exchange, Citing Violations of Federal Law",
+      "link": "https://nativenewsonline.net/environment/federal-court-vacates-izembek-land-exchange-citing-violations-of-federal-law/",
+      "published": "2026-08-19T16:59:23Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Courts and Law",
+        "Land and Environment"
+      ]
+    },
     {
       "source": "KOSU",
       "title": "Why does the U.S. military seem stymied in the war with Iran?",
@@ -96,6 +131,18 @@
       "native_why": "source beat",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Balloon festival attracts hot air llama, duck, raccoons, urban legend",
+      "link": "https://www.muskogeephoenix.com/news/balloon-festival-attracts-hot-air-llama-duck-raccoons-urban-legend/article_66ec4cf8-60f5-4f47-a21e-186f8918e7e0.html",
+      "published": "2026-08-19T12:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment",
+        "Events"
       ]
     },
     {
@@ -255,6 +302,17 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Muskogee Police Report, Aug. 17-18",
+      "link": "https://www.muskogeephoenix.com/news/muskogee-police-report-aug-17-18/article_93f6cc1c-146f-4190-b0a4-a3b24cff988e.html",
+      "published": "2026-08-19T10:26:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Public Safety"
+      ]
+    },
+    {
       "source": "KOSU",
       "title": "How India's blocking of a film exposing real-life police abuses backfired",
       "link": "https://www.kosu.org/news/2026-08-19/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
@@ -290,34 +348,10 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Osage Congress considers language charter school following immersion school closure",
-      "link": "https://www.kosu.org/osage-language-chart-school-considered",
-      "published": "2026-08-19T10:00:00Z",
-      "native": true,
-      "native_why": "term: osage",
-      "tags": [
-        "Education",
-        "Language and Culture",
-        "National and World"
-      ]
-    },
-    {
       "source": "Muskogee Phoenix",
       "title": "Love Foundation grants fund Hilldale meals, summer programs",
       "link": "https://www.muskogeephoenix.com/news/love-foundation-grants-fund-hilldale-meals-summer-programs/article_60ce178f-b551-412c-8421-b4ff485205a4.html",
       "published": "2026-08-19T09:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-      "link": "https://www.kosu.org/news/2026-08-19/congos-ebola-outbreak-reaches-5-000-cases-as-it-outpaces-response-efforts",
-      "published": "2026-08-19T09:29:40Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -414,17 +448,6 @@
       ]
     },
     {
-      "source": "Native News Online",
-      "title": "Mice May Drive Lyme Disease More Than Deer",
-      "link": "https://nativenewsonline.net/environment/mice-may-drive-lyme-disease-more-than-deer/",
-      "published": "2026-08-18T20:02:25Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma Republicans raise millions ahead of key runoff elections",
       "link": "https://oklahomavoice.com/2026/08/18/oklahoma-republicans-raise-millions-ahead-of-key-runoff-elections/",
@@ -468,6 +491,18 @@
       "native_why": "",
       "tags": [
         "Education"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Assessor candidates face vote in Tuesday runoff",
+      "link": "https://www.muskogeephoenix.com/news/assessor-candidates-face-vote-in-tuesday-runoff/article_177503c5-2a64-4717-b8e6-254cd9fd2a92.html",
+      "published": "2026-08-18T16:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Elections"
       ]
     },
     {
@@ -1695,17 +1730,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "MPS adjusts elementary schedules to allow more recess",
-      "link": "https://www.muskogeephoenix.com/news/mps-adjusts-elementary-schedules-to-allow-more-recess/article_c0395aa4-de29-4894-af86-8ef6ea995d5f.html",
-      "published": "2026-08-12T15:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "The Supreme Court has a message for Kentucky on surveillance: Get a warrant",
       "link": "https://oklahomavoice.com/2026/08/12/repub/the-supreme-court-has-a-message-for-kentucky-on-surveillance-get-a-warrant/",
@@ -1715,28 +1739,6 @@
       "tags": [
         "Courts and Law",
         "Technology"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Bankruptcy numbers climbing as way to discharge debt and build credit back up",
-      "link": "https://www.muskogeephoenix.com/news/bankruptcy-numbers-climbing-as-way-to-discharge-debt-and-build-credit-back-up/article_afacfb46-8a4a-5dde-b19f-f29602c49406.html",
-      "published": "2026-08-12T14:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Twin parents weigh in on separate classrooms",
-      "link": "https://www.muskogeephoenix.com/news/twin-parents-weigh-in-on-separate-classrooms/article_46e4087c-43df-47fc-9139-d9fdd34a02a5.html",
-      "published": "2026-08-12T14:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
       ]
     },
     {
