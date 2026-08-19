@@ -1,11 +1,22 @@
 {
-  "generated": "2026-08-19T18:56:07Z",
+  "generated": "2026-08-19T19:42:32Z",
   "stats": {
-    "items_before_dedup": 297,
-    "items_after_dedup": 294,
+    "items_before_dedup": 307,
+    "items_after_dedup": 304,
     "duplicates_removed": 3
   },
   "items": [
+    {
+      "source": "KOSU",
+      "title": "Ray Wylie Hubbard to be inducted into Oklahoma Music Hall of Fame",
+      "link": "https://www.kosu.org/ray-wylie-hubbard-oklahoma-music-hall",
+      "published": "2026-08-19T19:05:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture"
+      ]
+    },
     {
       "source": "Oklahoma Voice",
       "title": "More states, including Oklahoma, ban child marriage, though it\u2019s still legal in most of the US",
@@ -199,17 +210,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "A farewell to NPR's Africa correspondent Emmanuel Akinwotu",
-      "link": "https://www.kosu.org/2026-08-19/a-farewell-to-nprs-africa-correspondent-emmanuel-akinwotu",
-      "published": "2026-08-19T15:55:55Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "ICT",
       "title": "Mary Peltola advances to general election",
       "link": "https://ictnews.org/politics/election-2026/mary-peltola-advances-to-general-election/",
@@ -222,7 +222,7 @@
     },
     {
       "source": "NonDoc",
-      "title": "Drummond: Secretary of State Ben Lepak should resign after public intoxication arrest",
+      "title": "Drummond: Secretary of State Ben Lepak should be fired after public intoxication arrest",
       "link": "https://nondoc.com/2026/08/19/drummond-secretary-of-state-ben-lepak-should-resign-after-public-intoxication-arrest/",
       "published": "2026-08-19T15:15:00Z",
       "native": false,
@@ -284,17 +284,6 @@
     },
     {
       "source": "Muskogee Phoenix",
-      "title": "Undocumented immigrant pleads guilty to unlawful reentry",
-      "link": "https://www.muskogeephoenix.com/news/undocumented-immigrant-pleads-guilty-to-unlawful-reentry/article_dd4a2184-9dcf-4a47-b271-8c9bced3ed4f.html",
-      "published": "2026-08-19T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Crime"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
       "title": "Webbers Falls to host Small Town Throwdown",
       "link": "https://www.muskogeephoenix.com/news/webbers-falls-to-host-small-town-throwdown/article_a1c7b18a-25da-429e-978d-9fa424d5d8ca.html",
       "published": "2026-08-19T13:00:00Z",
@@ -302,6 +291,17 @@
       "native_why": "",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Undocumented immigrant pleads guilty to unlawful reentry",
+      "link": "https://www.muskogeephoenix.com/news/undocumented-immigrant-pleads-guilty-to-unlawful-reentry/article_dd4a2184-9dcf-4a47-b271-8c9bced3ed4f.html",
+      "published": "2026-08-19T13:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
       ]
     },
     {
@@ -506,6 +506,17 @@
       ]
     },
     {
+      "source": "Osage News",
+      "title": "Dismissed Batson case raises questions over peyote prosecution",
+      "link": "https://osagenews.org/dismissed-batson-case-raises-questions-over-peyote-prosecution/",
+      "published": "2026-08-18T23:09:14Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Courts and Law"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "State audit finds $3.73 million in misspent Tulsa Public Schools bond funds",
       "link": "https://oklahomavoice.com/2026/08/18/state-audit-finds-3-73-million-in-misspent-tulsa-public-schools-bond-funds/",
@@ -640,6 +651,17 @@
       "tags": [
         "Education",
         "Language and Culture"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Osage Broadband expands fiber network across reservation",
+      "link": "https://osagenews.org/osage-broadband-expands-fiber-network-across-reservation/",
+      "published": "2026-08-18T14:46:42Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Technology"
       ]
     },
     {
@@ -801,6 +823,17 @@
       ]
     },
     {
+      "source": "Osage News",
+      "title": "Tillman lifts State of Emergency 10 days after declaring it",
+      "link": "https://osagenews.org/tillman-lifts-state-of-emergency-10-days-after-declaring-it/",
+      "published": "2026-08-17T19:38:38Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Public Safety"
+      ]
+    },
+    {
       "source": "ICT",
       "title": "Breakfast burritos keep Sante Fe Indian Market vendors nourished",
       "link": "https://ictnews.org/news/southwest-bureau/breakfast-burritos-keep-sante-fe-indian-market-vendors-nourished/",
@@ -915,6 +948,17 @@
       "tags": [
         "Arts and Entertainment",
         "Events"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "\u2018Fake News\u2019 and the dismantling of trust",
+      "link": "https://osagenews.org/fake-news-and-the-dismantling-of-trust/",
+      "published": "2026-08-17T14:28:09Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Media"
       ]
     },
     {
@@ -1088,6 +1132,29 @@
       ]
     },
     {
+      "source": "Osage News",
+      "title": "Wahzhazhe Elections Board officially closes 2026 election cycle",
+      "link": "https://osagenews.org/wahzhazhe-elections-board-officially-closes-2026-election-cycle/",
+      "published": "2026-08-16T23:03:08Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Local officials warn of growing threat from electronic scams",
+      "link": "https://osagenews.org/local-officials-warn-of-growing-threat-from-electronic-scams/",
+      "published": "2026-08-16T21:23:23Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Elections",
+        "Crime"
+      ]
+    },
+    {
       "source": "NonDoc",
       "title": "Russell Westbrook statue will require good execution",
       "link": "https://nondoc.com/2026/08/16/russell-westbrook-statue-will-require-good-execution/",
@@ -1185,6 +1252,17 @@
       "native_why": "",
       "tags": [
         "Housing"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Osage author Chelsea T. Hicks is developing new materials for publication",
+      "link": "https://osagenews.org/osage-author-chelsea-t-hicks-is-developing-new-materials-for-publication/",
+      "published": "2026-08-14T20:47:45Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Arts and Entertainment"
       ]
     },
     {
@@ -1615,6 +1693,17 @@
       ]
     },
     {
+      "source": "Osage News",
+      "title": "Osage students earn top honors for their artwork",
+      "link": "https://osagenews.org/osage-students-earn-top-honors-for-their-artwork/",
+      "published": "2026-08-13T03:30:02Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
       "source": "Indianz",
       "title": "\u2018Let\u2019s go\u2019: Peggy Flanagan wins Democratic primary for U.S. Senate seat in Minnesota",
       "link": "https://indianz.com/News/2026/08/12/lets-go-peggy-flanagan-wins-democratic-primary-for-u-s-senate-seat-in-minnesota/",
@@ -1627,6 +1716,17 @@
       ]
     },
     {
+      "source": "Osage News",
+      "title": "For our language to live, Daposka Ahnkodapi must be reopened",
+      "link": "https://osagenews.org/for-our-language-to-live-daposka-ahnkodapi-must-be-reopened/",
+      "published": "2026-08-13T03:10:51Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Language and Culture"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Trump vaccine order takes aim at states that limit exemptions",
       "link": "https://oklahomavoice.com/2026/08/12/repub/trump-vaccine-order-takes-aim-at-states-that-limit-exemptions/",
@@ -1635,6 +1735,17 @@
       "native_why": "",
       "tags": [
         "Health"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "NASA presents Basil Baldauff with prestigious Silver Snoopy Award",
+      "link": "https://osagenews.org/nasa-presents-basil-baldauff-the-prestigious-silver-snoopy-award/",
+      "published": "2026-08-12T19:30:29Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -3312,51 +3423,6 @@
       "title": "Cherokee Nation celebrates Cherry Tree G.R.O.W. milestone",
       "link": "https://www.cherokeephoenix.org/news/cherokee-nation-celebrates-cherry-tree-g-r-o-w-milestone/article_41bff6cb-b16a-49a0-8f0e-cbdb8804e555.html",
       "published": "2026-06-07T12:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Oklahoma TOTA chapter to meet and mark grave of James Downing on June 27",
-      "link": "https://www.cherokeephoenix.org/news/oklahoma-tota-chapter-to-meet-and-mark-grave-of-james-downing-on-june-27/article_96f02e64-91c9-4402-aaec-5f3df4d5b4fa.html",
-      "published": "2026-06-05T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Hoskin nominates Kristen Snell-Thomas as tribe\u2019s registrar",
-      "link": "https://www.cherokeephoenix.org/news/hoskin-nominates-kristen-snell-thomas-as-tribe-s-registrar/article_0d1a3a9a-1c87-40e1-a6cf-8ae43e2eca3c.html",
-      "published": "2026-06-04T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Hemmings Great Race stopping at Will Rogers Memorial Museum on June 22",
-      "link": "https://www.cherokeephoenix.org/news/hemmings-great-race-stopping-at-will-rogers-memorial-museum-on-june-22/article_246463c1-2802-4c96-a348-ea2e81142c73.html",
-      "published": "2026-06-04T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture",
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Spiro Mounds Archaeological Center hosting Summer Solstice Walks",
-      "link": "https://www.cherokeephoenix.org/news/spiro-mounds-archaeological-center-hosting-summer-solstice-walks/article_8bba28d8-fb74-41b0-956b-118a8883d2da.html",
-      "published": "2026-06-03T15:00:00Z",
       "native": true,
       "native_why": "source beat",
       "tags": [
