@@ -1,11 +1,22 @@
 {
-  "generated": "2026-08-20T01:54:26Z",
+  "generated": "2026-08-20T03:12:07Z",
   "stats": {
-    "items_before_dedup": 207,
-    "items_after_dedup": 206,
+    "items_before_dedup": 197,
+    "items_after_dedup": 196,
     "duplicates_removed": 1
   },
   "items": [
+    {
+      "source": "Native News Online",
+      "title": "Largest Study of Its Kind Shows Promise in Reducing Substance Use Among Urban Native Young Adults",
+      "link": "https://nativenewsonline.net/health/largest-study-of-its-kind-shows-promise-in-reducing-substance-use-among-urban-native-young-adults/",
+      "published": "2026-08-20T02:18:36Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
     {
       "source": "Native News Online",
       "title": "University of Arizona, Gila River Health Care Launch First Medical School Branch on Tribal Lands",
@@ -209,17 +220,6 @@
       "native_why": "",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "Struggling with addiction, Kimberly Brave got sober at a California treatment center. Now she\u2019s fighting allegations tied to her work there",
-      "link": "https://osagenews.org/struggling-with-addiction-kimberly-brave-got-sober-at-a-california-treatment-center-now-shes-fighting-allegations-tied-to-her-work-there/",
-      "published": "2026-08-19T20:17:08Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -439,17 +439,6 @@
       ]
     },
     {
-      "source": "Native News Online",
-      "title": "Canadian Gambling Laws by Province: How Online Betting Rules Differ Across Canada",
-      "link": "https://nativenewsonline.net/advertise/branded-voices/canadian-gambling-laws-by-province-how-online-betting-rules-differ-across-canada/",
-      "published": "2026-08-19T10:54:43Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Trevor Pemberton, Zach West nominated as federal district judges",
       "link": "https://nondoc.com/2026/08/19/trevor-pemberton-zach-west-nominated-as-federal-district-judges/",
@@ -476,17 +465,6 @@
       "title": "Two lawsuits challenge federal ban on bison grazing in Montana",
       "link": "https://ictnews.org/news/two-lawsuits-challenge-federal-ban-on-bison-grazing-in-montana/",
       "published": "2026-08-19T01:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "Dismissed Batson case raises questions over peyote prosecution",
-      "link": "https://osagenews.org/dismissed-batson-case-raises-questions-over-peyote-prosecution/",
-      "published": "2026-08-18T23:09:14Z",
       "native": true,
       "native_why": "source beat",
       "tags": [
@@ -582,17 +560,6 @@
       "native_why": "source beat",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "Osage Broadband expands fiber network across reservation",
-      "link": "https://osagenews.org/osage-broadband-expands-fiber-network-across-reservation/",
-      "published": "2026-08-18T14:46:42Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Technology"
       ]
     },
     {
@@ -720,17 +687,6 @@
       ]
     },
     {
-      "source": "Osage News",
-      "title": "Tillman lifts State of Emergency 10 days after declaring it",
-      "link": "https://osagenews.org/tillman-lifts-state-of-emergency-10-days-after-declaring-it/",
-      "published": "2026-08-17T19:38:38Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Public Safety"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma company that operates Iowa nursing homes faces second lawsuit alleging unpaid bills",
       "link": "https://oklahomavoice.com/2026/08/17/repub/oklahoma-company-that-operates-iowa-nursing-homes-faces-second-lawsuit-alleging-unpaid-bills/",
@@ -763,17 +719,6 @@
       "tags": [
         "National and World",
         "Elections"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "\u2018Fake News\u2019 and the dismantling of trust",
-      "link": "https://osagenews.org/fake-news-and-the-dismantling-of-trust/",
-      "published": "2026-08-17T14:28:09Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Media"
       ]
     },
     {
@@ -833,29 +778,6 @@
       ]
     },
     {
-      "source": "Osage News",
-      "title": "Wahzhazhe Elections Board officially closes 2026 election cycle",
-      "link": "https://osagenews.org/wahzhazhe-elections-board-officially-closes-2026-election-cycle/",
-      "published": "2026-08-16T23:03:08Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "Local officials warn of growing threat from electronic scams",
-      "link": "https://osagenews.org/local-officials-warn-of-growing-threat-from-electronic-scams/",
-      "published": "2026-08-16T21:23:23Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections",
-        "Crime"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Russell Westbrook statue will require good execution",
       "link": "https://nondoc.com/2026/08/16/russell-westbrook-statue-will-require-good-execution/",
@@ -898,17 +820,6 @@
       "native_why": "",
       "tags": [
         "Housing"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "Osage author Chelsea T. Hicks is developing new materials for publication",
-      "link": "https://osagenews.org/osage-author-chelsea-t-hicks-is-developing-new-materials-for-publication/",
-      "published": "2026-08-14T20:47:45Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Arts and Entertainment"
       ]
     },
     {
@@ -1144,17 +1055,6 @@
       ]
     },
     {
-      "source": "Osage News",
-      "title": "Osage students earn top honors for their artwork",
-      "link": "https://osagenews.org/osage-students-earn-top-honors-for-their-artwork/",
-      "published": "2026-08-13T03:30:02Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
       "source": "Indianz",
       "title": "\u2018Let\u2019s go\u2019: Peggy Flanagan wins Democratic primary for U.S. Senate seat in Minnesota",
       "link": "https://indianz.com/News/2026/08/12/lets-go-peggy-flanagan-wins-democratic-primary-for-u-s-senate-seat-in-minnesota/",
@@ -1164,17 +1064,6 @@
       "tags": [
         "Elections",
         "National and World"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "For our language to live, Daposka Ahnkodapi must be reopened",
-      "link": "https://osagenews.org/for-our-language-to-live-daposka-ahnkodapi-must-be-reopened/",
-      "published": "2026-08-13T03:10:51Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture"
       ]
     },
     {
