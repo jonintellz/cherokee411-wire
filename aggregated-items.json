@@ -1,11 +1,90 @@
 {
-  "generated": "2026-08-22T20:42:23Z",
+  "generated": "2026-08-22T21:39:39Z",
   "stats": {
     "items_before_dedup": 257,
     "items_after_dedup": 255,
     "duplicates_removed": 2
   },
   "items": [
+    {
+      "source": "KOSU",
+      "title": "Washington D.C. ready and set for historic IndyCar race",
+      "link": "https://www.kosu.org/u-s-news/2026-08-22/washington-d-c-ready-and-set-for-historic-indycar-race",
+      "published": "2026-08-22T21:30:48Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The complexities of covering swing voters and what they teach us about politics",
+      "link": "https://www.kosu.org/politics/2026-08-22/the-complexities-of-covering-swing-voters-and-what-they-teach-us-about-politics",
+      "published": "2026-08-22T21:30:46Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Elections"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Brennan Wedl explores heartache and unrequited love self titled album",
+      "link": "https://www.kosu.org/music/2026-08-22/brennan-wedl-explores-heartache-and-unrequited-love-self-titled-album",
+      "published": "2026-08-22T21:30:44Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Top California negotiator on federal proposal to manage Colorado River water",
+      "link": "https://www.kosu.org/u-s-news/2026-08-22/top-california-negotiator-on-federal-proposal-to-manage-colorado-river-water",
+      "published": "2026-08-22T21:21:31Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Land and Environment"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The U.S. & Canada are fighting over tariffs. How is that affecting small businesses?",
+      "link": "https://www.kosu.org/business/2026-08-22/the-u-s-canada-are-fighting-over-tariffs-how-is-that-affecting-small-businesses",
+      "published": "2026-08-22T21:16:39Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Peru steps up fight against illegal gold mining as activity enters protected Amazon reserve",
+      "link": "https://ictnews.org/news/peru-steps-up-fight-against-illegal-gold-mining-as-activity-enters-protected-amazon-reserve/",
+      "published": "2026-08-22T21:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+      "link": "https://www.kosu.org/news/2026-08-22/trump-administrations-75-country-visa-ban-was-illegal-judge-rules",
+      "published": "2026-08-22T20:53:19Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Government"
+      ]
+    },
     {
       "source": "KOSU",
       "title": "Sunday Puzzle: MBA's",
@@ -95,72 +174,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "One minute of shouting earns eternal glory at the Tennessee State Fair",
-      "link": "https://www.kosu.org/u-s-news/2026-08-22/one-minute-of-shouting-earns-eternal-glory-at-the-tennessee-state-fair",
-      "published": "2026-08-22T11:43:31Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Events"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Social robotics expert Naomi Fitter on why humanoid robots are reaching a tipping point",
-      "link": "https://www.kosu.org/technology/2026-08-22/social-robotics-expert-naomi-fitter-on-why-humanoid-robots-are-reaching-a-tipping-point",
-      "published": "2026-08-22T11:43:30Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Saturday Sports: U.S. Open launch; skyrocketing ticket costs; record NBA team sales",
-      "link": "https://www.kosu.org/sports/2026-08-22/saturday-sports-u-s-open-launch-skyrocketing-ticket-costs-record-nba-team-sales",
-      "published": "2026-08-22T11:43:28Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "President Trump is set to wave the green flag at a historic Indy car race in DC",
-      "link": "https://www.kosu.org/u-s-news/2026-08-22/president-trump-is-set-to-wave-the-green-flag-at-a-historic-indy-car-race-in-dc",
-      "published": "2026-08-22T11:43:27Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "National and World"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Degrees of financial distress: How visa cuts; high tuition crush colleges",
-      "link": "https://www.kosu.org/education/2026-08-22/degrees-of-financial-distress-how-visa-cuts-high-tuition-crush-colleges",
-      "published": "2026-08-22T11:43:26Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
-      "link": "https://www.kosu.org/politics/2026-08-22/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
-      "published": "2026-08-22T11:43:25Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy"
       ]
     },
     {
@@ -779,18 +792,6 @@
       "tags": [
         "Health",
         "Health"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Unofficial results show Washington state candidates moving to November ballot",
-      "link": "https://ictnews.org/politics/election-2026/unofficial-results-show-washington-state-candidates-moving-to-november-ballot/",
-      "published": "2026-08-20T10:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections",
-        "National and World"
       ]
     },
     {
