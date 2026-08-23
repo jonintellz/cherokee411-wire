@@ -1,11 +1,22 @@
 {
-  "generated": "2026-08-23T08:51:31Z",
+  "generated": "2026-08-23T09:45:35Z",
   "stats": {
     "items_before_dedup": 257,
     "items_after_dedup": 255,
     "duplicates_removed": 2
   },
   "items": [
+    {
+      "source": "KOSU",
+      "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+      "link": "https://www.kosu.org/u-s-news/2026-08-23/body-cam-shows-federal-agent-was-unjustified-in-memphis-shooting-attorney-says",
+      "published": "2026-08-23T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
     {
       "source": "Native News Online",
       "title": "Alaska Native Polling Station Opened For Just 3 Hours on Election Day, A Sign of Continuing Problems",
@@ -207,17 +218,6 @@
       "native_why": "",
       "tags": [
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Colorado River crisis: Lower basin braces for massive federal water cuts",
-      "link": "https://www.kosu.org/u-s-news/2026-08-22/colorado-river-crisis-lower-basin-braces-for-massive-federal-water-cuts",
-      "published": "2026-08-22T11:43:34Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Land and Environment"
       ]
     },
     {
