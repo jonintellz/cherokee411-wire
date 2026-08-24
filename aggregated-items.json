@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T22:46:50Z",
+  "generated": "2026-08-24T23:40:02Z",
   "stats": {
     "items_before_dedup": 257,
     "items_after_dedup": 256,
@@ -7,9 +7,21 @@
   },
   "items": [
     {
+      "source": "ICT",
+      "title": "Minnesota Gov. Tim Walz signs executive order banning nonferrous mining near Boundary Waters",
+      "link": "https://ictnews.org/news/minnesota-gov-tim-walz-signs-executive-order-banning-nonferrous-mining-near-boundary-waters/",
+      "published": "2026-08-24T23:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Land and Environment",
+        "Government"
+      ]
+    },
+    {
       "source": "KOSU",
-      "title": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
-      "link": "https://www.kosu.org/world-news/2026-08-24/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+      "link": "https://www.kosu.org/news/2026-08-24/six-months-on-u-s-navy-families-who-evacuated-bahrain-remain-in-limbo",
       "published": "2026-08-24T22:22:13Z",
       "native": false,
       "native_why": "",
@@ -294,6 +306,17 @@
       ]
     },
     {
+      "source": "Native America Calling",
+      "title": "Monday, August 24, 2026 \u2014 Native in the Spotlight: Dr. Lori Arviso Alvord",
+      "link": "https://www.nativeamericacalling.com/monday-august-24-2026-native-in-the-spotlight-dr-lori-arviso-alvord/",
+      "published": "2026-08-24T13:00:35Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Features"
+      ]
+    },
+    {
       "source": "Muskogee Phoenix",
       "title": "Pilots , share their skills at Muskogee Hot Air Balloon Festival",
       "link": "https://www.muskogeephoenix.com/news/pilots-share-their-skills-at-muskogee-hot-air-balloon-festival/article_05f78eea-3496-4309-86fb-c5f8e7d3de05.html",
@@ -451,17 +474,6 @@
         "Elections",
         "Government",
         "Courts and Law"
-      ]
-    },
-    {
-      "source": "Native America Calling",
-      "title": "Monday, August 24, 2026 \u2014 Native in the Spotlight: Dr. Lori Arviso Alvord",
-      "link": "https://www.nativeamericacalling.com/monday-august-24-2026-native-in-the-spotlight-dr-lori-arviso-alvord/",
-      "published": "2026-08-23T13:00:35Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Features"
       ]
     },
     {
@@ -758,19 +770,6 @@
         "Language and Culture",
         "Opinion",
         "Opinion"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "\u2018An overstep\u2019: Navajo Code Talker descendants criticize state\u2019s new plan for museum",
-      "link": "https://ictnews.org/news/an-overstep-navajo-code-talker-descendants-criticize-states-new-plan-for-museum/",
-      "published": "2026-08-21T14:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Citizenship",
-        "Language and Culture",
-        "Arts and Entertainment"
       ]
     },
     {
