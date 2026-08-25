@@ -1,11 +1,23 @@
 {
-  "generated": "2026-08-25T13:14:05Z",
+  "generated": "2026-08-25T14:08:25Z",
   "stats": {
     "items_before_dedup": 307,
     "items_after_dedup": 305,
     "duplicates_removed": 2
   },
   "items": [
+    {
+      "source": "ICT",
+      "title": "Living with drought has taught pastoralists lessons the world needs",
+      "link": "https://ictnews.org/news/living-with-drought-has-taught-pastoralists-lessons-the-world-needs/",
+      "published": "2026-08-25T14:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Land and Environment",
+        "Weather"
+      ]
+    },
     {
       "source": "KOSU",
       "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
@@ -133,6 +145,17 @@
     },
     {
       "source": "KOSU",
+      "title": "A Better Way Norman set to close due to lack of funding",
+      "link": "https://www.kosu.org/norman-employment-program-to-close",
+      "published": "2026-08-25T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
       "title": "Today is election day in Oklahoma for partisan runoffs, state questions and more",
       "link": "https://www.kosu.org/oklahoma-election-results-august-2026",
       "published": "2026-08-25T09:00:00Z",
@@ -141,17 +164,6 @@
       "tags": [
         "Elections",
         "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Isaiah Rashad: Tiny Desk Concert",
-      "link": "https://www.kosu.org/music/2026-08-25/isaiah-rashad-tiny-desk-concert",
-      "published": "2026-08-25T09:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
       ]
     },
     {
@@ -167,13 +179,35 @@
     },
     {
       "source": "KOSU",
-      "title": "A Better Way Norman set to close due to lack of funding",
-      "link": "https://www.kosu.org/norman-employment-program-to-close",
+      "title": "Did climate change cause this heat wave? Most likely, and here's why",
+      "link": "https://www.kosu.org/news/2026-08-25/did-climate-change-cause-this-heat-wave-most-likely-and-heres-why",
       "published": "2026-08-25T09:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Schools have ways to help elementary students beat the heat",
+      "link": "https://www.muskogeephoenix.com/news/schools-have-ways-to-help-elementary-students-beat-the-heat/article_02636652-4e72-4b98-9959-8bdbb3850b4a.html",
+      "published": "2026-08-25T08:46:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Tuesday classes at Oktaha canceled upon reports of social media threats",
+      "link": "https://www.muskogeephoenix.com/news/tuesday-classes-at-oktaha-canceled-upon-reports-of-social-media-threats/article_b6916fd7-e398-41e4-8034-ceed1e4f2cad.html",
+      "published": "2026-08-25T08:04:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Media"
       ]
     },
     {
@@ -685,17 +719,6 @@
       "tags": [
         "Housing",
         "Technology"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Tribes push back on federal plan for Colorado River water cuts",
-      "link": "https://ictnews.org/news/tribes-push-back-on-federal-plan-for-colorado-river-water-cuts/",
-      "published": "2026-08-21T19:35:41Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Land and Environment"
       ]
     },
     {
@@ -1808,18 +1831,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Lightning strike causes fire at Glenpool tank farm",
-      "link": "https://www.muskogeephoenix.com/news/lightning-strike-causes-fire-at-glenpool-tank-farm/article_cc02a6a1-839b-5b54-a7e3-b393197095c2.html",
-      "published": "2026-08-17T12:04:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Food and Agriculture",
-        "Weather"
-      ]
-    },
-    {
       "source": "Oklahoma Watch",
       "title": "The Secret Documents: Attorneys Unveil Insurance Scheme",
       "link": "https://oklahomawatch.org/2026/08/17/the-secret-documents-attorneys-unveil-insurance-scheme/",
@@ -1828,17 +1839,6 @@
       "native_why": "",
       "tags": [
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Teamsters Scholarship awarded",
-      "link": "https://www.muskogeephoenix.com/news/teamsters-scholarship-awarded/article_3f4ea591-02e9-5c59-b7e3-79587436c808.html",
-      "published": "2026-08-17T10:45:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
       ]
     },
     {
