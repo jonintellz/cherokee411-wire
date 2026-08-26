@@ -1,11 +1,81 @@
 {
-  "generated": "2026-08-25T23:41:10Z",
+  "generated": "2026-08-26T02:00:47Z",
   "stats": {
-    "items_before_dedup": 307,
-    "items_after_dedup": 295,
-    "duplicates_removed": 12
+    "items_before_dedup": 257,
+    "items_after_dedup": 257,
+    "duplicates_removed": 0
   },
   "items": [
+    {
+      "source": "NonDoc",
+      "title": "\u2018Ready for a comeback\u2019: Robert Franklin tops James Taylor for Republican state superintendent nomination",
+      "link": "https://nondoc.com/2026/08/25/ready-for-a-comeback-robert-franklin-tops-james-taylor-for-republican-state-superintendent-nomination/",
+      "published": "2026-08-26T02:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "NonDoc",
+      "title": "Kevin West wins GOP runoff for Oklahoma commissioner of labor",
+      "link": "https://nondoc.com/2026/08/25/kevin-west-wins-gop-runoff-for-oklahoma-commissioner-of-labor/",
+      "published": "2026-08-26T01:55:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Government"
+      ]
+    },
+    {
+      "source": "NonDoc",
+      "title": "N\u2019kiyla Jasmine Thomas wins U.S. Senate runoff, becomes Oklahoma\u2019s first \u2018democratic socialist\u2019 nominee",
+      "link": "https://nondoc.com/2026/08/25/nkiyla-jasmine-thomas-wins-u-s-senate-runoff-becomes-oklahomas-first-democratic-socialist-nominee/",
+      "published": "2026-08-26T01:38:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "National and World"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Voters reject State Question 844 affecting payments to local governments",
+      "link": "https://oklahomavoice.com/2026/08/25/voters-reject-state-question-844-affecting-payments-to-local-governments/",
+      "published": "2026-08-26T01:31:50Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Elections"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Chronic conditions persist in Alaska, but there are bright spots in latest health report",
+      "link": "https://ictnews.org/news/chronic-conditions-persist-in-alaska-but-there-are-bright-spots-in-latest-health-report/",
+      "published": "2026-08-26T01:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Health",
+        "Health"
+      ]
+    },
+    {
+      "source": "Oklahoma Watch",
+      "title": "Election Results",
+      "link": "https://oklahomawatch.org/2026/08/25/election-results-2/",
+      "published": "2026-08-25T23:55:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
     {
       "source": "Oklahoma Voice",
       "title": "Tennessee\u2019s Dolly Parton dies at 80 after a life of music and giving",
@@ -98,13 +168,12 @@
     },
     {
       "source": "KOSU",
-      "title": "South Carolina U.S. Senate runoff election will test Trump's endorsement",
-      "link": "https://www.kosu.org/news/2026-08-25/south-carolina-u-s-senate-runoff-election-will-test-trumps-endorsement",
+      "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
+      "link": "https://www.kosu.org/news/2026-08-25/sen-darline-graham-wins-gop-nomination-for-u-s-senate-in-south-carolina",
       "published": "2026-08-25T20:47:54Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "Elections",
         "National and World"
       ]
     },
@@ -150,6 +219,19 @@
       "native_why": "source beat",
       "tags": [
         "Public Safety"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80",
+      "link": "https://www.muskogeephoenix.com/natlnewsap/dolly-parton-music-star-actor-and-beloved-figure-who-spanned-generations-dies-at-80/article_8626b248-7ec5-57a1-8508-d7d9587c7b86.html",
+      "published": "2026-08-25T19:28:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture",
+        "Arts and Entertainment",
+        "History and Heritage"
       ]
     },
     {
@@ -240,19 +322,6 @@
       "native_why": "source beat",
       "tags": [
         "Government"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80",
-      "link": "https://www.muskogeephoenix.com/natlnewsap/dolly-parton-music-star-actor-and-beloved-figure-who-spanned-generations-dies-at-80/article_8626b248-7ec5-57a1-8508-d7d9587c7b86.html",
-      "published": "2026-08-25T16:11:19Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture",
-        "Arts and Entertainment",
-        "History and Heritage"
       ]
     },
     {
@@ -661,17 +730,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "Injury Collision: 8-23-26",
-      "link": "https://www.claremoreprogress.com/news/injury-collision-8-23-26/article_b116cd59-547b-4ca8-87b5-ccad51ddb76d.html",
-      "published": "2026-08-24T11:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Oklahoma Watch",
       "title": "Who\u2019s Calling?",
       "link": "https://oklahomawatch.org/2026/08/24/whos-calling/",
@@ -762,61 +820,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "What's happening Aug. 26-Sept. 1",
-      "link": "https://www.claremoreprogress.com/news/whats-happening-aug-26-sept-1/article_8c37b65e-747f-4f2c-a799-0e1c24024e2b.html",
-      "published": "2026-08-24T01:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "GET TO KNOW ROGERS COUNTY: Reggie Weygandt",
-      "link": "https://www.claremoreprogress.com/community/get-to-know-rogers-county-reggie-weygandt/article_60cf402e-d4f5-44aa-a546-51100c1f3d2d.html",
-      "published": "2026-08-24T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Donors provide record levels of support through gifts to RSU Foundation",
-      "link": "https://www.claremoreprogress.com/news/donors-provide-record-levels-of-support-through-gifts-to-rsu-foundation/article_6cbbf5eb-3080-499a-9887-3e1972cd23eb.html",
-      "published": "2026-08-23T22:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Route 66 monument placed in Catoosa",
-      "link": "https://www.claremoreprogress.com/community/route-66-monument-placed-in-catoosa/article_b2621476-8ba6-446e-8627-f11ab98aab84.html",
-      "published": "2026-08-23T14:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Transportation"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Claremore schools celebrate first-day traditions",
-      "link": "https://www.claremoreprogress.com/community/claremore-schools-celebrate-first-day-traditions/article_484c05ad-b3d5-4f18-bb4a-cd824f807aa1.html",
-      "published": "2026-08-23T14:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Fact check: Labor commissioner candidates talk #okleg records, regulations",
       "link": "https://nondoc.com/2026/08/23/fact-check-labor-commissioner-candidates-talk-okleg-records-regulations/",
@@ -827,28 +830,6 @@
         "Elections",
         "Government",
         "Courts and Law"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "RSU welcome week fosters community atmosphere",
-      "link": "https://www.claremoreprogress.com/news/rsu-welcome-week-fosters-community-atmosphere/article_14f45900-2dd7-4694-bf51-ac499e686846.html",
-      "published": "2026-08-23T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Tunes & Spoons continues mission of supporting Claremore",
-      "link": "https://www.claremoreprogress.com/community/tunes-spoons-continues-mission-of-supporting-claremore/article_b31d7fc0-e24b-456f-8d13-2aced58465b3.html",
-      "published": "2026-08-23T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -930,28 +911,6 @@
       "native_why": "",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "One year after Pillen announced McCook ICE jail, protests continue, governor doubles down",
-      "link": "https://ictnews.org/news/one-year-after-pillen-announced-mccook-ice-jail-protests-continue-governor-doubles-down/",
-      "published": "2026-08-22T02:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Rocklahoma XX is two weeks away: Set times announced for loudest weekend of year",
-      "link": "https://www.claremoreprogress.com/news/rocklahoma-xx-is-two-weeks-away-set-times-announced-for-loudest-weekend-of-year/article_ddd3a64f-fa3a-4957-9af1-080c1578fe20.html",
-      "published": "2026-08-22T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -1202,39 +1161,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "August events bring family fun to Rogers County",
-      "link": "https://www.claremoreprogress.com/community/august-events-bring-family-fun-to-rogers-county/article_23044d7d-1d68-4880-8c38-1da96272a3af.html",
-      "published": "2026-08-21T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "WORDS FROM THE HEART: Eternal urgency",
-      "link": "https://www.claremoreprogress.com/news/words-from-the-heart-eternal-urgency/article_7af7a14d-f0e5-465b-8d6b-1b7675b5f560.html",
-      "published": "2026-08-21T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Oologah residents without home internet",
-      "link": "https://www.claremoreprogress.com/news/oologah-residents-without-home-internet/article_ebd125b9-187f-45d7-8d2a-989238fe4850.html",
-      "published": "2026-08-21T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Technology"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma ends federal food program for schools with expanded hours",
       "link": "https://oklahomavoice.com/2026/08/20/oklahoma-ends-federal-food-program-for-schools-with-expanded-hours/",
@@ -1255,17 +1181,6 @@
       "tags": [
         "Elections",
         "Elections"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "TO DO: Kayak under the light of the moon on Claremore Lake",
-      "link": "https://www.claremoreprogress.com/community/to-do-kayak-under-the-light-of-the-moon-on-claremore-lake/article_596b948c-728f-4547-a6fe-ac512cf46264.html",
-      "published": "2026-08-20T19:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -1338,19 +1253,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "Cherokee Nation, RSU partner to expand film industry training",
-      "link": "https://www.claremoreprogress.com/news/cherokee-nation-rsu-partner-to-expand-film-industry-training/article_9635ddf8-7bd8-40a4-84e6-b793bfab6e43.html",
-      "published": "2026-08-20T16:00:00Z",
-      "native": true,
-      "native_why": "term: cherokee nation",
-      "tags": [
-        "Language and Culture",
-        "Arts and Entertainment",
-        "Business and Economy"
-      ]
-    },
-    {
       "source": "Oklahoma Watch",
       "title": "Has every educational statistic gotten worse since the Department of Education was created?",
       "link": "https://oklahomawatch.org/2026/08/20/has-every-educational-statistic-gotten-worse-since-the-department-of-education-was-created/",
@@ -1374,17 +1276,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "Justus-Tiawah begins school year with new expansion",
-      "link": "https://www.claremoreprogress.com/community/justus-tiawah-begins-school-year-with-new-expansion/article_ab831dd4-3625-4dd8-a561-2966dcb06902.html",
-      "published": "2026-08-20T14:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
       "source": "Native America Calling",
       "title": "Thursday, August 20, 2026 \u2013 Safety vs. privacy with tribal law enforcement surveillance cameras",
       "link": "https://www.nativeamericacalling.com/thursday-august-20-2026-safety-vs-privacy-with-tribal-law-enforcement-surveillance-cameras/",
@@ -1393,29 +1284,6 @@
       "native_why": "source beat",
       "tags": [
         "Technology"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Young riders take reins at Beat the Heat horse show",
-      "link": "https://www.claremoreprogress.com/news/young-riders-take-reins-at-beat-the-heat-horse-show/article_62e146ee-3346-4eb7-9f6c-35f779932b33.html",
-      "published": "2026-08-20T12:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Cherokee Nation celebrates healthcare milestone in Claremore",
-      "link": "https://www.claremoreprogress.com/news/cherokee-nation-celebrates-healthcare-milestone-in-claremore/article_0387ffee-5b9b-41e5-a3f3-09b18f986236.html",
-      "published": "2026-08-20T11:30:00Z",
-      "native": true,
-      "native_why": "term: cherokee nation",
-      "tags": [
-        "Health",
-        "Health"
       ]
     },
     {
@@ -1453,41 +1321,6 @@
         "Elections",
         "Government",
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "EXPLORE CLAREMORE HISTORY: Justice for all at Claremore\u2019s new city hall - 1911",
-      "link": "https://www.claremoreprogress.com/community/explore-claremore-history-justice-for-all-at-claremore-s-new-city-hall---1911/article_91a4b617-6d5e-4b07-921c-159623c3de12.html",
-      "published": "2026-08-20T01:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law",
-        "Government"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Local students on EOSC spring honor rolls",
-      "link": "https://www.claremoreprogress.com/news/local-students-on-eosc-spring-honor-rolls/article_bf8d18cb-afa9-483a-ba0a-22613cdb4531.html",
-      "published": "2026-08-20T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "RSU Student Veteran Center mural completed",
-      "link": "https://www.claremoreprogress.com/news/rsu-student-veteran-center-mural-completed/article_40108b1e-862b-4e2d-9519-3f5536de75a3.html",
-      "published": "2026-08-20T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Veterans"
       ]
     },
     {
@@ -1566,19 +1399,6 @@
       "tags": [
         "Housing",
         "Land and Environment"
-      ]
-    },
-    {
-      "source": "NonDoc",
-      "title": "Drummond: Secretary of State Ben Lepak should be fired after public intoxication arrest",
-      "link": "https://nondoc.com/2026/08/19/drummond-secretary-of-state-ben-lepak-should-resign-after-public-intoxication-arrest/",
-      "published": "2026-08-19T15:15:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety",
-        "Government",
-        "Crime"
       ]
     },
     {
@@ -1699,17 +1519,6 @@
       ]
     },
     {
-      "source": "NonDoc",
-      "title": "Trevor Pemberton, Zach West nominated as federal district judges",
-      "link": "https://nondoc.com/2026/08/19/trevor-pemberton-zach-west-nominated-as-federal-district-judges/",
-      "published": "2026-08-19T10:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
-      ]
-    },
-    {
       "source": "Muskogee Phoenix",
       "title": "Love Foundation grants fund Hilldale meals, summer programs",
       "link": "https://www.muskogeephoenix.com/news/love-foundation-grants-fund-hilldale-meals-summer-programs/article_60ce178f-b551-412c-8421-b4ff485205a4.html",
@@ -1729,17 +1538,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "NonDoc",
-      "title": "District 1 OK County: Jason Lowe, Kayla Baker compete in unusual Democratic runoff",
-      "link": "https://nondoc.com/2026/08/19/district-1-ok-county-jason-lowe-kayla-baker-compete-in-unusual-democratic-runoff/",
-      "published": "2026-08-19T06:01:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections"
       ]
     },
     {
@@ -1981,28 +1779,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "Rogers County Fair to tout family-friendly fun",
-      "link": "https://www.claremoreprogress.com/community/rogers-county-fair-to-tout-family-friendly-fun/article_10c16540-4ce2-487e-a891-0db9461f8f3b.html",
-      "published": "2026-08-18T01:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Events"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "What's happening: Aug. 19-25",
-      "link": "https://www.claremoreprogress.com/news/whats-happening-aug-19-25/article_86ced919-1fea-487f-ad79-06ddb4e485df.html",
-      "published": "2026-08-18T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Mazzei releases drug test in Oklahoma gubernatorial race. His opponent immediately cries foul",
       "link": "https://oklahomavoice.com/2026/08/17/mazzei-releases-drug-test-in-oklahoma-gubernatorial-race-his-opponent-immediately-cries-foul/",
@@ -2095,29 +1871,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "46th annual Bluegrass & Chili Festival to return",
-      "link": "https://www.claremoreprogress.com/news/46th-annual-bluegrass-chili-festival-to-return/article_4d5c12a5-637b-53b7-82c2-7275df30436c.html",
-      "published": "2026-08-17T14:59:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment",
-        "Events"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Cherokee Nation launches survey to collect community input on trails across reservation",
-      "link": "https://www.claremoreprogress.com/news/cherokee-nation-launches-survey-to-collect-community-input-on-trails-across-reservation/article_e72ba1f7-481b-57ea-92c3-c56b9d00a7fa.html",
-      "published": "2026-08-17T13:30:00Z",
-      "native": true,
-      "native_why": "term: cherokee nation",
-      "tags": [
-        "Transportation"
-      ]
-    },
-    {
       "source": "Native America Calling",
       "title": "Monday, August 17, 2026 \u2014 Remembering Hurricane Katrina more than 20 years later",
       "link": "https://www.nativeamericacalling.com/monday-august-17-2026-remembering-hurricane-katrina-more-than-20-years-later/",
@@ -2126,40 +1879,6 @@
       "native_why": "source beat",
       "tags": [
         "History and Heritage"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "OSU-OKC, OSUIT to expand degree pathways for CareerTech students",
-      "link": "https://www.claremoreprogress.com/news/osu-okc-osuit-to-expand-degree-pathways-for-careertech-students/article_941c4cf1-ef82-5dee-ace3-c55130ae4c8e.html",
-      "published": "2026-08-17T12:40:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Lightning strike causes fire at Glenpool tank farm",
-      "link": "https://www.claremoreprogress.com/news/lightning-strike-causes-fire-at-glenpool-tank-farm/article_2a8b155b-eb9a-5677-853b-629b0c6f1474.html",
-      "published": "2026-08-17T12:04:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Food and Agriculture",
-        "Weather"
-      ]
-    },
-    {
-      "source": "Oklahoma Watch",
-      "title": "The Secret Documents: Attorneys Unveil Insurance Scheme",
-      "link": "https://oklahomawatch.org/2026/08/17/the-secret-documents-attorneys-unveil-insurance-scheme/",
-      "published": "2026-08-17T11:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy"
       ]
     },
     {
@@ -2175,74 +1894,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "GET TO KNOW ROGERS COUNTY: Blake Hougland",
-      "link": "https://www.claremoreprogress.com/community/get-to-know-rogers-county-blake-hougland/article_41eb95a6-5309-43cc-b87d-c4b05284b5fd.html",
-      "published": "2026-08-17T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Memorial Museum breaks ground on new building",
-      "link": "https://www.claremoreprogress.com/community/memorial-museum-breaks-ground-on-new-building/article_7df03716-7532-42b2-b248-5e2a3327f208.html",
-      "published": "2026-08-16T19:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture",
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Petition push continues, suspicions rise",
-      "link": "https://www.claremoreprogress.com/news/petition-push-continues-suspicions-rise/article_bf963223-c036-4ab4-af46-eef97eae8fe1.html",
-      "published": "2026-08-16T16:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Animal shelter in need of adoptions",
-      "link": "https://www.claremoreprogress.com/news/animal-shelter-in-need-of-adoptions/article_f90ac294-ed62-4e8a-b096-016152e79551.html",
-      "published": "2026-08-16T15:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Housing"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Rogers County Detention deputy arrested for possible DUI",
-      "link": "https://www.claremoreprogress.com/news/rogers-county-detention-deputy-arrested-for-possible-dui/article_4f400b70-8bfd-4b0f-84e9-588dce8d13c7.html",
-      "published": "2026-08-15T19:01:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety",
-        "Crime"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "RSU hosts ROAR Day Tuesday, Aug. 11",
-      "link": "https://www.claremoreprogress.com/news/rsu-hosts-roar-day-tuesday-aug-11/article_5c43c81a-7072-4896-b8eb-acffb1b3ea14.html",
-      "published": "2026-08-15T14:39:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Events"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Western wildfire could be latest climate disaster to unsettle property insurance market",
       "link": "https://oklahomavoice.com/2026/08/15/western-wildfire-could-be-latest-climate-disaster-to-unsettle-property-insurance-market/",
@@ -2252,73 +1903,6 @@
       "tags": [
         "Weather",
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Tunes and Spoons returns to Claremore",
-      "link": "https://www.claremoreprogress.com/community/tunes-and-spoons-returns-to-claremore/article_bfb3d257-e549-4a89-9a89-ea3fbaf80018.html",
-      "published": "2026-08-15T03:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Events"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "EXPLORE CLAREMORE HISTORY: Year-round fun along Route 66: Claremore\u2019s Country Club, par 3",
-      "link": "https://www.claremoreprogress.com/news/explore-claremore-history-year-round-fun-along-route-66-claremore-s-country-club-par-3/article_11768e3a-9b0d-4619-aa35-d6eec02e9d83.html",
-      "published": "2026-08-15T02:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community",
-        "Transportation"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Rogers county road work continues",
-      "link": "https://www.claremoreprogress.com/news/rogers-county-road-work-continues/article_d7f9e014-56ae-415a-87f5-fde2d87b5f67.html",
-      "published": "2026-08-15T02:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Transportation"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Catoosa Historical Society honors family legacy",
-      "link": "https://www.claremoreprogress.com/community/catoosa-historical-society-honors-family-legacy/article_4f0a2c05-6552-460f-8e98-78c1e753d53d.html",
-      "published": "2026-08-15T01:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "History and Heritage"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "WORDS FROM THE HEART: Patience profits",
-      "link": "https://www.claremoreprogress.com/news/words-from-the-heart-patience-profits/article_bb8cc358-71ca-4428-8c14-2dfa2fb6af9a.html",
-      "published": "2026-08-15T01:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "RSU, Oklahoma CareerTech establish new pathway to college degrees",
-      "link": "https://www.claremoreprogress.com/news/rsu-oklahoma-careertech-establish-new-pathway-to-college-degrees/article_0bcd2571-dce8-44f5-a713-9c319f5806aa.html",
-      "published": "2026-08-15T01:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
       ]
     },
     {
@@ -3109,17 +2693,6 @@
       "native_why": "",
       "tags": [
         "Education"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "US House Ethics starts probe of abuse allegations against Ohio Rep. Max Miller at his request",
-      "link": "https://oklahomavoice.com/2026/08/05/repub/us-house-ethics-starts-probe-of-abuse-allegations-against-ohio-rep-max-miller-at-his-request/",
-      "published": "2026-08-05T14:25:52Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
