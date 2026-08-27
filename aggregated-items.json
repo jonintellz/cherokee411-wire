@@ -1,14 +1,170 @@
 {
-  "generated": "2026-08-26T23:40:22Z",
+  "generated": "2026-08-27T09:55:21Z",
   "stats": {
-    "items_before_dedup": 307,
-    "items_after_dedup": 307,
-    "duplicates_removed": 0
+    "items_before_dedup": 257,
+    "items_after_dedup": 256,
+    "duplicates_removed": 1
   },
   "items": [
     {
+      "source": "KOSU",
+      "title": "How a Chickasaw composer is tackling language revitalization through classical music",
+      "link": "https://www.kosu.org/jerod-tate-language-revitalization",
+      "published": "2026-08-27T09:01:00Z",
+      "native": true,
+      "native_why": "term: chickasaw",
+      "tags": [
+        "Language and Culture"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "School districts face a back-to-school math problem: The high price of diesel",
+      "link": "https://www.kosu.org/news/2026-08-27/school-districts-face-a-back-to-school-math-problem-the-high-price-of-diesel",
+      "published": "2026-08-27T09:01:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Oklahoma to receive over $230 million in Meta settlement",
+      "link": "https://www.kosu.org/meta-settlement-oklahoma",
+      "published": "2026-08-27T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "E.U.: Tiny Desk Concert",
+      "link": "https://www.kosu.org/music/2026-08-27/e-u-tiny-desk-concert",
+      "published": "2026-08-27T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Before an emergency hearing, the Kennedy Center's board threatens to demolish it",
+      "link": "https://www.kosu.org/news/2026-08-27/before-an-emergency-hearing-the-kennedy-centers-board-threatens-to-demolish-it",
+      "published": "2026-08-27T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Public Safety"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Tech companies and local officials are covering data center talks in NDAs",
+      "link": "https://www.kosu.org/news/2026-08-27/tech-companies-and-local-officials-are-covering-data-center-talks-in-ndas",
+      "published": "2026-08-27T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Andrew Tate is seeking bail in his extradition fight. Here's why that's unlikely",
+      "link": "https://www.kosu.org/news/2026-08-27/andrew-tate-is-seeking-bail-in-his-extradition-fight-heres-why-thats-unlikely",
+      "published": "2026-08-27T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats",
+      "link": "https://www.kosu.org/news/2026-08-27/jon-ossoff-usually-a-head-down-senator-has-found-a-formula-to-excite-democrats",
+      "published": "2026-08-27T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Nuclear regulator prepares to abandon decades-old radiation safety rule",
+      "link": "https://www.kosu.org/news/2026-08-27/nuclear-regulator-prepares-to-abandon-decades-old-radiation-safety-rule",
+      "published": "2026-08-27T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Sen. Ted Cruz's new book, 'Going Further,' tells the story of Justice Clarence Thomas",
+      "link": "https://www.kosu.org/2026-08-27/sen-ted-cruzs-new-book-going-further-tells-the-story-of-justice-clarence-thomas",
+      "published": "2026-08-27T08:47:27Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Louisville Bats pay homage to Negro league team with Black Caps jerseys",
+      "link": "https://www.kosu.org/sports/2026-08-27/louisville-bats-pay-homage-to-negro-league-team-with-black-caps-jerseys",
+      "published": "2026-08-27T08:46:48Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "Former Navajo Nation Council Delegate Harold Tunney Remembered for Service to Navajo Communities",
+      "link": "https://nativenewsonline.net/sovereignty/former-navajo-nation-council-delegate-harold-tunney-remembered-for-service-to-navajo-communities/",
+      "published": "2026-08-27T04:03:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Government",
+        "History and Heritage"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "Racism and the Attack on Native Voting Rights Ahead of the Midterms",
+      "link": "https://nativenewsonline.net/opinion/racism-and-the-attack-on-native-voting-rights-ahead-of-the-midterms/",
+      "published": "2026-08-27T04:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "10th ON Congress to meet for Tzi-Sho Session starting Sept. 8",
+      "link": "https://osagenews.org/10-th-on-congress-to-meet-for-tzi-sho-session-starting-sept-8/",
+      "published": "2026-08-26T23:52:58Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "National and World"
+      ]
+    },
+    {
       "source": "Native America Calling",
-      "title": "Thursday, August 27, 2026 \u2014 Native Bookshelf: \u201cTreat Them as Buffalo\u201d by Blair Palmer Yoxall",
+      "title": "Thursday, August 27, 2026 \u2014 Native Bookshelf: \u2018Treat Them as Buffalo\u2019 by Blair Palmer Yoxall",
       "link": "https://www.nativeamericacalling.com/thursday-august-27-2026-native-bookshelf-treat-them-as-buffalo-by-blair-palmer-yoxall/",
       "published": "2026-08-26T22:32:27Z",
       "native": true,
@@ -40,28 +196,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "What we know about the deadly flooding on the Nepal-Tibet border",
-      "link": "https://www.kosu.org/2026-08-26/what-we-know-about-the-deadly-flooding-on-the-nepal-tibet-border",
-      "published": "2026-08-26T21:11:43Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Large water leak creates headaches in El Reno",
-      "link": "https://www.kosu.org/el-reno-big-water-leak",
-      "published": "2026-08-26T20:55:17Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Land and Environment"
-      ]
-    },
-    {
       "source": "ICT",
       "title": "National Congress of American Indians urges tribes to advocate against proposed changes to National Historic Preservation Act regulations",
       "link": "https://ictnews.org/news/national-congress-of-american-indians-urges-tribes-to-advocate-against-proposed-changes-to-national-historic-preservation-act-regulations/",
@@ -71,41 +205,6 @@
       "tags": [
         "National and World",
         "Courts and Law"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Stitt calls on Oklahoma voters to decide if they want a constitutional convention",
-      "link": "https://www.kosu.org/stitt-constitutional-convention-sq848",
-      "published": "2026-08-26T20:44:24Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "The White House's preferred economic tools are hitting snags",
-      "link": "https://www.kosu.org/business/2026-08-26/the-white-houses-preferred-economic-tools-are-hitting-snags",
-      "published": "2026-08-26T20:29:45Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy",
-        "National and World"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Amid rising threats, a WNBA team calls in experts on violent extremism",
-      "link": "https://www.kosu.org/u-s-news/2026-08-26/amid-rising-threats-a-wnba-team-calls-in-experts-on-violent-extremism",
-      "published": "2026-08-26T20:19:24Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -119,84 +218,6 @@
         "Health",
         "Health",
         "Youth"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Dolly Parton's Tennessee hometown remembers their hero",
-      "link": "https://www.kosu.org/u-s-news/2026-08-26/dolly-partons-tennessee-hometown-remembers-their-hero",
-      "published": "2026-08-26T20:17:38Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "History and Heritage"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Trump touts power of his endorsement following South Sen. Darline Graham's primary win",
-      "link": "https://www.kosu.org/politics/2026-08-26/trump-touts-power-of-his-endorsement-following-south-sen-darline-grahams-primary-win",
-      "published": "2026-08-26T20:14:48Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Meta settlement means new restrictions on nighttime and school-time scrolling for kids",
-      "link": "https://www.kosu.org/2026-08-26/meta-settlement-means-new-restrictions-on-nighttime-and-school-time-scrolling-for-kids",
-      "published": "2026-08-26T20:14:43Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Youth"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "In Louisiana, NDAs covered up a data center deal that residents didn't know was coming",
-      "link": "https://www.kosu.org/u-s-news/2026-08-26/in-louisiana-ndas-covered-up-a-data-center-deal-that-residents-didnt-know-was-coming",
-      "published": "2026-08-26T20:14:39Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
-      "link": "https://www.kosu.org/arts-culture/2026-08-26/hollywoods-summer-box-office-is-glowing-but-the-numbers-come-with-startling-caveats",
-      "published": "2026-08-26T20:09:01Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Meta agrees to $17 billion settlement and new protections for teens",
-      "link": "https://www.kosu.org/business/2026-08-26/meta-agrees-to-17-billion-settlement-and-new-protections-for-teens",
-      "published": "2026-08-26T20:09:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Youth"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Colorado AG calls notification limits most important part of Meta settlement",
-      "link": "https://www.kosu.org/2026-08-26/colorado-ag-calls-notification-limits-most-important-part-of-meta-settlement",
-      "published": "2026-08-26T20:08:58Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -340,17 +361,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Jaycee Gideon crowned Miss Cherokee, Maggie Rhodes crowned Junior Miss Cherokee",
-      "link": "https://www.cherokeephoenix.org/news/jaycee-gideon-crowned-miss-cherokee-maggie-rhodes-crowned-junior-miss-cherokee/article_918184e7-bdbe-41b9-a0ef-888bb9fa28d2.html",
-      "published": "2026-08-26T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Youth"
-      ]
-    },
-    {
       "source": "Native News Online",
       "title": "5 Delicious Ways To Serve Gourmet Cured Ham",
       "link": "https://nativenewsonline.net/advertise/branded-voices/5-delicious-ways-to-serve-gourmet-cured-ham/",
@@ -370,28 +380,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Native News Online",
-      "title": "How Native Workers Can Document Retaliation Before It Disappears",
-      "link": "https://nativenewsonline.net/advertise/branded-voices/how-native-workers-can-document-retaliation-before-it-disappears/",
-      "published": "2026-08-26T14:44:36Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Native News Online",
-      "title": "How Driver Monitoring Software Improves Fleet Safety and Reduces Accidents",
-      "link": "https://nativenewsonline.net/advertise/branded-voices/how-driver-monitoring-software-improves-fleet-safety-and-reduces-accidents/",
-      "published": "2026-08-26T14:37:36Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Technology"
       ]
     },
     {
@@ -1364,19 +1352,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Tradition of Cane Hill Harvest Festival continues Sept. 19",
-      "link": "https://www.cherokeephoenix.org/news/tradition-of-cane-hill-harvest-festival-continues-sept-19/article_81665eac-aa1e-4103-ae0b-606a9e4ccbf4.html",
-      "published": "2026-08-21T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Arts and Entertainment",
-        "Food and Agriculture",
-        "Events"
-      ]
-    },
-    {
       "source": "Muskogee Phoenix",
       "title": "CHIEF CHAT: Restoring Cherokee as a thriving, active language",
       "link": "https://www.muskogeephoenix.com/news/chief-chat-restoring-cherokee-as-a-thriving-active-language/article_e8b0e77b-3e44-5553-bc19-6e8671425f88.html",
@@ -1603,18 +1578,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "CN breaks ground on $400 million health center",
-      "link": "https://www.cherokeephoenix.org/news/cn-breaks-ground-on-400-million-health-center/article_02b6f13b-3fd9-4159-ba5f-405a87403a82.html",
-      "published": "2026-08-20T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health",
-        "Health"
-      ]
-    },
-    {
       "source": "Native America Calling",
       "title": "Thursday, August 20, 2026 \u2013 Safety vs. privacy with tribal law enforcement surveillance cameras",
       "link": "https://www.nativeamericacalling.com/thursday-august-20-2026-safety-vs-privacy-with-tribal-law-enforcement-surveillance-cameras/",
@@ -1728,17 +1691,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Oklahoma kids use drugs at higher rates than the national average. A new initiative wants to change that.",
-      "link": "https://www.cherokeephoenix.org/news/oklahoma-kids-use-drugs-at-higher-rates-than-the-national-average-a-new-initiative-wants/article_6e24b013-7ca5-46a6-bd03-d93f56e1850c.html",
-      "published": "2026-08-19T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Youth"
-      ]
-    },
-    {
       "source": "Muskogee Phoenix",
       "title": "Cherokee Nation, RSU to launch college credit pathway for film students",
       "link": "https://www.muskogeephoenix.com/news/cherokee-nation-rsu-to-launch-college-credit-pathway-for-film-students/article_4ef9cef2-88ab-5b22-96ef-b2a60d617049.html",
@@ -1774,19 +1726,6 @@
         "Health",
         "Public Safety",
         "Health"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Here\u2019s why Oklahoma electric bills are going up and it\u2019s not just data centers",
-      "link": "https://www.cherokeephoenix.org/news/here-s-why-oklahoma-electric-bills-are-going-up-and-it-s-not-just-data/article_20adb817-3b1f-4bfb-93fd-415ab3817208.html",
-      "published": "2026-08-19T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections",
-        "Business and Economy",
-        "Land and Environment"
       ]
     },
     {
@@ -2027,17 +1966,6 @@
       ]
     },
     {
-      "source": "Osage News",
-      "title": "Tillman lifts State of Emergency 10 days after declaring it",
-      "link": "https://osagenews.org/tillman-lifts-state-of-emergency-10-days-after-declaring-it/",
-      "published": "2026-08-17T19:38:38Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Public Safety"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma company that operates Iowa nursing homes faces second lawsuit alleging unpaid bills",
       "link": "https://oklahomavoice.com/2026/08/17/repub/oklahoma-company-that-operates-iowa-nursing-homes-faces-second-lawsuit-alleging-unpaid-bills/",
@@ -2105,17 +2033,6 @@
       "tags": [
         "Weather",
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation celebrates 74th Cherokee National Holiday on Labor Day weekend",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-celebrates-74th-cherokee-national-holiday-on-labor-day-weekend/article_aef7702d-8036-4b0c-9746-58ed923e060b.html",
-      "published": "2026-08-15T10:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture"
       ]
     },
     {
@@ -2222,17 +2139,6 @@
       "native_why": "source beat",
       "tags": [
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Ani Art Center provides space and opportunity for Cherokee art",
-      "link": "https://www.cherokeephoenix.org/news/ani-art-center-provides-space-and-opportunity-for-cherokee-art/article_8f713edf-a179-4075-b751-7edc88d4aff8.html",
-      "published": "2026-08-14T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -2362,17 +2268,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Tahlequah Writers group to meet Aug. 15 in Tahlequah",
-      "link": "https://www.cherokeephoenix.org/news/tahlequah-writers-group-to-meet-aug-15-in-tahlequah/article_e77c4232-2e9d-4795-bcde-3b12a0566650.html",
-      "published": "2026-08-12T18:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "GOP candidates vow to tackle soaring insurance rates, but differ on solution",
       "link": "https://oklahomavoice.com/2026/08/12/gop-candidates-vow-to-tackle-soaring-insurance-rates-but-differ-on-solution/",
@@ -2482,18 +2377,6 @@
       "native": false,
       "native_why": "",
       "tags": [
-        "Health"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Tribal leaders highlight health facilities",
-      "link": "https://www.cherokeephoenix.org/news/tribal-leaders-highlight-health-facilities/article_5189ac6c-0645-411e-841a-bad53cd19ceb.html",
-      "published": "2026-08-11T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health",
         "Health"
       ]
     },
@@ -2616,17 +2499,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "A LOOK BACK: Cherokee National Holiday",
-      "link": "https://www.cherokeephoenix.org/news/a-look-back-cherokee-national-holiday/article_cf0da4a2-308b-480a-b45e-19f3c41eaa69.html",
-      "published": "2026-08-10T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture"
-      ]
-    },
-    {
       "source": "The Frontier",
       "title": "Lawmakers scrutinize Oklahoma\u2019s pretrial system after concerns over unconstitutional bail hearings",
       "link": "https://www.readfrontier.org/stories/lawmakers-scrutinize-oklahomas-pretrial-system-after-concerns-over-unconstitutional-bail-hearings/",
@@ -2679,18 +2551,6 @@
       "native_why": "source beat",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee National Holiday parade always a crowd favorite",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-national-holiday-parade-always-a-crowd-favorite/article_3862a552-1080-45f8-8a16-ffc9c3b169dd.html",
-      "published": "2026-08-09T12:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture",
-        "Community"
       ]
     },
     {
@@ -2776,18 +2636,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation issues Data Center Task Force Report, new policy actions",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-issues-data-center-task-force-report-new-policy-actions/article_9fe8dc40-2907-4c00-8606-33d735ffc51f.html",
-      "published": "2026-08-07T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Business and Economy",
-        "Government"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Educators face off in GOP race for Oklahoma superintendent",
       "link": "https://oklahomavoice.com/2026/08/07/educators-face-off-in-gop-race-for-oklahoma-superintendent/",
@@ -2796,28 +2644,6 @@
       "native_why": "",
       "tags": [
         "Education"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "One Fire Field a hub for Holiday fun",
-      "link": "https://www.cherokeephoenix.org/news/one-fire-field-a-hub-for-holiday-fun/article_9298eab7-b6c5-4412-89c5-170ce5ece214.html",
-      "published": "2026-08-07T10:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Scott, Justice selected to Leadership Oklahoma Class 39",
-      "link": "https://www.cherokeephoenix.org/news/scott-justice-selected-to-leadership-oklahoma-class-39/article_725229c0-71af-45cf-bbeb-692d444da8b8.html",
-      "published": "2026-08-07T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Courts and Law"
       ]
     },
     {
@@ -2866,41 +2692,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Q&A: Deputy Chief Warner gives insight to tribe\u2019s language revitalization efforts and path forward",
-      "link": "https://www.cherokeephoenix.org/news/q-a-deputy-chief-warner-gives-insight-to-tribe-s-language-revitalization-efforts-and-path/article_f4730e51-ae06-4ad1-861b-7c9bba161b80.html",
-      "published": "2026-08-06T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture",
-        "Features"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "CNH Youth Livestock Jackpot Show returns for third consecutive year",
-      "link": "https://www.cherokeephoenix.org/news/cnh-youth-livestock-jackpot-show-returns-for-third-consecutive-year/article_939dd16b-9a19-4b72-9f6d-96e3be7c2244.html",
-      "published": "2026-08-06T10:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Food and Agriculture",
-        "Youth"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "CN opens $30 million wellness center in Tahlequah",
-      "link": "https://www.cherokeephoenix.org/news/cn-opens-30-million-wellness-center-in-tahlequah/article_13f9a85f-6146-4c8a-b55e-5f3dccae099a.html",
-      "published": "2026-08-06T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
       "source": "Indianz",
       "title": "Native America Calling: Testing the limits of religious freedom in Indian Country",
       "link": "https://indianz.com/News/2026/08/06/native-america-calling-testing-the-limits-of-religious-freedom-in-indian-country/",
@@ -2912,39 +2703,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Annual Ozark Bug Crawl continues with creeping, crawling, floating and fluttering fun",
-      "link": "https://www.cherokeephoenix.org/news/annual-ozark-bug-crawl-continues-with-creeping-crawling-floating-and-fluttering-fun/article_16e46ce1-270b-4482-a006-284cd8a71656.html",
-      "published": "2026-08-05T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Q&A: Hoskin reflects on previous year and offers insight into tribe\u2019s goals moving forward",
-      "link": "https://www.cherokeephoenix.org/news/q-a-hoskin-reflects-on-previous-year-and-offers-insight-into-tribe-s-goals-moving/article_4489fec8-76da-4bab-a1ad-118cc4c177f9.html",
-      "published": "2026-08-04T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Phoenix Seven Feathers Awards Gala tickets available for purchase",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-phoenix-seven-feathers-awards-gala-tickets-available-for-purchase/article_07002b19-d927-40c6-979a-f676a8f86d69.html",
-      "published": "2026-08-04T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
       "source": "Indianz",
       "title": "Native America Calling: When is it OK to let a Native language die?",
       "link": "https://indianz.com/News/2026/08/04/native-america-calling-when-is-it-ok-to-let-a-native-language-die/",
@@ -2953,17 +2711,6 @@
       "native_why": "source beat",
       "tags": [
         "Language and Culture"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Phoenix announces Seven Feathers Award honorees",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-phoenix-announces-seven-feathers-award-honorees/article_cc5aba9d-9a54-49c0-afcc-9e3b3da7cf8d.html",
-      "published": "2026-08-03T18:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -3112,17 +2859,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation Remember the Removal Bike Ride 2027 applications available",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-remember-the-removal-bike-ride-2027-applications-available/article_0e6f8ecf-3e44-4f99-ba28-5ffda2782bf1.html",
-      "published": "2026-07-29T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "History and Heritage"
-      ]
-    },
-    {
       "source": "Indianz",
       "title": "Native America Calling: Southeast Alaska tribes closer to land designation more than a half century after being locked out",
       "link": "https://indianz.com/News/2026/07/29/native-america-calling-southeast-alaska-tribes-closer-to-land-designation-more-than-a-half-century-after-being-locked-out/",
@@ -3159,17 +2895,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation launches survey on citizen transportation",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-launches-survey-on-citizen-transportation/article_47c70c83-bb5b-4ac0-a934-b638daf06003.html",
-      "published": "2026-07-28T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Indianz",
       "title": "Native America Calling: Addressing public health with veterinary care in rural areas",
       "link": "https://indianz.com/News/2026/07/28/native-america-calling-addressing-public-health-with-veterinary-care-in-rural-areas/",
@@ -3193,17 +2918,6 @@
       ]
     },
     {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Phoenix Student Art Contest accepting submissions starting Aug. 1",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-phoenix-student-art-contest-accepting-submissions-starting-aug-1/article_ed66f0ff-3e0e-4839-b526-69f1df544437.html",
-      "published": "2026-07-27T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
       "source": "Indianz",
       "title": "Chuck Hoskin: Cherokee Nation renews vision for wellness",
       "link": "https://indianz.com/News/2026/07/27/chuck-hoskin-cherokee-nation-renews-vision-for-wellness/",
@@ -3212,224 +2926,6 @@
       "native_why": "source beat",
       "tags": [
         "Health"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation establishes task force on wellness centers",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-establishes-task-force-on-wellness-centers/article_bfb5bc50-602b-472b-9cf0-32e23b992734.html",
-      "published": "2026-07-23T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health",
-        "Government"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Chief Hoskin signs resolution supporting Northeastern State Repatriation Commission, Student wellness",
-      "link": "https://www.cherokeephoenix.org/news/chief-hoskin-signs-resolution-supporting-northeastern-state-repatriation-commission-student-wellness/article_d42472e4-d892-4b4f-a492-da2a1389bd19.html",
-      "published": "2026-07-22T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health",
-        "Education"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Will Rogers Memorial groundbreaking, wreath laying and flyover is Aug. 14",
-      "link": "https://www.cherokeephoenix.org/news/will-rogers-memorial-groundbreaking-wreath-laying-and-flyover-is-aug-14/article_6c300ffd-9537-4e7b-a28a-a34f5efc16ad.html",
-      "published": "2026-07-22T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation\u2019s Chief\u2019s Records Task Force releases findings on management of principal chief records",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-s-chief-s-records-task-force-releases-findings-on-management-of-principal-chief/article_bd0f4e67-23ed-46eb-b35d-47073f104239.html",
-      "published": "2026-07-21T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Government"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Inside the busy world of Tulsa breakout Indigenous filmmaker Loren Waters",
-      "link": "https://www.cherokeephoenix.org/news/inside-the-busy-world-of-tulsa-breakout-indigenous-filmmaker-loren-waters/article_a1a0bd65-5553-4673-8b85-b43d5c004407.html",
-      "published": "2026-07-20T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture",
-        "Land and Environment",
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Tahlequah Writers group to meet July 18 in Tahlequah",
-      "link": "https://www.cherokeephoenix.org/news/tahlequah-writers-group-to-meet-july-18-in-tahlequah/article_cd4dc633-9da3-49bd-8054-a9feebb106de.html",
-      "published": "2026-07-17T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Five Tribes call for oversight of prediction markets",
-      "link": "https://www.cherokeephoenix.org/news/five-tribes-call-for-oversight-of-prediction-markets/article_bd45b786-deac-406d-b452-e2093d73bc57.html",
-      "published": "2026-07-17T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Descendants of Sequoyah Reunion set for Sept. 5 in Tahlequah",
-      "link": "https://www.cherokeephoenix.org/news/descendants-of-sequoyah-reunion-set-for-sept-5-in-tahlequah/article_2a44d672-42e7-46a8-b687-e15527e3974a.html",
-      "published": "2026-07-15T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Citizenship",
-        "Community"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation leaders OK NSU partnership",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-leaders-ok-nsu-partnership/article_6f8b6f6c-882c-4950-903e-49ed29fad25a.html",
-      "published": "2026-07-15T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation leaders celebrate opening of new W.W. Hastings Hospital",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-leaders-celebrate-opening-of-new-w-w-hastings-hospital/article_e2a76eaa-733b-4826-8690-5f2812ccc1d3.html",
-      "published": "2026-07-10T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "As Native American boarding schools project ends, survivors describe feeling honored and restored",
-      "link": "https://www.cherokeephoenix.org/news/as-native-american-boarding-schools-project-ends-survivors-describe-feeling-honored-and-restored/article_1bfadf0f-f523-41ae-8c9d-13737f7c0262.html",
-      "published": "2026-07-03T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Descendants of Trail of Tears survivor James Downing gather to honor him",
-      "link": "https://www.cherokeephoenix.org/news/descendants-of-trail-of-tears-survivor-james-downing-gather-to-honor-him/article_1ec82533-df8c-4540-867a-3419fa178e47.html",
-      "published": "2026-07-01T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Citizenship",
-        "Transportation"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "2026 Cherokee Phoenix Homecoming T-shirt now available",
-      "link": "https://www.cherokeephoenix.org/news/2026-cherokee-phoenix-homecoming-t-shirt-now-available/article_d55e50b2-6a5b-4d47-9ab5-3f16eb59a7ce.html",
-      "published": "2026-07-01T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation language immersion school now independent",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-language-immersion-school-now-independent/article_d601dec4-1c80-4dc0-a74b-1ba81ab5684b.html",
-      "published": "2026-06-29T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Education",
-        "Language and Culture"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Record of service continues for Snell-Thomas as new Cherokee Nation registrar",
-      "link": "https://www.cherokeephoenix.org/news/record-of-service-continues-for-snell-thomas-as-new-cherokee-nation-registrar/article_3d3b4127-22cf-4734-8776-7013485556c6.html",
-      "published": "2026-06-24T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Tribe honors Juneteenth and highlights Freedmen legacy through historic map",
-      "link": "https://www.cherokeephoenix.org/news/tribe-honors-juneteenth-and-highlights-freedmen-legacy-through-historic-map/article_414f2fb5-755c-4e22-b59c-c02fa6e4b71b.html",
-      "published": "2026-06-23T08:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Citizenship",
-        "History and Heritage"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Cherokee Nation hosts annual CCO Conference for community organizations",
-      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-hosts-annual-cco-conference-for-community-organizations/article_972b67c2-952e-4bb1-8b4c-dd1017eb2c59.html",
-      "published": "2026-06-18T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Events"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Tahlequah Writers group to meet June 20 in Tahlequah",
-      "link": "https://www.cherokeephoenix.org/news/tahlequah-writers-group-to-meet-june-20-in-tahlequah/article_d9d49e32-1a17-41a7-adb2-f739126f10a8.html",
-      "published": "2026-06-17T13:30:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Oklahoma charter for immersion school to end",
-      "link": "https://www.cherokeephoenix.org/news/oklahoma-charter-for-immersion-school-to-end/article_9d0931d5-05bd-4ee7-abf6-34ae5282bdb5.html",
-      "published": "2026-06-16T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Education",
-        "Language and Culture"
       ]
     }
   ]
