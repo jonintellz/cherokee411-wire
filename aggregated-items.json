@@ -1,11 +1,22 @@
 {
-  "generated": "2026-09-06T13:42:09Z",
+  "generated": "2026-09-06T17:06:38Z",
   "stats": {
-    "items_before_dedup": 307,
-    "items_after_dedup": 294,
-    "duplicates_removed": 13
+    "items_before_dedup": 357,
+    "items_after_dedup": 348,
+    "duplicates_removed": 9
   },
   "items": [
+    {
+      "source": "KOSU",
+      "title": "German exit polls suggest far-right party has big lead in regional election",
+      "link": "https://www.kosu.org/news/2026-09-06/german-exit-polls-suggest-far-right-party-has-big-lead-in-regional-election",
+      "published": "2026-09-06T16:36:48Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
     {
       "source": "KOSU",
       "title": "Trump issues new executive orders on beef sales to pacify American cattle ranchers",
@@ -142,6 +153,17 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "REMEMBER THE LADIES: Mary Parish among first to document Tulsa Race Massacre",
+      "link": "https://www.muskogeephoenix.com/news/remember-the-ladies-mary-parish-among-first-to-document-tulsa-race-massacre/article_70e03be9-e417-4534-a549-2cf01aedfb64.html",
+      "published": "2026-09-06T11:27:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "History and Heritage"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Labor unions are growing, but where depends on state politics",
       "link": "https://oklahomavoice.com/2026/09/06/repub/labor-unions-are-growing-but-where-depends-on-state-politics/",
@@ -153,14 +175,15 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Sunday Puzzle: SPA Day",
-      "link": "https://www.kosu.org/arts-culture/2026-09-06/sunday-puzzle-spa-day",
-      "published": "2026-09-06T11:00:00Z",
+      "source": "Claremore Progress",
+      "title": "School gains playground from Beale donation",
+      "link": "https://www.claremoreprogress.com/news/school-gains-playground-from-beale-donation/article_31809b2b-34ee-4308-b8e7-cec0ce9b790f.html",
+      "published": "2026-09-06T08:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "General"
+        "Education",
+        "Community"
       ]
     },
     {
@@ -172,6 +195,17 @@
       "native_why": "",
       "tags": [
         "Land and Environment"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Grand jury proponents short of goal; judge to make ultimate decision",
+      "link": "https://www.claremoreprogress.com/news/grand-jury-proponents-short-of-goal-judge-to-make-ultimate-decision/article_35dbcf04-effb-4c6b-905e-5cb5b5912850.html",
+      "published": "2026-09-06T05:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law"
       ]
     },
     {
@@ -209,28 +243,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "CHIEF'S ADDRESS: State of the Nation address last for Hoskin, Warner",
-      "link": "https://www.tahlequahdailypress.com/news/chiefs-address-state-of-the-nation-address-last-for-hoskin-warner/article_4cbb6f2a-f88b-44b5-afa7-890d7dd1bcf0.html",
-      "published": "2026-09-05T17:45:00Z",
-      "native": true,
-      "native_why": "term: hoskin",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "Local fire departments aiming to 'Fill the Boot' for MDA",
-      "link": "https://www.tahlequahdailypress.com/news/local-fire-departments-aiming-to-fill-the-boot-for-mda/article_144c9d48-adab-4999-b73c-9125240cb55e.html",
-      "published": "2026-09-05T15:39:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Judge criticizes Trump pressure on prosecutors on reflecting pool vandalism charges",
       "link": "https://oklahomavoice.com/2026/09/05/repub/judge-criticizes-trump-pressure-on-prosecutors-on-reflecting-pool-vandalism-charges/",
@@ -242,23 +254,12 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "HOLIDAY ART: Cherokee Homecoming Show features wide range of cultural pieces",
-      "link": "https://www.tahlequahdailypress.com/news/holiday-art-cherokee-homecoming-show-features-wide-range-of-cultural-pieces/article_f6318352-aa74-40d2-9fc8-7a47836c10ca.html",
+      "link": "https://www.muskogeephoenix.com/news/holiday-art-cherokee-homecoming-show-features-wide-range-of-cultural-pieces/article_a6165da8-99be-5c68-9b9c-296ebab20152.html",
       "published": "2026-09-05T15:00:00Z",
       "native": false,
       "native_why": "",
-      "tags": [
-        "Language and Culture"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "Inter-Tribal Powwow showcases community, Hoskin's departure",
-      "link": "https://www.tahlequahdailypress.com/news/inter-tribal-powwow-showcases-community-hoskins-departure/article_676dca90-09c7-43cb-a4fb-3208c03ec2a8.html",
-      "published": "2026-09-05T14:00:00Z",
-      "native": true,
-      "native_why": "term: tribal",
       "tags": [
         "Language and Culture"
       ]
@@ -311,19 +312,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Voter registration form being distributed by nonprofit through mail",
-      "link": "https://www.tahlequahdailypress.com/news/voter-registration-form-being-distributed-by-nonprofit-through-mail/article_83264bb0-ed59-475a-bc2e-bda6539a794c.html",
-      "published": "2026-09-05T08:15:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Community",
-        "Elections"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Muskogee public safety complex draws property lawsuit as past debts loom",
       "link": "https://nondoc.com/2026/09/05/muskogee-public-safety-complex-draws-property-lawsuit-as-past-debts-loom/",
@@ -344,6 +332,72 @@
       "native_why": "source beat",
       "tags": [
         "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "EXPLORE CLAREMORE HISTORY: Splish! Splash! \u2014 The Frank Reed Wading Pool at Claremore\u2019s City Hall Park",
+      "link": "https://www.claremoreprogress.com/news/explore-claremore-history-splish-splash-the-frank-reed-wading-pool-at-claremore-s-city-hall/article_43c908ad-6671-4cf9-9ee6-e9171aab0e3e.html",
+      "published": "2026-09-05T01:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Government"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "RSU to host Weight Stigma Awareness Week events Sept. 8-9",
+      "link": "https://www.claremoreprogress.com/news/rsu-to-host-weight-stigma-awareness-week-events-sept-8-9/article_47b01722-eab8-4600-803a-97309d834edb.html",
+      "published": "2026-09-05T00:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Community"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "GET TO KNOW ROGERS COUNTY: Zack Palmer",
+      "link": "https://www.claremoreprogress.com/news/get-to-know-rogers-county-zack-palmer/article_21ad238e-5a25-4d8a-8530-e82ab0accc96.html",
+      "published": "2026-09-05T00:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Features"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Catoosa explores energy efficiency with strategic plan underway",
+      "link": "https://www.claremoreprogress.com/news/catoosa-explores-energy-efficiency-with-strategic-plan-underway/article_a66c1647-aba9-48cf-adf9-36728d959a89.html",
+      "published": "2026-09-05T00:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Land and Environment"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "MoH concerts provide sense of community",
+      "link": "https://www.claremoreprogress.com/community/moh-concerts-provide-sense-of-community/article_cd6f767a-9017-4197-bd0d-22a9a270e7aa.html",
+      "published": "2026-09-05T00:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "What's happening: Sept. 9-15",
+      "link": "https://www.claremoreprogress.com/community/whats-happening-sept-9-15/article_51f798c9-11b5-4884-9a4c-01e881a510a0.html",
+      "published": "2026-09-05T00:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Features"
       ]
     },
     {
@@ -493,15 +547,14 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Audition dates set for TCP's 'Calendar Girls'",
-      "link": "https://www.tahlequahdailypress.com/community/arts-entertainment/audition-dates-set-for-tcps-calendar-girls/article_898b7dce-6c34-413e-8baa-db714f2cf1c7.html",
-      "published": "2026-09-04T17:00:00Z",
-      "native": false,
-      "native_why": "",
+      "source": "Claremore Progress",
+      "title": "Cherokee Nation education tours available for fall",
+      "link": "https://www.claremoreprogress.com/news/cherokee-nation-education-tours-available-for-fall/article_31cc954b-c109-5b55-bcae-1020a7dfb3a8.html",
+      "published": "2026-09-04T16:35:00Z",
+      "native": true,
+      "native_why": "term: cherokee nation",
       "tags": [
-        "Government",
-        "Events"
+        "Education"
       ]
     },
     {
@@ -523,6 +576,17 @@
       "published": "2026-09-04T16:23:17Z",
       "native": true,
       "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Brittany Denny-Davis named as executive director of Human Services",
+      "link": "https://www.claremoreprogress.com/news/brittany-denny-davis-named-as-executive-director-of-human-services/article_633e95ff-dedc-5b03-bbea-9f26336a1686.html",
+      "published": "2026-09-04T16:20:00Z",
+      "native": false,
+      "native_why": "",
       "tags": [
         "General"
       ]
@@ -551,6 +615,17 @@
       ]
     },
     {
+      "source": "Cherokee Phoenix",
+      "title": "FBI sets $25,000 minimum reward for dozens of unsolved Indian Country cases",
+      "link": "https://www.cherokeephoenix.org/news/fbi-sets-25-000-minimum-reward-for-dozens-of-unsolved-indian-country-cases/article_c7025cc4-4581-49be-9649-88fdf978d9f4.html",
+      "published": "2026-09-04T15:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Federal appeals court to consider Louisiana\u2019s arguments for banning telehealth abortion",
       "link": "https://oklahomavoice.com/2026/09/04/repub/federal-appeals-court-to-consider-louisianas-arguments-for-banning-telehealth-abortion/",
@@ -571,19 +646,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "COLUMN: Get ready for the Cherokee County Fair",
-      "link": "https://www.tahlequahdailypress.com/news/column-get-ready-for-the-cherokee-county-fair/article_0da68b1c-e697-48fa-964b-2d4e81240be2.html",
-      "published": "2026-09-04T13:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Opinion",
-        "Opinion",
-        "Events"
       ]
     },
     {
@@ -621,40 +683,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "CHIEF CHAT: Cherokee.gov: Making your government easier to reach",
-      "link": "https://www.tahlequahdailypress.com/news/chief-chat-cherokee-gov-making-your-government-easier-to-reach/article_e092a92d-2183-4978-88bd-3ef3fa52579c.html",
-      "published": "2026-09-04T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Opinion",
-        "Opinion"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "Tahlequah City Council to consider Flock camera contract",
-      "link": "https://www.tahlequahdailypress.com/news/tahlequah-city-council-to-consider-flock-camera-contract/article_e474c82c-9733-4e03-a727-1720a8e9103e.html",
-      "published": "2026-09-04T12:25:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Government"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "Cherokee Nation opens new Sequoyah High School Academic Building, Multi-Purpose Facility",
-      "link": "https://www.tahlequahdailypress.com/news/cherokee-nation-opens-new-sequoyah-high-school-academic-building-multi-purpose-facility/article_92c09287-03a3-49ab-9b2c-f3f87dbc9cbc.html",
-      "published": "2026-09-04T12:15:00Z",
-      "native": true,
-      "native_why": "term: cherokee nation",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
       "source": "Muskogee Phoenix",
       "title": "Police Report Aug. 31-Sept.3",
       "link": "https://www.muskogeephoenix.com/news/police-report-aug-31-sept-3/article_178b366f-dc84-48a6-b4e8-baec60420a4a.html",
@@ -688,17 +716,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Kiwanis Club of Tahlequah to conduct Pajama Drive",
-      "link": "https://www.tahlequahdailypress.com/news/kiwanis-club-of-tahlequah-to-conduct-pajama-drive/article_e43fdc1b-2f23-4a24-b0d6-d2925c0d4a11.html",
-      "published": "2026-09-04T10:45:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community"
-      ]
-    },
-    {
       "source": "Muskogee Phoenix",
       "title": "Muskogee Area Literacy Council hosts International Literacy Day celebration",
       "link": "https://www.muskogeephoenix.com/news/muskogee-area-literacy-council-hosts-international-literacy-day-celebration/article_8a681b16-24a5-4165-a10c-988c434501f6.html",
@@ -708,17 +725,6 @@
       "tags": [
         "Government",
         "Events"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "Elk City man accused of extortion requests disqualification of presiding judge",
-      "link": "https://www.tahlequahdailypress.com/news/elk-city-man-accused-of-extortion-requests-disqualification-of-presiding-judge/article_de14d1da-59b8-4965-8656-7a2b9a25f547.html",
-      "published": "2026-09-04T10:07:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
       ]
     },
     {
@@ -748,9 +754,20 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
+      "source": "Cherokee Phoenix",
+      "title": "New buildings open on Sequoyah school campus",
+      "link": "https://www.cherokeephoenix.org/news/new-buildings-open-on-sequoyah-school-campus/article_2daef511-7958-446a-8903-95b5f762024a.html",
+      "published": "2026-09-04T08:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
       "title": "MEATLESS MEALS: Some eat less for heath reasons, others against animal cruelty",
-      "link": "https://www.tahlequahdailypress.com/news/meatless-meals-some-eat-less-for-heath-reasons-others-against-animal-cruelty/article_02c0ed4a-1e48-41e6-9121-d12d7fbf6827.html",
+      "link": "https://www.muskogeephoenix.com/news/meatless-meals-some-eat-less-for-heath-reasons-others-against-animal-cruelty/article_8f13468d-867f-5eb0-8604-be3d37c3344c.html",
       "published": "2026-09-04T08:00:00Z",
       "native": false,
       "native_why": "",
@@ -777,6 +794,40 @@
       "published": "2026-09-04T01:00:00Z",
       "native": true,
       "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "TO DO: Spend the night at Will Rogers Memorial Museum",
+      "link": "https://www.claremoreprogress.com/news/to-do-spend-the-night-at-will-rogers-memorial-museum/article_495df347-70e0-45f7-9762-4765fe5b82f3.html",
+      "published": "2026-09-04T00:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture",
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "People first: Nikki Webster shares the secret to her success",
+      "link": "https://www.claremoreprogress.com/news/people-first-nikki-webster-shares-the-secret-to-her-success/article_0e66ce54-77a0-4dfb-99d2-3b916beca6ce.html",
+      "published": "2026-09-04T00:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "RSU to close for Labor Day",
+      "link": "https://www.claremoreprogress.com/news/rsu-to-close-for-labor-day/article_329d2544-1004-4d90-b978-55a5870a9550.html",
+      "published": "2026-09-04T00:00:00Z",
+      "native": false,
+      "native_why": "",
       "tags": [
         "General"
       ]
@@ -875,28 +926,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "THS aviation program continues to soar",
-      "link": "https://www.tahlequahdailypress.com/news/ths-aviation-program-continues-to-soar/article_dfdbe89d-540d-428b-ad4c-6a3504842775.html",
-      "published": "2026-09-03T14:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "Chief Hoskin to deliver final State of the Nation Address Saturday",
-      "link": "https://www.tahlequahdailypress.com/news/chief-hoskin-to-deliver-final-state-of-the-nation-address-saturday/article_69cb4561-c63d-4d73-bf58-64d6cb577a42.html",
-      "published": "2026-09-03T14:13:00Z",
-      "native": true,
-      "native_why": "term: hoskin",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "ICT",
       "title": "ICT and Native Voice One Partner to Launch Weekly National Radio News Program",
       "link": "https://ictnews.org/the-press-pool/ict-and-native-voice-one-partner-to-launch-weekly-national-radio-news-program/",
@@ -919,6 +948,17 @@
       ]
     },
     {
+      "source": "Claremore Progress",
+      "title": "Rogers State University to offer first three-year Bachelor\u2019s Degree",
+      "link": "https://www.claremoreprogress.com/news/rogers-state-university-to-offer-first-three-year-bachelor-s-degree/article_9410f71e-81e8-4539-98eb-d138971db728.html",
+      "published": "2026-09-03T13:03:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Thursday, September 3, 2026 \u2014 Osage school closure delivers blow to tribe\u2019s language revitalization",
       "link": "https://www.nativeamericacalling.com/thursday-september-3-2026-osage-school-closure-delivers-blow-to-tribes-language-revitalization/",
@@ -931,26 +971,49 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "NSU ranks among TIME\u2019s top 500 colleges nationwide",
-      "link": "https://www.tahlequahdailypress.com/news/nsu-ranks-among-time-s-top-500-colleges-nationwide/article_9c336f1c-e52f-407a-a258-92e9a686cdf1.html",
-      "published": "2026-09-03T11:45:00Z",
+      "source": "Claremore Progress",
+      "title": "Justice Department files a statement of interest in support of the primary aluminum smelter project in Inola, Oklahoma",
+      "link": "https://www.claremoreprogress.com/news/justice-department-files-a-statement-of-interest-in-support-of-the-primary-aluminum-smelter-project/article_6feac2af-1e67-44cc-9138-071d0b42e611.html",
+      "published": "2026-09-03T13:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "Education",
-        "National and World"
+        "Elections",
+        "Courts and Law"
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "National debt rose to $14 trillion, equal to $117,000 for each U.S. citizen",
-      "link": "https://www.tahlequahdailypress.com/news/national-debt-rose-to-14-trillion-equal-to-117-000-for-each-u-s-citizen/article_9a71577f-7588-408e-b798-e44a47c1c218.html",
-      "published": "2026-09-03T11:25:00Z",
+      "source": "Claremore Progress",
+      "title": "WORDS FROM THE HEART: Jesus loves kids",
+      "link": "https://www.claremoreprogress.com/news/words-from-the-heart-jesus-loves-kids/article_d48f1453-b9b2-4279-a14b-0ce4ccf0175d.html",
+      "published": "2026-09-03T13:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "General"
+        "Features",
+        "Youth"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Hospital expands large animal care",
+      "link": "https://www.claremoreprogress.com/news/hospital-expands-large-animal-care/article_643f6ad4-46b3-470e-8eaf-78297554eea4.html",
+      "published": "2026-09-03T12:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Cusick named director of communications and marketing at RSU",
+      "link": "https://www.claremoreprogress.com/news/cusick-named-director-of-communications-and-marketing-at-rsu/article_3337c0da-019f-4fe9-854e-0c92f932443c.html",
+      "published": "2026-09-03T12:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
       ]
     },
     {
@@ -978,6 +1041,17 @@
       ]
     },
     {
+      "source": "Claremore Progress",
+      "title": "Resource fair aims to prevent overdoses",
+      "link": "https://www.claremoreprogress.com/news/resource-fair-aims-to-prevent-overdoses/article_fc3e17ee-09b3-41dd-b06f-837cfc42793a.html",
+      "published": "2026-09-03T10:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Events"
+      ]
+    },
+    {
       "source": "ICT",
       "title": "Montana state officials, tribes agree to settle Indian education lawsuit",
       "link": "https://ictnews.org/news/education/montana-state-officials-tribes-agree-to-settle-indian-education-lawsuit/",
@@ -990,14 +1064,25 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Auditor gives green light to District 2 Circuit Engineering District",
-      "link": "https://www.tahlequahdailypress.com/news/auditor-gives-green-light-to-district-2-circuit-engineering-district/article_cc45c569-cda4-481f-abff-0f7c6439606c.html",
+      "source": "Claremore Progress",
+      "title": "Will Rogers Turnpike to expand to six lanes",
+      "link": "https://www.claremoreprogress.com/news/will-rogers-turnpike-to-expand-to-six-lanes/article_b19c7cd7-cbe8-4d5c-9805-e3f838c86752.html",
       "published": "2026-09-03T08:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "Government"
+        "Transportation"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Radio host warns of dangers related to smelter",
+      "link": "https://www.claremoreprogress.com/news/radio-host-warns-of-dangers-related-to-smelter/article_67895e8e-1f4e-48fb-961b-2a3f3b89b460.html",
+      "published": "2026-09-03T07:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -1045,17 +1130,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Tahlequah's airport finally getting tarmac repaired, expanding",
-      "link": "https://www.tahlequahdailypress.com/news/tahlequahs-airport-finally-getting-tarmac-repaired-expanding/article_c5a02064-48b0-4ddb-940d-6a7bbf4954cf.html",
-      "published": "2026-09-02T17:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Transportation"
-      ]
-    },
-    {
       "source": "Oklahoma Watch",
       "title": "Eye on Oklahoma: Eliminating Tenure",
       "link": "https://oklahomawatch.org/2026/09/02/eye-on-oklahoma-eliminating-tenure/",
@@ -1064,6 +1138,17 @@
       "native_why": "",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Will Rogers Library hosting September fun",
+      "link": "https://www.claremoreprogress.com/news/will-rogers-library-hosting-september-fun/article_2ae6fda3-45fe-4e57-974b-d393dcab55da.html",
+      "published": "2026-09-02T16:57:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Community"
       ]
     },
     {
@@ -1113,17 +1198,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Man headed to trial in child sex abuse case",
-      "link": "https://www.tahlequahdailypress.com/news/man-headed-to-trial-in-child-sex-abuse-case/article_f4e52070-688c-4f51-a5e1-5740941e28af.html",
-      "published": "2026-09-02T15:19:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Legal aid for immigrant kids remains in question after Trump administration pulls contract",
       "link": "https://oklahomavoice.com/2026/09/02/repub/legal-aid-for-immigrant-kids-remains-in-question-after-trump-administration-pulls-contract/",
@@ -1159,17 +1233,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "NSU ranked No. 7 nationally for rural value and social mobility",
-      "link": "https://www.tahlequahdailypress.com/news/nsu-ranked-no-7-nationally-for-rural-value-and-social-mobility/article_d63f6cec-e88b-4b7c-ab30-85fd27ab40df.html",
-      "published": "2026-09-02T14:45:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Muskogee Phoenix",
       "title": "Lake Land Area OK Team to host Project Leader Workshop Sept. 12",
       "link": "https://www.muskogeephoenix.com/news/lake-land-area-ok-team-to-host-project-leader-workshop-sept-12/article_cb30067a-f9d7-5a1c-8e58-7224ee4ea7fd.html",
@@ -1193,28 +1256,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Planning Commission's involvement in road approvals still in question",
-      "link": "https://www.tahlequahdailypress.com/news/planning-commissions-involvement-in-road-approvals-still-in-question/article_b6a76e1f-fe4b-4cba-ae71-87fb039219e7.html",
-      "published": "2026-09-02T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "Police chief won't recommend renewal of Flock camera contract",
-      "link": "https://www.tahlequahdailypress.com/news/police-chief-wont-recommend-renewal-of-flock-camera-contract/article_c4f566b0-e947-49e0-b96d-4699ce79d1bd.html",
-      "published": "2026-09-02T12:42:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety"
-      ]
-    },
-    {
       "source": "Oklahoma Watch",
       "title": "Stitt\u2019s Tenure Ban Is Costing Oklahoma\u2019s Rural Universities Their Top Candidates",
       "link": "https://oklahomawatch.org/2026/09/02/stitts-tenure-ban-is-costing-oklahomas-rural-universities-their-top-candidates/",
@@ -1223,6 +1264,18 @@
       "native_why": "",
       "tags": [
         "Elections"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Rogers County burn ban takes effect following emergency commissioners meeting",
+      "link": "https://www.claremoreprogress.com/news/rogers-county-burn-ban-takes-effect-following-emergency-commissioners-meeting/article_e748caad-a308-4277-97ea-f133785523ab.html",
+      "published": "2026-09-02T10:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Public Safety",
+        "Government"
       ]
     },
     {
@@ -1471,28 +1524,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Circus in Tahlequah features time-honored acts, petting zoo for kids",
-      "link": "https://www.tahlequahdailypress.com/news/circus-in-tahlequah-features-time-honored-acts-petting-zoo-for-kids/article_c0078bfa-cdd9-4238-ad9c-cc90efe9d967.html",
-      "published": "2026-09-01T12:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Youth"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "Internet service still an issue in some areas of state",
-      "link": "https://www.tahlequahdailypress.com/news/internet-service-still-an-issue-in-some-areas-of-state/article_5374cc45-e691-4c9f-8b08-9f8827a2764e.html",
-      "published": "2026-09-01T11:14:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Technology"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Expanded Epic program gives students, including Afghan refugees, \u2018second chance\u2019 at high school",
       "link": "https://oklahomavoice.com/2026/09/01/expanded-epic-program-gives-students-including-afghan-refugees-second-chance-at-high-school/",
@@ -1501,17 +1532,6 @@
       "native_why": "",
       "tags": [
         "Education"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "NORA to host rural summit",
-      "link": "https://www.tahlequahdailypress.com/news/nora-to-host-rural-summit/article_a35b8cf5-2642-4152-8e6d-ada6995b7e80.html",
-      "published": "2026-09-01T10:20:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -1538,6 +1558,17 @@
       ]
     },
     {
+      "source": "Cherokee Phoenix",
+      "title": "CNH SCHEDULE CHANGE: Elders Fun Day event time and location moved for Friday",
+      "link": "https://www.cherokeephoenix.org/news/cnh-schedule-change-elders-fun-day-event-time-and-location-moved-for-friday/article_8fe1dbd1-572d-4a0b-b0ff-2ee793d7a160.html",
+      "published": "2026-09-01T08:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Muskogee Phoenix",
       "title": "Uncooked produce surprises visitors at Muskogee Farmers Market's Raw Crazy",
       "link": "https://www.muskogeephoenix.com/news/uncooked-produce-surprises-visitors-at-muskogee-farmers-markets-raw-crazy/article_b91a78ad-b90c-432e-8524-923345ef322d.html",
@@ -1558,6 +1589,17 @@
       "native_why": "source beat",
       "tags": [
         "Food and Agriculture"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "What's happening: Sept. 2-8",
+      "link": "https://www.claremoreprogress.com/community/whats-happening-sept-2-8/article_8c5405f3-0ade-4930-8ad4-d6ce39477e68.html",
+      "published": "2026-09-01T00:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Features"
       ]
     },
     {
@@ -1631,32 +1673,9 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "GRAMMAR DOG: Are you ready for the last of the [R]s?",
-      "link": "https://www.tahlequahdailypress.com/news/grammar-dog-are-you-ready-for-the-last-of-the-r-s/article_f63b0750-650b-4c39-800d-9d3e117c5f29.html",
-      "published": "2026-08-31T16:15:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Opinion"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "GRDA Police share boating, floating tips ahead of holiday weekend",
-      "link": "https://www.tahlequahdailypress.com/news/grda-police-share-boating-floating-tips-ahead-of-holiday-weekend/article_2b708b14-5a12-41c8-9986-10a203a1dcdd.html",
-      "published": "2026-08-31T16:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture",
-        "Public Safety"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "TCP's 'You're a Good Man Charlie Brown' opens Sept. 11",
-      "link": "https://www.tahlequahdailypress.com/community/arts-entertainment/tcps-youre-a-good-man-charlie-brown-opens-sept-11/article_2b73e225-3eb5-4a85-83df-193cd116193a.html",
+      "link": "https://www.muskogeephoenix.com/community/arts-entertainment/tcps-youre-a-good-man-charlie-brown-opens-sept-11/article_85e2699f-4b58-5530-9ed8-3b5b32bdfd8c.html",
       "published": "2026-08-31T15:30:00Z",
       "native": false,
       "native_why": "",
@@ -1665,14 +1684,14 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "PLAYING THE GAMES Women make their mark at Traditional Native Games Championship",
-      "link": "https://www.tahlequahdailypress.com/news/playing-the-games-women-make-their-mark-at-traditional-native-games-championship/article_8fd90b79-c8e2-4945-8f09-cd92d8d83403.html",
-      "published": "2026-08-31T14:45:00Z",
-      "native": false,
-      "native_why": "",
+      "source": "Cherokee Phoenix",
+      "title": "Remodel of historic Attucks School continues",
+      "link": "https://www.cherokeephoenix.org/news/remodel-of-historic-attucks-school-continues/article_5537d0c1-8d05-4035-bebc-3b8f3292bc3c.html",
+      "published": "2026-08-31T15:00:00Z",
+      "native": true,
+      "native_why": "source beat",
       "tags": [
-        "Language and Culture"
+        "Education"
       ]
     },
     {
@@ -1699,9 +1718,9 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "Call for Tahlequonia 2026 artists issued",
-      "link": "https://www.tahlequahdailypress.com/community/arts-entertainment/call-for-tahlequonia-2026-artists-issued/article_9d4e19d6-de9a-4be8-95b0-2f86bc0fac63.html",
+      "link": "https://www.muskogeephoenix.com/community/arts-entertainment/call-for-tahlequonia-2026-artists-issued/article_ddd94aff-3409-58c9-887e-05a88e863d61.html",
       "published": "2026-08-31T14:00:00Z",
       "native": false,
       "native_why": "",
@@ -1711,9 +1730,9 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "NSU enrollment grows for fourth consecutive year",
-      "link": "https://www.tahlequahdailypress.com/news/nsu-enrollment-grows-for-fourth-consecutive-year/article_3efac2e1-2a4b-4561-8b57-2aef01081be9.html",
+      "link": "https://www.muskogeephoenix.com/news/nsu-enrollment-grows-for-fourth-consecutive-year/article_9fff8756-b046-58d5-bf9e-5da7e44aa9f2.html",
       "published": "2026-08-31T13:15:00Z",
       "native": false,
       "native_why": "",
@@ -1733,41 +1752,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "COMMUNITY SPIRIT: Recovery coaching puts people on path to healing",
-      "link": "https://www.tahlequahdailypress.com/news/community-spirit-recovery-coaching-puts-people-on-path-to-healing/article_926561c1-9968-430f-b0a5-7390b4169862.html",
-      "published": "2026-08-31T12:25:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "SUPERINTENDENT'S CORNER: 'Rooted in Purpose': TPS opens 2026-'27 school year",
-      "link": "https://www.tahlequahdailypress.com/news/superintendents-corner-rooted-in-purpose-tps-opens-2026-27-school-year/article_cefad908-0af5-4f27-b90e-41848dd7a75a.html",
-      "published": "2026-08-31T12:08:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Opinion",
-        "Opinion"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "SEPTEMBER SPARK: Month celebrates library cards, fun to be had for free",
-      "link": "https://www.tahlequahdailypress.com/news/september-spark-month-celebrates-library-cards-fun-to-be-had-for-free/article_3125d09d-9d54-40fc-a67a-78b0ae34c6bf.html",
-      "published": "2026-08-31T11:16:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community"
-      ]
-    },
-    {
       "source": "Muskogee Phoenix",
       "title": "Dusk 'til Dawn Blues Festival stresses diversity",
       "link": "https://www.muskogeephoenix.com/news/dusk-til-dawn-blues-festival-stresses-diversity/article_7e4e2aea-d5f8-4249-85db-575df6bb367c.html",
@@ -1780,9 +1764,9 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "Walmart agrees to pay $50M for illegally filling unlawful opioid prescriptions",
-      "link": "https://www.tahlequahdailypress.com/news/walmart-agrees-to-pay-50m-for-illegally-filling-unlawful-opioid-prescriptions/article_a9b1f139-31ea-4e9a-80b4-afabfdb7373d.html",
+      "link": "https://www.muskogeephoenix.com/news/walmart-agrees-to-pay-50m-for-illegally-filling-unlawful-opioid-prescriptions/article_9c0aa7f8-4e44-54c3-aa2c-520e8b5cba02.html",
       "published": "2026-08-31T10:51:00Z",
       "native": false,
       "native_why": "",
@@ -1792,20 +1776,9 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Death Notices: Sept. 1, 2026",
-      "link": "https://www.tahlequahdailypress.com/news/death-notices-sept-1-2026/article_024fda0d-78cc-4e67-af65-2dded862d488.html",
-      "published": "2026-08-31T10:42:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "NSU welcomes high school seniors to Senior Day 2026",
-      "link": "https://www.tahlequahdailypress.com/news/nsu-welcomes-high-school-seniors-to-senior-day-2026/article_19d93199-8e7f-4e34-b2b8-5d932566d5d3.html",
+      "link": "https://www.muskogeephoenix.com/news/nsu-welcomes-high-school-seniors-to-senior-day-2026/article_9b0ef6df-2f39-5410-bd19-b13742967bdb.html",
       "published": "2026-08-31T10:38:00Z",
       "native": false,
       "native_why": "",
@@ -1814,9 +1787,9 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "Native Plant & Pollinator Party to bring plants, experts to Tahlequah",
-      "link": "https://www.tahlequahdailypress.com/news/native-plant-pollinator-party-to-bring-plants-experts-to-tahlequah/article_1e4b81ad-12f2-449b-a44d-283ee00205e7.html",
+      "link": "https://www.muskogeephoenix.com/news/native-plant-pollinator-party-to-bring-plants-experts-to-tahlequah/article_b7189f11-a738-50ab-a19a-aeb312ee55a0.html",
       "published": "2026-08-31T10:35:00Z",
       "native": false,
       "native_why": "",
@@ -1859,9 +1832,9 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "Online threat puts HPS, other area schools on alert",
-      "link": "https://www.tahlequahdailypress.com/news/online-threat-puts-hps-other-area-schools-on-alert/article_9f1f00b6-7a41-4018-a9ba-af5a057c1552.html",
+      "link": "https://www.muskogeephoenix.com/news/online-threat-puts-hps-other-area-schools-on-alert/article_8197281e-f14b-5aee-a955-2e221f22a449.html",
       "published": "2026-08-31T10:03:00Z",
       "native": false,
       "native_why": "",
@@ -1870,9 +1843,9 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "Interim study to look at pesticide contamination in medical marijuana",
-      "link": "https://www.tahlequahdailypress.com/news/interim-study-to-look-at-pesticide-contamination-in-medical-marijuana/article_4e308251-b69e-4404-92c5-7a6fdf6506ef.html",
+      "link": "https://www.muskogeephoenix.com/news/interim-study-to-look-at-pesticide-contamination-in-medical-marijuana/article_74298b6b-c224-5fa4-85e6-cb18b9ab333c.html",
       "published": "2026-08-31T08:35:00Z",
       "native": false,
       "native_why": "",
@@ -1889,6 +1862,18 @@
       "native_why": "",
       "tags": [
         "History and Heritage"
+      ]
+    },
+    {
+      "source": "Cherokee Phoenix",
+      "title": "Tribal Council selects election-code analysts",
+      "link": "https://www.cherokeephoenix.org/news/tribal-council-selects-election-code-analysts/article_d3eae4b5-1f33-43a0-83fe-29016be6153f.html",
+      "published": "2026-08-31T08:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Elections",
+        "Government"
       ]
     },
     {
@@ -1938,14 +1923,15 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Tahlequah man injured after jumping from bluff",
-      "link": "https://www.tahlequahdailypress.com/news/tahlequah-man-injured-after-jumping-from-bluff/article_e0c50363-8f90-4f9a-b880-37ae2f708d43.html",
-      "published": "2026-08-30T16:01:00Z",
+      "source": "Claremore Progress",
+      "title": "Carini talks investments to Blue Ribbon committee in Atlanta",
+      "link": "https://www.claremoreprogress.com/news/carini-talks-investments-to-blue-ribbon-committee-in-atlanta/article_239ab389-88b9-41e0-86b9-13f8e8749a3e.html",
+      "published": "2026-08-30T16:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "General"
+        "Business and Economy",
+        "Business and Economy"
       ]
     },
     {
@@ -1960,17 +1946,59 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "EDUCATIONAL SPOTLIGHT: Tenkiller softball team boasts plenty of energy",
-      "link": "https://www.tahlequahdailypress.com/news/educational-spotlight-tenkiller-softball-team-boasts-plenty-of-energy/article_eebed0e5-9f70-4222-8cce-5a09709af237.html",
+      "source": "Claremore Progress",
+      "title": "Inola smelter hot topic at Brecheen town hall",
+      "link": "https://www.claremoreprogress.com/news/inola-smelter-hot-topic-at-brecheen-town-hall/article_baefdb53-f9d0-4e3d-a7eb-e76fffacc998.html",
       "published": "2026-08-30T14:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "Education",
-        "Land and Environment",
-        "Sports",
+        "General"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Will Rogers Memorial Museum to welcome guests overnight",
+      "link": "https://www.claremoreprogress.com/news/will-rogers-memorial-museum-to-welcome-guests-overnight/article_4f0f5423-571b-4331-9a8f-f3609a7fc26e.html",
+      "published": "2026-08-30T14:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture",
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Grand jury signatures filed, election board to verify",
+      "link": "https://www.claremoreprogress.com/news/grand-jury-signatures-filed-election-board-to-verify/article_da09abac-6328-4924-890b-624b018d4b1c.html",
+      "published": "2026-08-30T13:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "GET TO KNOW ROGERS COUNTY: Jackson Savage",
+      "link": "https://www.claremoreprogress.com/community/get-to-know-rogers-county-jackson-savage/article_89ae166f-e90b-4e49-8eee-dd37fd01ce32.html",
+      "published": "2026-08-30T13:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
         "Features"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "RSU accepting applications for Brad Henry International Scholarship to study overseas",
+      "link": "https://www.claremoreprogress.com/news/rsu-accepting-applications-for-brad-henry-international-scholarship-to-study-overseas/article_64e77a7f-93d6-4f13-bb1d-4307f5cb8707.html",
+      "published": "2026-08-30T11:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
       ]
     },
     {
@@ -1985,17 +2013,6 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "What's Happening Aug. 31 - Sept. 6",
-      "link": "https://www.tahlequahdailypress.com/news/whats-happening-aug-31---sept-6/article_b842421d-4037-4234-b48a-c7ffe297206b.html",
-      "published": "2026-08-30T06:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
       "source": "Muskogee Phoenix",
       "title": "Smile of the Day, 08-30-2026",
       "link": "https://www.muskogeephoenix.com/news/smile-of-the-day-08-30-2026/article_84232254-1ae7-4823-b04c-b033dc60e6d8.html",
@@ -2004,17 +2021,6 @@
       "native_why": "",
       "tags": [
         "Features"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "POLITICAL ROUNDUP: Penny saved, penny earned, until no more pennies",
-      "link": "https://www.tahlequahdailypress.com/news/political-roundup-penny-saved-penny-earned-until-no-more-pennies/article_8f859ecb-4c78-47b9-81ef-0de5206533ef.html",
-      "published": "2026-08-29T14:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -2132,20 +2138,9 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
-      "title": "Man accused of molestation",
-      "link": "https://www.tahlequahdailypress.com/news/man-accused-of-molestation/article_b0dcb4eb-e09c-4124-8698-94eea196bcf3.html",
-      "published": "2026-08-28T16:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
+      "source": "Muskogee Phoenix",
       "title": "Save the date: New gallery to open downtown September",
-      "link": "https://www.tahlequahdailypress.com/community/arts-entertainment/save-the-date-new-gallery-to-open-downtown-september/article_372332a2-2f68-4455-bfdc-0e3cb63d0d79.html",
+      "link": "https://www.muskogeephoenix.com/community/arts-entertainment/save-the-date-new-gallery-to-open-downtown-september/article_425ec6bf-ac04-5226-9473-ba280b6c8ca8.html",
       "published": "2026-08-28T16:30:00Z",
       "native": false,
       "native_why": "",
@@ -2154,27 +2149,26 @@
       ]
     },
     {
-      "source": "Tahlequah Daily Press",
+      "source": "Claremore Progress",
+      "title": "New gallery to open in Tahlequah this month",
+      "link": "https://www.claremoreprogress.com/community/arts-entertainment/new-gallery-to-open-in-tahlequah-this-month/article_a51609bd-038d-547c-9c6a-df4bb4b495a2.html",
+      "published": "2026-08-28T16:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
       "title": "CHIEF CHAT: Building career pathways close to home with RSU",
-      "link": "https://www.tahlequahdailypress.com/news/chief-chat-building-career-pathways-close-to-home-with-rsu/article_74752bab-7e30-4a0a-a80e-84ad1f70b16b.html",
+      "link": "https://www.muskogeephoenix.com/news/chief-chat-building-career-pathways-close-to-home-with-rsu/article_9f16cb40-7e63-5a76-bff6-7a26e8a74834.html",
       "published": "2026-08-28T15:45:00Z",
       "native": false,
       "native_why": "",
       "tags": [
         "Opinion",
         "Opinion"
-      ]
-    },
-    {
-      "source": "Tahlequah Daily Press",
-      "title": "BAND PRACTICE: Orange Express members prepare for games, contests with Oklahoma schools",
-      "link": "https://www.tahlequahdailypress.com/news/band-practice-orange-express-members-prepare-for-games-contests-with-oklahoma-schools/article_d4278b3d-4252-4ec3-bcba-b9c89a8a087d.html",
-      "published": "2026-08-28T15:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Arts and Entertainment"
       ]
     },
     {
@@ -2291,14 +2285,25 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Police report for June 16 to Aug. 27",
-      "link": "https://www.muskogeephoenix.com/news/police-report-for-june-16-to-aug-27/article_9775b41a-1930-41de-982c-a610b4a965de.html",
-      "published": "2026-08-28T11:54:00Z",
+      "source": "Claremore Progress",
+      "title": "Cherokee Nation, Vinita community celebrate Attucks School cafeteria remodel",
+      "link": "https://www.claremoreprogress.com/news/cherokee-nation-vinita-community-celebrate-attucks-school-cafeteria-remodel/article_f908b2f5-bb3c-5002-a5e1-3722bcf3763c.html",
+      "published": "2026-08-28T11:45:00Z",
+      "native": true,
+      "native_why": "term: cherokee nation",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "TO DO: Check out cool cars at Roundup on Route 66",
+      "link": "https://www.claremoreprogress.com/news/to-do-check-out-cool-cars-at-roundup-on-route-66/article_e65a6833-0fb7-4d09-b2c1-cbc6d837f189.html",
+      "published": "2026-08-28T02:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "Public Safety"
+        "Transportation"
       ]
     },
     {
@@ -2380,6 +2385,17 @@
       ]
     },
     {
+      "source": "Claremore Progress",
+      "title": "Claremore celebrates $28M in water treatment upgrades",
+      "link": "https://www.claremoreprogress.com/news/claremore-celebrates-28m-in-water-treatment-upgrades/article_eac69dfe-4236-40da-823e-e01237ed01f8.html",
+      "published": "2026-08-27T14:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Land and Environment"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Thursday, August 27, 2026 \u2014 Native Bookshelf: \u2018Treat Them as Buffalo\u2019 by Blair Palmer Yoxall",
       "link": "https://www.nativeamericacalling.com/thursday-august-27-2026-native-bookshelf-treat-them-as-buffalo-by-blair-palmer-yoxall/",
@@ -2388,6 +2404,66 @@
       "native_why": "source beat",
       "tags": [
         "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Munson courts Republican voters in heavily GOP Rogers County",
+      "link": "https://www.claremoreprogress.com/news/munson-courts-republican-voters-in-heavily-gop-rogers-county/article_5f042b30-cb2a-452f-8ee0-43c0c9aa4d9e.html",
+      "published": "2026-08-27T13:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Courts and Law",
+        "Elections"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Election board secretary releases new book",
+      "link": "https://www.claremoreprogress.com/news/election-board-secretary-releases-new-book/article_95b960bc-c669-43bf-8205-7262c41a52a4.html",
+      "published": "2026-08-27T12:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "RSU to host Opioid Awareness Resource Fair Aug. 31",
+      "link": "https://www.claremoreprogress.com/news/rsu-to-host-opioid-awareness-resource-fair-aug-31/article_7cc928be-7929-4127-a593-4b68fa821967.html",
+      "published": "2026-08-27T10:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Health",
+        "Community",
+        "Events"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "EXPLORE CLAREMORE HISTORY: Claremore\u2019s City Hall Park \u2014 a local slice of paradise",
+      "link": "https://www.claremoreprogress.com/news/explore-claremore-history-claremore-s-city-hall-park-a-local-slice-of-paradise/article_5c902321-b73c-4bb0-9c82-98993a50c50f.html",
+      "published": "2026-08-27T10:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Government"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "WORDS FROM THE HEART: Grace out of Galilee",
+      "link": "https://www.claremoreprogress.com/news/words-from-the-heart-grace-out-of-galilee/article_66d9b82a-1a6c-4698-9346-38e969e06242.html",
+      "published": "2026-08-27T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Features"
       ]
     },
     {
@@ -2460,6 +2536,17 @@
       ]
     },
     {
+      "source": "Cherokee Phoenix",
+      "title": "Jaycee Gideon crowned Miss Cherokee, Maggie Rhodes crowned Junior Miss Cherokee",
+      "link": "https://www.cherokeephoenix.org/news/jaycee-gideon-crowned-miss-cherokee-maggie-rhodes-crowned-junior-miss-cherokee/article_918184e7-bdbe-41b9-a0ef-888bb9fa28d2.html",
+      "published": "2026-08-26T15:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Youth"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Active court order still blocking Trump effort to restrict vote-by-mail",
       "link": "https://oklahomavoice.com/2026/08/26/repub/active-court-order-still-blocking-trump-effort-to-restrict-vote-by-mail/",
@@ -2472,12 +2559,34 @@
       ]
     },
     {
+      "source": "Claremore Progress",
+      "title": "Drummond reaches landmark settlement with Meta",
+      "link": "https://www.claremoreprogress.com/news/drummond-reaches-landmark-settlement-with-meta/article_67f8c470-0c7b-5937-91f2-0f0cd4701b95.html",
+      "published": "2026-08-26T13:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Land and Environment"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Wednesday, August 26, 2026 \u2014 Arizona\u2019s dramatic SNAP ordeal may be a bellwether for other states",
       "link": "https://www.nativeamericacalling.com/wednesday-august-26-2026-arizonas-dramatic-snap-ordeal-may-be-a-bellwether-for-other-states/",
       "published": "2026-08-26T13:00:48Z",
       "native": true,
       "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Claremore Progress",
+      "title": "Climate change, real or not, has dramatic effects on lives",
+      "link": "https://www.claremoreprogress.com/news/climate-change-real-or-not-has-dramatic-effects-on-lives/article_fba48d2a-03ed-50f9-adc9-c39109d65214.html",
+      "published": "2026-08-26T12:04:00Z",
+      "native": false,
+      "native_why": "",
       "tags": [
         "General"
       ]
@@ -2767,6 +2876,19 @@
       ]
     },
     {
+      "source": "Cherokee Phoenix",
+      "title": "Tradition of Cane Hill Harvest Festival continues Sept. 19",
+      "link": "https://www.cherokeephoenix.org/news/tradition-of-cane-hill-harvest-festival-continues-sept-19/article_81665eac-aa1e-4103-ae0b-606a9e4ccbf4.html",
+      "published": "2026-08-21T15:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Arts and Entertainment",
+        "Food and Agriculture",
+        "Events"
+      ]
+    },
+    {
       "source": "The Frontier",
       "title": "With Trump\u2019s backing, Mike Mazzei embraced the smelter. Inola residents aren\u2019t convinced.",
       "link": "https://www.readfrontier.org/stories/with-trumps-backing-mike-mazzei-embraced-the-smelter-inola-residents-arent-convinced/",
@@ -2833,6 +2955,18 @@
       "native_why": "",
       "tags": [
         "National and World"
+      ]
+    },
+    {
+      "source": "Cherokee Phoenix",
+      "title": "CN breaks ground on $400 million health center",
+      "link": "https://www.cherokeephoenix.org/news/cn-breaks-ground-on-400-million-health-center/article_02b6f13b-3fd9-4159-ba5f-405a87403a82.html",
+      "published": "2026-08-20T13:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Health",
+        "Health"
       ]
     },
     {
@@ -2903,6 +3037,17 @@
       ]
     },
     {
+      "source": "Cherokee Phoenix",
+      "title": "Oklahoma kids use drugs at higher rates than the national average. A new initiative wants to change that.",
+      "link": "https://www.cherokeephoenix.org/news/oklahoma-kids-use-drugs-at-higher-rates-than-the-national-average-a-new-initiative-wants/article_6e24b013-7ca5-46a6-bd03-d93f56e1850c.html",
+      "published": "2026-08-19T15:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Youth"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Trump\u2019s ballroom \u2018illegal\u2019 without congressional approval, high court told",
       "link": "https://oklahomavoice.com/2026/08/19/repub/trumps-ballroom-illegal-without-congressional-approval-high-court-told/",
@@ -2912,6 +3057,19 @@
       "tags": [
         "Courts and Law",
         "National and World"
+      ]
+    },
+    {
+      "source": "Cherokee Phoenix",
+      "title": "Here\u2019s why Oklahoma electric bills are going up and it\u2019s not just data centers",
+      "link": "https://www.cherokeephoenix.org/news/here-s-why-oklahoma-electric-bills-are-going-up-and-it-s-not-just-data/article_20adb817-3b1f-4bfb-93fd-415ab3817208.html",
+      "published": "2026-08-19T13:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Elections",
+        "Business and Economy",
+        "Land and Environment"
       ]
     },
     {
@@ -3064,6 +3222,17 @@
       ]
     },
     {
+      "source": "Cherokee Phoenix",
+      "title": "Cherokee Nation celebrates 74th Cherokee National Holiday on Labor Day weekend",
+      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-celebrates-74th-cherokee-national-holiday-on-labor-day-weekend/article_aef7702d-8036-4b0c-9746-58ed923e060b.html",
+      "published": "2026-08-15T10:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Language and Culture"
+      ]
+    },
+    {
       "source": "The Frontier",
       "title": "State troopers cleared a homeless encampment in Norman. Again.",
       "link": "https://www.readfrontier.org/stories/state-troopers-cleared-a-homeless-encampment-in-norman-again/",
@@ -3072,6 +3241,17 @@
       "native_why": "",
       "tags": [
         "Housing"
+      ]
+    },
+    {
+      "source": "Cherokee Phoenix",
+      "title": "Ani Art Center provides space and opportunity for Cherokee art",
+      "link": "https://www.cherokeephoenix.org/news/ani-art-center-provides-space-and-opportunity-for-cherokee-art/article_8f713edf-a179-4075-b751-7edc88d4aff8.html",
+      "published": "2026-08-14T08:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -3098,6 +3278,17 @@
       ]
     },
     {
+      "source": "Cherokee Phoenix",
+      "title": "Tahlequah Writers group to meet Aug. 15 in Tahlequah",
+      "link": "https://www.cherokeephoenix.org/news/tahlequah-writers-group-to-meet-aug-15-in-tahlequah/article_e77c4232-2e9d-4795-bcde-3b12a0566650.html",
+      "published": "2026-08-12T18:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Indianz",
       "title": "Native America Calling: Native Playlist with Thomas Michael Swensen and Debora Iyall",
       "link": "https://indianz.com/News/2026/08/12/native-america-calling-native-playlist-with-thomas-michael-swensen-and-debora-iyall/",
@@ -3106,6 +3297,18 @@
       "native_why": "source beat",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Cherokee Phoenix",
+      "title": "Tribal leaders highlight health facilities",
+      "link": "https://www.cherokeephoenix.org/news/tribal-leaders-highlight-health-facilities/article_5189ac6c-0645-411e-841a-bad53cd19ceb.html",
+      "published": "2026-08-11T13:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Health",
+        "Health"
       ]
     },
     {
@@ -3128,6 +3331,17 @@
       "native_why": "source beat",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Cherokee Phoenix",
+      "title": "A LOOK BACK: Cherokee National Holiday",
+      "link": "https://www.cherokeephoenix.org/news/a-look-back-cherokee-national-holiday/article_cf0da4a2-308b-480a-b45e-19f3c41eaa69.html",
+      "published": "2026-08-10T13:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Language and Culture"
       ]
     },
     {
@@ -3164,184 +3378,38 @@
       ]
     },
     {
-      "source": "Indianz",
-      "title": "Native America Calling: Testing the limits of religious freedom in Indian Country",
-      "link": "https://indianz.com/News/2026/08/06/native-america-calling-testing-the-limits-of-religious-freedom-in-indian-country/",
-      "published": "2026-08-06T05:00:17Z",
+      "source": "Cherokee Phoenix",
+      "title": "Cherokee National Holiday parade always a crowd favorite",
+      "link": "https://www.cherokeephoenix.org/news/cherokee-national-holiday-parade-always-a-crowd-favorite/article_3862a552-1080-45f8-8a16-ffc9c3b169dd.html",
+      "published": "2026-08-09T12:00:00Z",
       "native": true,
       "native_why": "source beat",
       "tags": [
-        "General"
+        "Language and Culture",
+        "Community"
       ]
     },
     {
-      "source": "Indianz",
-      "title": "Native America Calling: When is it OK to let a Native language die?",
-      "link": "https://indianz.com/News/2026/08/04/native-america-calling-when-is-it-ok-to-let-a-native-language-die/",
-      "published": "2026-08-04T05:00:33Z",
+      "source": "Cherokee Phoenix",
+      "title": "Cherokee Nation issues Data Center Task Force Report, new policy actions",
+      "link": "https://www.cherokeephoenix.org/news/cherokee-nation-issues-data-center-task-force-report-new-policy-actions/article_9fe8dc40-2907-4c00-8606-33d735ffc51f.html",
+      "published": "2026-08-07T13:30:00Z",
       "native": true,
       "native_why": "source beat",
       "tags": [
-        "Language and Culture"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "NAFOA: 5 Things You Need to Know This Week (August 3, 2026)",
-      "link": "https://indianz.com/News/2026/08/03/nafoa-5-things-you-need-to-know-this-week-august-3-2026/",
-      "published": "2026-08-03T15:01:30Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Chuck Hoskin: Cherokee Nation keeps fiscal promises",
-      "link": "https://indianz.com/News/2026/08/03/chuck-hoskin-cherokee-nation-keeps-fiscal-promises/",
-      "published": "2026-08-03T05:01:48Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Native America Calling: New outbreak of food-borne illness shakes public confidence in food supply",
-      "link": "https://indianz.com/News/2026/08/03/native-america-calling-new-outbreak-of-food-borne-illness-shakes-public-confidence-in-food-supply/",
-      "published": "2026-08-03T05:00:17Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "AUDIO: Legislative Hearing to receive testimony on S.3573, S.3617, S.4368, S.4417 & S.4890",
-      "link": "https://indianz.com/News/2026/07/31/audio-legislative-hearing-to-receive-testimony-on-s-3573-s-3617-s-4368-s-4417-s-4890/",
-      "published": "2026-07-31T20:31:14Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "VIDEO: Legislative Hearing to receive testimony on S.3573, S.3617, S.4368, S.4417 & S.4890",
-      "link": "https://indianz.com/News/2026/07/31/video-legislative-hearing-to-receive-testimony-on-s-3573-s-3617-s-4368-s-4417-s-4890/",
-      "published": "2026-07-31T19:58:43Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Native America Calling: A gritty tribal cop thriller, \u2018Little House on the Prairie\u2019 reboot and remembering Native TV star",
-      "link": "https://indianz.com/News/2026/07/31/native-america-calling-a-gritty-tribal-cop-thriller-little-house-on-the-prairie-reboot-and-remembering-native-tv-star/",
-      "published": "2026-07-31T05:00:30Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "History and Heritage"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Native America Calling: The healing power of food and a new presidential library restaurant",
-      "link": "https://indianz.com/News/2026/07/30/native-america-calling-the-healing-power-of-food-and-a-new-presidential-library-restaurant/",
-      "published": "2026-07-30T05:00:21Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Food and Agriculture",
-        "Community",
-        "National and World"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Testimony: Catalina Chacon, Pechanga Band of Indians",
-      "link": "https://indianz.com/News/2026/07/29/testimony-catalina-chacon-pechanga-band-of-indians/",
-      "published": "2026-07-29T17:31:51Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Testimony: Jeff Grubbe, Agua Caliente Band of Cahuilla Indians",
-      "link": "https://indianz.com/News/2026/07/29/testimony-jeff-grubbe-agua-caliente-band-of-cahuilla-indians/",
-      "published": "2026-07-29T17:24:26Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Testimony: Buddy Rocha, Jr., Yavapai-Apache Nation",
-      "link": "https://indianz.com/News/2026/07/29/testimony-buddy-rocha-jr-yavapai-apache-nation/",
-      "published": "2026-07-29T17:13:20Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Testimony: Scott Cameron, Department of the Interior",
-      "link": "https://indianz.com/News/2026/07/29/testimony-scott-cameron-department-of-the-interior/",
-      "published": "2026-07-29T16:49:33Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
+        "Business and Economy",
         "Government"
       ]
     },
     {
-      "source": "Indianz",
-      "title": "Native America Calling: Southeast Alaska tribes closer to land designation more than a half century after being locked out",
-      "link": "https://indianz.com/News/2026/07/29/native-america-calling-southeast-alaska-tribes-closer-to-land-designation-more-than-a-half-century-after-being-locked-out/",
-      "published": "2026-07-29T05:00:37Z",
+      "source": "Cherokee Phoenix",
+      "title": "One Fire Field a hub for Holiday fun",
+      "link": "https://www.cherokeephoenix.org/news/one-fire-field-a-hub-for-holiday-fun/article_9298eab7-b6c5-4412-89c5-170ce5ece214.html",
+      "published": "2026-08-07T10:00:00Z",
       "native": true,
       "native_why": "source beat",
       "tags": [
-        "Land and Environment"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Indian Country housing bill in limbo as self-determination law marks major anniversary",
-      "link": "https://indianz.com/News/2026/07/28/indian-country-housing-bill-in-limbo-as-self-determination-law-marks-major-anniversary/",
-      "published": "2026-07-29T02:46:04Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Housing",
-        "History and Heritage"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Witness list for Senate Committee on Indian Affairs hearing on tribal water rights legislation",
-      "link": "https://indianz.com/News/2026/07/28/witness-list-for-senate-committee-on-indian-affairs-hearing-on-tribal-water-rights-legislation/",
-      "published": "2026-07-28T15:55:48Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Courts and Law",
-        "Land and Environment",
-        "National and World"
+        "Language and Culture"
       ]
     }
   ]
