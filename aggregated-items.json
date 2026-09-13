@@ -1,20 +1,172 @@
 {
-  "generated": "2026-09-13T12:03:35Z",
+  "generated": "2026-09-13T16:23:40Z",
   "stats": {
-    "items_before_dedup": 307,
-    "items_after_dedup": 292,
-    "duplicates_removed": 15
+    "items_before_dedup": 257,
+    "items_after_dedup": 257,
+    "duplicates_removed": 0
   },
   "items": [
     {
+      "source": "Native News Online",
+      "title": "SHUT DOWN LINE 5!",
+      "link": "https://nativenewsonline.net/opinion/shut-down-line-5/",
+      "published": "2026-09-13T16:06:12Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "Photos of the 65th Grand Valley Lodge Powwow",
+      "link": "https://nativenewsonline.net/currents/photos-of-the-65th-grand-valley-lodge-powwow/",
+      "published": "2026-09-13T14:37:06Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Language and Culture"
+      ]
+    },
+    {
       "source": "KOSU",
-      "title": "Meet 'The Weather Keeper' who lives in a lighthouse at the edge of the world",
-      "link": "https://www.kosu.org/arts-culture/2026-09-13/meet-the-weather-keeper-who-lives-in-a-lighthouse-at-the-edge-of-the-world",
-      "published": "2026-09-13T11:00:00Z",
+      "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+      "link": "https://www.kosu.org/news/2026-09-13/actor-tatyana-ali-is-advocating-for-black-and-indigenous-maternal-health",
+      "published": "2026-09-13T14:00:00Z",
+      "native": true,
+      "native_why": "term: indigenous",
+      "tags": [
+        "Health",
+        "Health",
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Slow Progress On Renaming Oregon\u2019s Offensive Place Names",
+      "link": "https://ictnews.org/news/slow-progress-on-renaming-oregons-offensive-place-names/",
+      "published": "2026-09-13T13:43:46Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "A TikTok-famous masked superhero is roaming the streets of Roanoke, Virginia",
+      "link": "https://www.kosu.org/u-s-news/2026-09-13/a-tiktok-famous-masked-superhero-is-roaming-the-streets-of-roanoke-virginia",
+      "published": "2026-09-13T12:05:49Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "Weather"
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Ben Shelton will face off against Alexander Zverev in the US Open final",
+      "link": "https://www.kosu.org/sports/2026-09-13/ben-shelton-will-face-off-against-alexander-zverev-in-the-us-open-final",
+      "published": "2026-09-13T12:04:31Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Could AI kill us all? Professor weighs in on former Anthropic employee's claim",
+      "link": "https://www.kosu.org/technology/2026-09-13/could-ai-kill-us-all-professor-weighs-in-on-former-anthropic-employees-claim",
+      "published": "2026-09-13T12:04:30Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy",
+        "Technology"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "An epic train chase is turning 100 \u2014 and Buster Keaton fans are celebrating",
+      "link": "https://www.kosu.org/arts-culture/2026-09-13/an-epic-train-chase-is-turning-100-and-buster-keaton-fans-are-celebrating",
+      "published": "2026-09-13T12:04:30Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "These are the films generating buzz at the Toronto International Film Festival",
+      "link": "https://www.kosu.org/arts-culture/2026-09-13/these-are-the-films-generating-buzz-at-the-toronto-international-film-festival",
+      "published": "2026-09-13T12:04:29Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture",
+        "Arts and Entertainment",
+        "Events"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
+      "link": "https://www.kosu.org/politics/2026-09-13/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
+      "published": "2026-09-13T12:04:27Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Opinion",
+        "Elections",
+        "Opinion"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "A new tax incentive could lead to more films being made in the U.S. rather than abroad",
+      "link": "https://www.kosu.org/business/2026-09-13/a-new-tax-incentive-could-lead-to-more-films-being-made-in-the-u-s-rather-than-abroad",
+      "published": "2026-09-13T12:04:25Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture",
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The Social Security trust fund is running out. Why is it not a top campaign issue?",
+      "link": "https://www.kosu.org/politics/2026-09-13/the-social-security-trust-fund-is-running-out-why-is-it-not-a-top-campaign-issue",
+      "published": "2026-09-13T12:04:25Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "From fracking to data centers: Hearing from people on both sides of the opposition",
+      "link": "https://www.kosu.org/technology/2026-09-13/from-fracking-to-data-centers-hearing-from-people-on-both-sides-of-the-opposition",
+      "published": "2026-09-13T12:04:24Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Punctuality at work is important. But in sports, it can also be worth a lot of money",
+      "link": "https://www.kosu.org/sports/2026-09-13/punctuality-at-work-is-important-but-in-sports-it-can-also-be-worth-a-lot-of-money",
+      "published": "2026-09-13T12:04:23Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -29,25 +181,25 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
-      "link": "https://www.kosu.org/news/2026-09-13/indonesian-passenger-ship-overturns-sparking-search-for-about-130-missing",
-      "published": "2026-09-13T10:31:10Z",
-      "native": false,
-      "native_why": "",
+      "source": "Native America Calling",
+      "title": "Monday, September 14, 2026 \u2014 Shifting preservation policies pose risks to Native history",
+      "link": "https://www.nativeamericacalling.com/monday-september-14-2026-shifting-preservation-policies-pose-risks-to-native-history/",
+      "published": "2026-09-13T10:00:01Z",
+      "native": true,
+      "native_why": "source beat",
       "tags": [
-        "Public Safety"
+        "General"
       ]
     },
     {
-      "source": "KOSU",
-      "title": "How a young woman became an ISIS bride \u2014 and then an informant, helping save others",
-      "link": "https://www.kosu.org/news/2026-09-13/how-a-young-woman-became-an-isis-bride-and-then-an-informant-helping-save-others",
-      "published": "2026-09-13T09:00:00Z",
+      "source": "Muskogee Phoenix",
+      "title": "Smile of the Day 9-13-2026",
+      "link": "https://www.muskogeephoenix.com/news/smile-of-the-day-9-13-2026/article_6aeb0481-8117-49ff-8bf6-2da218a82cc5.html",
+      "published": "2026-09-13T09:17:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "General"
+        "Features"
       ]
     },
     {
@@ -73,51 +225,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "RSU to host blood drive Sept. 21 in DCTC",
-      "link": "https://www.claremoreprogress.com/news/rsu-to-host-blood-drive-sept-21-in-dctc/article_cd64e2dc-0ba6-4df9-bb7a-efc43e625a80.html",
-      "published": "2026-09-13T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Celine Dion returns to the stage after battling rare illness",
-      "link": "https://www.kosu.org/music/2026-09-12/celine-dion-returns-to-the-stage-after-battling-rare-illness",
-      "published": "2026-09-12T23:54:06Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Events"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Ringing in the Jewish new year with a twist on a Rosh Hashanah classic",
-      "link": "https://www.kosu.org/food-drink/2026-09-12/ringing-in-the-jewish-new-year-with-a-twist-on-a-rosh-hashanah-classic",
-      "published": "2026-09-12T21:01:09Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "REMEMBERING LOVED ONES KILLED IN UNITED 93 CRASH",
-      "link": "https://www.kosu.org/u-s-news/2026-09-12/remembering-loved-ones-killed-in-united-93-crash",
-      "published": "2026-09-12T21:01:04Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety",
-        "History and Heritage"
-      ]
-    },
-    {
       "source": "ICT",
       "title": "Groups opposing Utah monument cuts say a new survey supports their cause",
       "link": "https://ictnews.org/news/groups-opposing-utah-monument-cuts-say-a-new-survey-supports-their-cause/",
@@ -126,62 +233,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-      "link": "https://www.kosu.org/news/2026-09-12/alien-terrorist-removal-court-deports-legal-us-resident-to-afghanistan-in-first-ever-case",
-      "published": "2026-09-12T18:29:18Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "'Wait Wait' for September 12, 2026: With Not My Job guest Leslie Jones",
-      "link": "https://www.kosu.org/arts-culture/2026-09-12/wait-wait-for-september-12-2026-with-not-my-job-guest-leslie-jones",
-      "published": "2026-09-12T16:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Sunday Puzzle: What rhymes with 'city?'",
-      "link": "https://www.kosu.org/arts-culture/2026-09-12/sunday-puzzle-what-rhymes-with-city",
-      "published": "2026-09-12T13:44:46Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
-      "link": "https://www.kosu.org/news/2026-09-12/people-are-still-afraid-of-those-three-letters-fighting-the-stigma-of-hiv",
-      "published": "2026-09-12T13:03:20Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "A war correspondent and a missing woman are at the center of Kate Atkinson's new postwar novel 'Our Noble Selves'",
-      "link": "https://www.kosu.org/2026-09-12/a-war-correspondent-and-a-missing-woman-are-at-the-center-of-kate-atkinsons-new-postwar-novel-our-noble-selves",
-      "published": "2026-09-12T13:00:13Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety",
-        "Arts and Entertainment"
       ]
     },
     {
@@ -229,28 +280,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "Bissell to speak at 'Potluck' Society meeting",
-      "link": "https://www.claremoreprogress.com/news/bissell-to-speak-at-potluck-society-meeting/article_da9f69f3-7962-4d65-8ac5-2fa332820f17.html",
-      "published": "2026-09-12T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Owasso\u2019s Redbud Rumble returns Sept. 19",
-      "link": "https://www.claremoreprogress.com/news/owasso-s-redbud-rumble-returns-sept-19/article_35741c5f-e2cb-4cdd-9733-0e24f3f617df.html",
-      "published": "2026-09-12T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Native News Online",
       "title": "Ohkay Owingeh Pueblo Endorses Deb Haaland for New Mexico Governor",
       "link": "https://nativenewsonline.net/currents/ohkay-owingeh-pueblo-endorses-deb-haaland-for-new-mexico-governor/",
@@ -292,17 +321,6 @@
       "native_why": "source beat",
       "tags": [
         "Youth"
-      ]
-    },
-    {
-      "source": "Native America Calling",
-      "title": "Monday, September 14, 2026 \u2014 Shifting preservation policies pose risks to Native history",
-      "link": "https://www.nativeamericacalling.com/monday-september-14-2026-shifting-preservation-policies-pose-risks-to-native-history/",
-      "published": "2026-09-11T22:27:01Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -491,14 +509,14 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "BGC raises over $313K for local schools",
-      "link": "https://www.claremoreprogress.com/news/bgc-raises-over-313k-for-local-schools/article_cfd86c0b-b250-5494-a96d-8636c67fc058.html",
-      "published": "2026-09-11T13:45:00Z",
-      "native": false,
-      "native_why": "",
+      "source": "Native America Calling",
+      "title": "Friday, September 11, 2026 \u2014 How 9/11 reverberates a quarter century later",
+      "link": "https://www.nativeamericacalling.com/friday-september-11-2026-how-9-11-reverberates-a-quarter-century-later/",
+      "published": "2026-09-11T12:46:27Z",
+      "native": true,
+      "native_why": "source beat",
       "tags": [
-        "Education"
+        "General"
       ]
     },
     {
@@ -568,40 +586,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "Car show to be held at Claremore Lake",
-      "link": "https://www.claremoreprogress.com/news/car-show-to-be-held-at-claremore-lake/article_6304168e-27c3-41fc-9087-492daefc2933.html",
-      "published": "2026-09-11T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Events"
-      ]
-    },
-    {
-      "source": "Native America Calling",
-      "title": "Friday, September 11, 2026 \u2014 How 9/11 reverberates a quarter century later",
-      "link": "https://www.nativeamericacalling.com/friday-september-11-2026-how-9-11-reverberates-a-quarter-century-later/",
-      "published": "2026-09-11T07:00:27Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "EXPLORE CLAREMORE HISTORY: Monkey business at Claremore\u2019s City Hall Park zoo",
-      "link": "https://www.claremoreprogress.com/news/explore-claremore-history-monkey-business-at-claremore-s-city-hall-park-zoo/article_1f72414f-0994-46b7-8af8-f94cfa1be160.html",
-      "published": "2026-09-11T07:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy",
-        "Government"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Tailgate Talk: Great expectations at the Big House",
       "link": "https://nondoc.com/2026/09/11/tailgate-talk-great-expectations-at-the-big-house/",
@@ -635,28 +619,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "Ollie Starr, Keith Austin named 55 Over 55 Inspiring Oklahomans",
-      "link": "https://www.claremoreprogress.com/news/ollie-starr-keith-austin-named-55-over-55-inspiring-oklahomans/article_f3b46ebe-c093-4f7c-958b-503e95a04746.html",
-      "published": "2026-09-11T03:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Rat Rods invade Catoosa",
-      "link": "https://www.claremoreprogress.com/news/rat-rods-invade-catoosa/article_d2c7ec07-4d29-4789-acc1-141202881133.html",
-      "published": "2026-09-11T02:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Native News Online",
       "title": "The Silent Crisis: Suicide Among Native Americans Reflects Global Mental Health Emergency",
       "link": "https://nativenewsonline.net/health/the-silent-crisis-suicide-among-native-americans-reflects-global-mental-health-emergency/",
@@ -670,17 +632,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "TO DO: Enjoy family fun at the Rogers County Fair",
-      "link": "https://www.claremoreprogress.com/community/to-do-enjoy-family-fun-at-the-rogers-county-fair/article_b25504ff-dbac-4433-8e4b-d0a05e1c82b1.html",
-      "published": "2026-09-11T01:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Events"
-      ]
-    },
-    {
       "source": "ICT",
       "title": "Twilight fandom helps fund Quileute Tribe\u2019s move to higher ground",
       "link": "https://ictnews.org/news/twilight-fandom-helps-fund-quileute-tribes-move-to-higher-ground/",
@@ -689,65 +640,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Native News Online",
-      "title": "American Indian College Fund Faculty Advisory Council Member Named Fulbright Specialist",
-      "link": "https://nativenewsonline.net/education/american-indian-college-fund-faculty-advisory-council-member-named-fulbright-specialist/",
-      "published": "2026-09-11T00:56:26Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Education",
-        "Government"
-      ]
-    },
-    {
-      "source": "Native News Online",
-      "title": "\u2018Plastic Shaman\u2019 Examines the Deadly Cost of America\u2019s Appropriation of Native Spirituality",
-      "link": "https://nativenewsonline.net/arts-entertainment/plastic-shaman-examines-the-deadly-cost-of-americas-appropriation-of-native-spirituality/",
-      "published": "2026-09-11T00:36:38Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Government"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Gun museum continues remodel",
-      "link": "https://www.claremoreprogress.com/news/gun-museum-continues-remodel/article_b505352f-3f49-4543-ba33-f3e8af2b3d1a.html",
-      "published": "2026-09-11T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture",
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "J.M. Davis Museum available for community and private events",
-      "link": "https://www.claremoreprogress.com/news/j-m-davis-museum-available-for-community-and-private-events/article_098caa04-641c-412c-8866-0753f6ad30a9.html",
-      "published": "2026-09-11T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture",
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Local McDonald\u2019s restaurants launch Outstanding Educator awards",
-      "link": "https://www.claremoreprogress.com/news/local-mcdonald-s-restaurants-launch-outstanding-educator-awards/article_06417d19-43c3-4c5f-8680-37a7b8b37bb1.html",
-      "published": "2026-09-11T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Food and Agriculture"
       ]
     },
     {
@@ -827,17 +719,6 @@
       "published": "2026-09-10T18:45:16Z",
       "native": false,
       "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Tribes, students: Indian education changes break the law",
-      "link": "https://ictnews.org/news/tribes-students-indian-education-changes-break-the-law/",
-      "published": "2026-09-10T18:15:42Z",
-      "native": true,
-      "native_why": "source beat",
       "tags": [
         "Education"
       ]
@@ -945,17 +826,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "RSU participates in Weight Stigma Awareness Week events",
-      "link": "https://www.claremoreprogress.com/news/rsu-participates-in-weight-stigma-awareness-week-events/article_631ec2b4-2321-4d62-9cd0-3a8c87e7b2dc.html",
-      "published": "2026-09-10T12:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Remembering Flight 93 through the lens of healing",
       "link": "https://oklahomavoice.com/2026/09/10/repub/remembering-flight-93-through-the-lens-of-healing/",
@@ -998,18 +868,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "WORDS FROM THE HEART: Harvest time",
-      "link": "https://www.claremoreprogress.com/news/words-from-the-heart-harvest-time/article_37e49a3e-60b1-4d83-9c55-cbdf40691253.html",
-      "published": "2026-09-10T09:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Food and Agriculture",
-        "Features"
       ]
     },
     {
@@ -1748,18 +1606,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "School gains playground from Beale donation",
-      "link": "https://www.claremoreprogress.com/news/school-gains-playground-from-beale-donation/article_31809b2b-34ee-4308-b8e7-cec0ce9b790f.html",
-      "published": "2026-09-06T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Community"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Say a prayer for the Canadian River",
       "link": "https://nondoc.com/2026/09/06/say-a-prayer-for-the-canadian-river/",
@@ -1768,17 +1614,6 @@
       "native_why": "",
       "tags": [
         "Land and Environment"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Grand jury proponents short of goal; judge to make ultimate decision",
-      "link": "https://www.claremoreprogress.com/news/grand-jury-proponents-short-of-goal-judge-to-make-ultimate-decision/article_35dbcf04-effb-4c6b-905e-5cb5b5912850.html",
-      "published": "2026-09-06T05:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
       ]
     },
     {
@@ -1815,19 +1650,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Songs and stories flow from Down Home Blues Club during weekend festival",
-      "link": "https://www.muskogeephoenix.com/news/songs-and-stories-flow-from-down-home-blues-club-during-weekend-festival/article_f0959705-a135-4707-a47c-c775ae49f6c5.html",
-      "published": "2026-09-05T12:06:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment",
-        "Community",
-        "Events"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "NCAA eligibility lawsuit pits Louisiana, Southern elected leaders against each other",
       "link": "https://oklahomavoice.com/2026/09/05/repub/ncaa-eligibility-lawsuit-pits-louisiana-southern-elected-leaders-against-each-other/",
@@ -1849,72 +1671,6 @@
       "tags": [
         "Courts and Law",
         "Public Safety"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "EXPLORE CLAREMORE HISTORY: Splish! Splash! \u2014 The Frank Reed Wading Pool at Claremore\u2019s City Hall Park",
-      "link": "https://www.claremoreprogress.com/news/explore-claremore-history-splish-splash-the-frank-reed-wading-pool-at-claremore-s-city-hall/article_43c908ad-6671-4cf9-9ee6-e9171aab0e3e.html",
-      "published": "2026-09-05T01:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Government"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "RSU to host Weight Stigma Awareness Week events Sept. 8-9",
-      "link": "https://www.claremoreprogress.com/news/rsu-to-host-weight-stigma-awareness-week-events-sept-8-9/article_47b01722-eab8-4600-803a-97309d834edb.html",
-      "published": "2026-09-05T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "GET TO KNOW ROGERS COUNTY: Zack Palmer",
-      "link": "https://www.claremoreprogress.com/news/get-to-know-rogers-county-zack-palmer/article_21ad238e-5a25-4d8a-8530-e82ab0accc96.html",
-      "published": "2026-09-05T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Catoosa explores energy efficiency with strategic plan underway",
-      "link": "https://www.claremoreprogress.com/news/catoosa-explores-energy-efficiency-with-strategic-plan-underway/article_a66c1647-aba9-48cf-adf9-36728d959a89.html",
-      "published": "2026-09-05T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Land and Environment"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "MoH concerts provide sense of community",
-      "link": "https://www.claremoreprogress.com/community/moh-concerts-provide-sense-of-community/article_cd6f767a-9017-4197-bd0d-22a9a270e7aa.html",
-      "published": "2026-09-05T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "What's happening: Sept. 9-15",
-      "link": "https://www.claremoreprogress.com/community/whats-happening-sept-9-15/article_51f798c9-11b5-4884-9a4c-01e881a510a0.html",
-      "published": "2026-09-05T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
       ]
     },
     {
@@ -1973,28 +1729,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "Cherokee Nation education tours available for fall",
-      "link": "https://www.claremoreprogress.com/news/cherokee-nation-education-tours-available-for-fall/article_31cc954b-c109-5b55-bcae-1020a7dfb3a8.html",
-      "published": "2026-09-04T16:35:00Z",
-      "native": true,
-      "native_why": "term: cherokee nation",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Denny-Davis named executive director of Human Services",
-      "link": "https://www.claremoreprogress.com/news/denny-davis-named-executive-director-of-human-services/article_633e95ff-dedc-5b03-bbea-9f26336a1686.html",
-      "published": "2026-09-04T16:20:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Election experts see few legal options for Trump to meddle with polling places",
       "link": "https://oklahomavoice.com/2026/09/04/repub/election-experts-see-few-legal-options-for-trump-to-meddle-with-polling-places/",
@@ -2045,51 +1779,6 @@
       "title": "ISS Files Suit to Block Oklahoma\u2019s Anti-ESG Proxy Advisory Law",
       "link": "https://oklahomawatch.org/2026/09/04/iss-files-suit-to-block-oklahomas-anti-esg-proxy-advisory-law/",
       "published": "2026-09-04T11:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "MEATLESS MEALS: Some eat less for heath reasons, others against animal cruelty",
-      "link": "https://www.claremoreprogress.com/news/meatless-meals-some-eat-less-for-heath-reasons-others-against-animal-cruelty/article_e5038361-ac9b-51af-9a57-a040c45df8f2.html",
-      "published": "2026-09-04T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "TO DO: Spend the night at Will Rogers Memorial Museum",
-      "link": "https://www.claremoreprogress.com/news/to-do-spend-the-night-at-will-rogers-memorial-museum/article_495df347-70e0-45f7-9762-4765fe5b82f3.html",
-      "published": "2026-09-04T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture",
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "People first: Nikki Webster shares the secret to her success",
-      "link": "https://www.claremoreprogress.com/news/people-first-nikki-webster-shares-the-secret-to-her-success/article_0e66ce54-77a0-4dfb-99d2-3b916beca6ce.html",
-      "published": "2026-09-04T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "RSU to close for Labor Day",
-      "link": "https://www.claremoreprogress.com/news/rsu-to-close-for-labor-day/article_329d2544-1004-4d90-b978-55a5870a9550.html",
-      "published": "2026-09-04T00:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -2178,17 +1867,6 @@
       ]
     },
     {
-      "source": "Claremore Progress",
-      "title": "Rogers State University to offer first three-year Bachelor\u2019s Degree",
-      "link": "https://www.claremoreprogress.com/news/rogers-state-university-to-offer-first-three-year-bachelor-s-degree/article_9410f71e-81e8-4539-98eb-d138971db728.html",
-      "published": "2026-09-03T13:03:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
       "source": "Native America Calling",
       "title": "Thursday, September 3, 2026 \u2014 Osage school closure delivers blow to tribe\u2019s language revitalization",
       "link": "https://www.nativeamericacalling.com/thursday-september-3-2026-osage-school-closure-delivers-blow-to-tribes-language-revitalization/",
@@ -2198,52 +1876,6 @@
       "tags": [
         "Education",
         "Language and Culture"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Justice Department files a statement of interest in support of the primary aluminum smelter project in Inola, Oklahoma",
-      "link": "https://www.claremoreprogress.com/news/justice-department-files-a-statement-of-interest-in-support-of-the-primary-aluminum-smelter-project/article_6feac2af-1e67-44cc-9138-071d0b42e611.html",
-      "published": "2026-09-03T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "WORDS FROM THE HEART: Jesus loves kids",
-      "link": "https://www.claremoreprogress.com/news/words-from-the-heart-jesus-loves-kids/article_d48f1453-b9b2-4279-a14b-0ce4ccf0175d.html",
-      "published": "2026-09-03T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features",
-        "Youth"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Hospital expands large animal care",
-      "link": "https://www.claremoreprogress.com/news/hospital-expands-large-animal-care/article_643f6ad4-46b3-470e-8eaf-78297554eea4.html",
-      "published": "2026-09-03T12:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Cusick named director of communications and marketing at RSU",
-      "link": "https://www.claremoreprogress.com/news/cusick-named-director-of-communications-and-marketing-at-rsu/article_3337c0da-019f-4fe9-854e-0c92f932443c.html",
-      "published": "2026-09-03T12:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy"
       ]
     },
     {
@@ -2268,28 +1900,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Resource fair aims to prevent overdoses",
-      "link": "https://www.claremoreprogress.com/news/resource-fair-aims-to-prevent-overdoses/article_fc3e17ee-09b3-41dd-b06f-837cfc42793a.html",
-      "published": "2026-09-03T10:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Events"
-      ]
-    },
-    {
-      "source": "Claremore Progress",
-      "title": "Will Rogers Turnpike to expand to six lanes",
-      "link": "https://www.claremoreprogress.com/news/will-rogers-turnpike-to-expand-to-six-lanes/article_b19c7cd7-cbe8-4d5c-9805-e3f838c86752.html",
-      "published": "2026-09-03T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Transportation"
       ]
     },
     {
