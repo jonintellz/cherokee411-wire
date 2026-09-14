@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T14:09:16Z",
+  "generated": "2026-09-14T19:25:36Z",
   "stats": {
     "items_before_dedup": 307,
     "items_after_dedup": 306,
@@ -8,20 +8,88 @@
   "items": [
     {
       "source": "KOSU",
-      "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
-      "link": "https://www.kosu.org/world-news/2026-09-14/the-producer-of-fleabag-and-baby-reindeers-tip-for-finding-a-hit-dont-look-for-one",
-      "published": "2026-09-14T14:03:14Z",
+      "title": "Heat, drought fuel wildfires across Oklahoma as localities work on prevention",
+      "link": "https://www.kosu.org/local-news/2026-09-14/heat-drought-fuel-wildfires-across-oklahoma-as-localities-work-on-prevention",
+      "published": "2026-09-14T19:03:09Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "Food and Agriculture"
+        "Land and Environment",
+        "Weather"
       ]
     },
     {
       "source": "KOSU",
-      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
-      "link": "https://www.kosu.org/world-news/2026-09-14/key-leaders-sound-the-alarm-on-ai-and-iran-gulf-diplomacy-hits-a-setback",
-      "published": "2026-09-14T11:39:06Z",
+      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+      "link": "https://www.kosu.org/sports/2026-09-14/10-years-after-taking-a-knee-colin-kaepernick-is-still-waging-a-perilous-fight",
+      "published": "2026-09-14T18:45:21Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+      "link": "https://www.kosu.org/news/2026-09-14/kennedy-center-says-its-on-the-brink-of-bankruptcy-might-close-as-early-as-tuesday",
+      "published": "2026-09-14T18:25:04Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Indigenous groups are exempt from Medicaid work rules, but Native Hawaiians aren\u2019t",
+      "link": "https://ictnews.org/health/indigenous-groups-are-exempt-from-medicaid-work-rules-but-native-hawaiians-arent/",
+      "published": "2026-09-14T18:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "States, cities sue Trump administration over new green card restrictions",
+      "link": "https://oklahomavoice.com/2026/09/14/repub/states-cities-sue-trump-administration-over-new-green-card-restrictions/",
+      "published": "2026-09-14T17:32:12Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Government"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Bob Mackie, designer who dressed Marilyn Monroe, Elton John and Cher, dies at 87",
+      "link": "https://www.kosu.org/news/2026-09-14/bob-mackie-designer-who-dressed-marilyn-monroe-elton-john-and-cher-dies-at-87",
+      "published": "2026-09-14T17:01:58Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "What's the state of special education?",
+      "link": "https://www.kosu.org/politics/2026-09-14/whats-the-state-of-special-education",
+      "published": "2026-09-14T16:05:10Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "AI leaders call for slower pace of development",
+      "link": "https://www.kosu.org/technology/2026-09-14/ai-leaders-call-for-slower-pace-of-development",
+      "published": "2026-09-14T16:04:48Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -30,13 +98,159 @@
     },
     {
       "source": "KOSU",
-      "title": "Headlines: Osage education spending, medical marijuana downsizing & Monarch butterfly migration",
-      "link": "https://www.kosu.org/kosudaily/2026-09-14/headlines-osage-education-spending-medical-marijuana-downsizing-monarch-butterfly-migration",
-      "published": "2026-09-14T11:15:55Z",
-      "native": true,
-      "native_why": "term: osage",
+      "title": "Author Tommy Orange on 'pretendians'",
+      "link": "https://www.kosu.org/arts-culture/2026-09-14/author-tommy-orange-on-pretendians",
+      "published": "2026-09-14T16:04:44Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Why are recent graduates having such a tough time?",
+      "link": "https://www.kosu.org/business/2026-09-14/why-are-recent-graduates-having-such-a-tough-time",
+      "published": "2026-09-14T16:04:39Z",
+      "native": false,
+      "native_why": "",
       "tags": [
         "Education"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "American AI companies want to 'pace' development. What does that really mean?",
+      "link": "https://www.kosu.org/technology/2026-09-14/american-ai-companies-want-to-pace-development-what-does-that-really-mean",
+      "published": "2026-09-14T16:04:35Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Technology"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "With injuries on the rise, cycle shop owners joins others who won't sell e-bikes to minors",
+      "link": "https://www.kosu.org/arts-culture/2026-09-14/with-injuries-on-the-rise-cycle-shop-owners-joins-others-who-wont-sell-e-bikes-to-minors",
+      "published": "2026-09-14T16:04:32Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "On Sept. 11, 2001, he got stranded in Canada. Now, he runs Pay it Forward 9/11",
+      "link": "https://www.kosu.org/arts-culture/2026-09-14/on-sept-11-2001-he-got-stranded-in-canada-now-he-runs-pay-it-forward-9-11",
+      "published": "2026-09-14T16:04:29Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The 22-year-old giving free 3D-printed dentures to those in need",
+      "link": "https://www.kosu.org/2026-09-14/the-22-year-old-giving-free-3d-printed-dentures-to-those-in-need",
+      "published": "2026-09-14T16:03:54Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Feds seek to \u2018streamline\u2019 Arctic oil permitting, ending environment studies of individual projects",
+      "link": "https://ictnews.org/news/feds-seek-to-streamline-arctic-oil-permitting-ending-environment-studies-of-individual-projects/",
+      "published": "2026-09-14T15:49:49Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Land and Environment"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Congress returns to session before midterms sprint, but no action expected on AI fears",
+      "link": "https://oklahomavoice.com/2026/09/14/repub/congress-returns-to-session-before-midterms-sprint-but-no-action-expected-on-ai-fears/",
+      "published": "2026-09-14T15:38:44Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "National and World",
+        "Technology",
+        "Events"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Trump plan to limit mail voting hinders Democrats more than GOP, analysis finds",
+      "link": "https://oklahomavoice.com/2026/09/14/repub/trump-plan-to-limit-mail-voting-hinders-democrats-more-than-gop-analysis-finds/",
+      "published": "2026-09-14T15:00:41Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "UKB councilor questions appeal for application to run for reelection",
+      "link": "https://www.muskogeephoenix.com/news/ukb-councilor-questions-appeal-for-application-to-run-for-reelection/article_ea905022-c9d0-592a-b1a3-6ca6c4f69c0c.html",
+      "published": "2026-09-14T14:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Government"
+      ]
+    },
+    {
+      "source": "Cherokee Phoenix",
+      "title": "Executive and Finance Committee advances $3.6B budget proposal",
+      "link": "https://www.cherokeephoenix.org/news/executive-and-finance-committee-advances-3-6b-budget-proposal/article_cacd8bf1-e8ef-47c9-a66b-096c403a15f0.html",
+      "published": "2026-09-14T13:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Government"
+      ]
+    },
+    {
+      "source": "Native America Calling",
+      "title": "Monday, September 14, 2026 \u2014 Shifting preservation policies pose risks to Native history",
+      "link": "https://www.nativeamericacalling.com/monday-september-14-2026-shifting-preservation-policies-pose-risks-to-native-history/",
+      "published": "2026-09-14T13:00:01Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "NSU online Library Science program ranks No. 7 nationally",
+      "link": "https://www.muskogeephoenix.com/news/nsu-online-library-science-program-ranks-no-7-nationally/article_8c8d6a47-9825-5074-888d-2eed071b27ed.html",
+      "published": "2026-09-14T12:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Community"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "NSU announces Fall 2026 Science & Technology Seminar Series",
+      "link": "https://www.muskogeephoenix.com/news/nsu-announces-fall-2026-science-technology-seminar-series/article_57dbe1c1-4163-50ce-a6b2-d1158bcfaf83.html",
+      "published": "2026-09-14T11:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Technology"
       ]
     },
     {
@@ -52,66 +266,10 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
-      "link": "https://www.kosu.org/u-s-news/2026-09-14/this-city-led-the-way-on-reparations-for-black-people-trump-is-trying-to-stop-it",
-      "published": "2026-09-14T11:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "AI industry leaders call for development to slow down after recent safety concerns",
-      "link": "https://www.kosu.org/technology/2026-09-14/ai-industry-leaders-call-for-development-to-slow-down-after-recent-safety-concerns",
-      "published": "2026-09-14T10:50:33Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Technology",
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Texas Rep. Greg Casar discusses bill to temporarily pause advanced AI development",
-      "link": "https://www.kosu.org/politics/2026-09-14/texas-rep-greg-casar-discusses-bill-to-temporarily-pause-advanced-ai-development",
-      "published": "2026-09-14T10:50:27Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Technology"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "U.K. and Irish politicians question Trump's comment on a unified Ireland",
-      "link": "https://www.kosu.org/2026-09-14/u-k-and-irish-politicians-question-trumps-comment-on-a-unified-ireland",
-      "published": "2026-09-14T10:50:19Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Divorce becomes next battleground as states debate family values",
       "link": "https://oklahomavoice.com/2026/09/14/repub/divorce-becomes-next-battleground-as-states-debate-family-values/",
       "published": "2026-09-14T10:30:03Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "The powerful millionaires hiding in plain sight",
-      "link": "https://www.kosu.org/news/2026-09-14/the-powerful-millionaires-hiding-in-plain-sight",
-      "published": "2026-09-14T10:30:00Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -141,30 +299,19 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Oklahoma Music Minutes for September 14-18: Music you should hear this week",
-      "link": "https://www.kosu.org/music/2026-09-14/oklahoma-music-minutes-for-september-14-18-music-you-should-hear-this-week",
-      "published": "2026-09-14T10:10:00Z",
+      "source": "Muskogee Phoenix",
+      "title": "Temperatures, competition heated at clowns' car show",
+      "link": "https://www.muskogeephoenix.com/news/temperatures-competition-heated-at-clowns-car-show/article_ea9274cb-b1a1-49b2-af84-b187de861b8d.html",
+      "published": "2026-09-14T10:23:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "Language and Culture"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
-      "link": "https://www.kosu.org/world-news/2026-09-14/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development",
-      "published": "2026-09-14T10:09:08Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Technology"
+        "General"
       ]
     },
     {
       "source": "ICT",
-      "title": "Pop superstar Olivia Rodrigo donated $2 million to Indigenous health organization",
+      "title": "Pop superstar Olivia Rodrigo donated $2M to Indigenous health organization",
       "link": "https://ictnews.org/arts-entertainment/pop-super-star-olivia-rodrigo-donated-2-million-to-indigenous-health-organization/",
       "published": "2026-09-14T10:00:00Z",
       "native": true,
@@ -175,25 +322,36 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "The Emmys are Monday night. Here's how to watch",
-      "link": "https://www.kosu.org/news/2026-09-14/the-emmys-are-monday-night-heres-how-to-watch",
-      "published": "2026-09-14T10:00:00Z",
+      "source": "Muskogee Phoenix",
+      "title": "Police report for Aug. 20 - Sept. 13",
+      "link": "https://www.muskogeephoenix.com/news/police-report-for-aug-20---sept-13/article_988825cc-6fb6-4b09-aac5-79accef95424.html",
+      "published": "2026-09-14T09:58:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Public Safety"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "NSU creates opportunities for first-generation students with new scholarship",
+      "link": "https://www.muskogeephoenix.com/news/nsu-creates-opportunities-for-first-generation-students-with-new-scholarship/article_fd698b61-5ddc-5f34-b67f-f73140db2575.html",
+      "published": "2026-09-14T09:53:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Youngsters reel in big fish, then try for more at Optimist derby",
+      "link": "https://www.muskogeephoenix.com/news/youngsters-reel-in-big-fish-then-try-for-more-at-optimist-derby/article_4e4c3c65-e7ef-4767-bac5-7ebfecee4d37.html",
+      "published": "2026-09-14T08:17:00Z",
       "native": false,
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "New Carlo Rovelli book challenges science's understanding of reality and the universe",
-      "link": "https://www.kosu.org/news/2026-09-14/new-carlo-rovelli-book-challenges-sciences-understanding-of-reality-and-the-universe",
-      "published": "2026-09-14T09:44:44Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
       ]
     },
     {
@@ -205,6 +363,17 @@
       "native_why": "",
       "tags": [
         "Land and Environment"
+      ]
+    },
+    {
+      "source": "Indianz",
+      "title": "Native America Calling: Shifting preservation policies pose risks to Native history",
+      "link": "https://indianz.com/News/2026/09/14/native-america-calling-shifting-preservation-policies-pose-risks-to-native-history/",
+      "published": "2026-09-14T05:00:21Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -301,17 +470,6 @@
       "title": "Slow Progress On Renaming Oregon\u2019s Offensive Place Names",
       "link": "https://ictnews.org/news/slow-progress-on-renaming-oregons-offensive-place-names/",
       "published": "2026-09-13T13:43:46Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Native America Calling",
-      "title": "Monday, September 14, 2026 \u2014 Shifting preservation policies pose risks to Native history",
-      "link": "https://www.nativeamericacalling.com/monday-september-14-2026-shifting-preservation-policies-pose-risks-to-native-history/",
-      "published": "2026-09-13T13:00:01Z",
       "native": true,
       "native_why": "source beat",
       "tags": [
@@ -510,18 +668,6 @@
       ]
     },
     {
-      "source": "ICT",
-      "title": "North Dakota tribes will re-argue their voter discrimination case",
-      "link": "https://ictnews.org/news/north-dakota-tribes-will-re-argue-their-voter-discrimination-case/",
-      "published": "2026-09-11T18:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections",
-        "Elections"
-      ]
-    },
-    {
       "source": "Osage News",
       "title": "Osage News editor receives two prestigious journalism awards",
       "link": "https://osagenews.org/osage-news-editor-receives-two-prestigious-journalism-awards/",
@@ -646,17 +792,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "INDIGENOUS A&E: \u2018Unceded\u2019 art, music tour, Apache images",
-      "link": "https://ictnews.org/arts-entertainment/indigenous-ae-unceded-art-music-tour-apache-images/",
-      "published": "2026-09-11T12:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture"
       ]
     },
     {
@@ -834,6 +969,17 @@
       "title": "Does Oklahoma have among the highest rates of rape?",
       "link": "https://oklahomawatch.org/2026/09/10/does-oklahoma-have-among-the-highest-rates-of-rape/",
       "published": "2026-09-10T16:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Participants can get active, joyful at All Aboard Thursday",
+      "link": "https://www.muskogeephoenix.com/news/participants-can-get-active-joyful-at-all-aboard-thursday/article_9f835422-b59c-448f-8e66-b805768369d7.html",
+      "published": "2026-09-10T15:30:00Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -1384,8 +1530,8 @@
     },
     {
       "source": "Muskogee Phoenix",
-      "title": "Council approves ask to remove Flock cameras; pastor honored with her own day",
-      "link": "https://www.muskogeephoenix.com/news/council-approves-ask-to-remove-flock-cameras-pastor-honored-with-her-own-day/article_ba6b6e9f-c003-5048-bc8f-260405c19cc0.html",
+      "title": "Council approves request to remove Flock cameras; pastor honored with her own day",
+      "link": "https://www.muskogeephoenix.com/news/council-approves-request-to-remove-flock-cameras-pastor-honored-with-her-own-day/article_ba6b6e9f-c003-5048-bc8f-260405c19cc0.html",
       "published": "2026-09-08T19:00:00Z",
       "native": false,
       "native_why": "",
@@ -1646,17 +1792,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Mother Goose lives as parents and educators keep telling nursery rhymes",
-      "link": "https://www.muskogeephoenix.com/news/mother-goose-lives-as-parents-and-educators-keep-telling-nursery-rhymes/article_8d19996a-474f-42f0-8fc3-60c23cf6af88.html",
-      "published": "2026-09-07T06:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
       "source": "Cherokee Phoenix",
       "title": "Hoskin delivers final State of Nation speech",
       "link": "https://www.cherokeephoenix.org/news/hoskin-delivers-final-state-of-nation-speech/article_3052fbf2-f53c-4e35-b6d7-494f523ee7f6.html",
@@ -1665,64 +1800,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Children could catch surprises at Optimist Fishing Derby",
-      "link": "https://www.muskogeephoenix.com/news/children-could-catch-surprises-at-optimist-fishing-derby/article_edbe68e6-2ecb-42a6-9a88-b1294dc5fa99.html",
-      "published": "2026-09-06T16:46:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Youth"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Locals, visitors gather for Cherokee National Holiday Parade",
-      "link": "https://www.muskogeephoenix.com/news/locals-visitors-gather-for-cherokee-national-holiday-parade/article_bc44164d-5b4b-5bfd-995e-325e7c189a39.html",
-      "published": "2026-09-06T15:00:00Z",
-      "native": true,
-      "native_why": "term: cherokee nation",
-      "tags": [
-        "Language and Culture",
-        "Community"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Keeping the fire burning: Two Cherokee families gather during holiday",
-      "link": "https://www.muskogeephoenix.com/news/keeping-the-fire-burning-two-cherokee-families-gather-during-holiday/article_29e0f184-e192-5035-87a1-057ef0673d91.html",
-      "published": "2026-09-06T12:45:00Z",
-      "native": true,
-      "native_why": "term: cherokee families",
-      "tags": [
-        "Language and Culture"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "QUILT SHOW: This year's exhibit has 100 entries from Cherokee artists",
-      "link": "https://www.muskogeephoenix.com/news/quilt-show-this-years-exhibit-has-100-entries-from-cherokee-artists/article_ff663a3c-d4b9-523d-93ec-ec84cd242548.html",
-      "published": "2026-09-06T11:30:00Z",
-      "native": true,
-      "native_why": "term: cherokee artists",
-      "tags": [
-        "Language and Culture",
-        "Arts and Entertainment",
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "REMEMBER THE LADIES: Mary Parish among first to document Tulsa Race Massacre",
-      "link": "https://www.muskogeephoenix.com/news/remember-the-ladies-mary-parish-among-first-to-document-tulsa-race-massacre/article_70e03be9-e417-4534-a549-2cf01aedfb64.html",
-      "published": "2026-09-06T11:27:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "History and Heritage"
       ]
     },
     {
@@ -1748,17 +1825,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "CHIEF'S ADDRESS: State of the Nation address last for Hoskin, Warner",
-      "link": "https://www.muskogeephoenix.com/news/chiefs-address-state-of-the-nation-address-last-for-hoskin-warner/article_122c752a-f9a8-582f-860e-218ca9292559.html",
-      "published": "2026-09-05T17:45:00Z",
-      "native": true,
-      "native_why": "term: hoskin",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Judge criticizes Trump pressure on prosecutors on reflecting pool vandalism charges",
       "link": "https://oklahomavoice.com/2026/09/05/repub/judge-criticizes-trump-pressure-on-prosecutors-on-reflecting-pool-vandalism-charges/",
@@ -1767,17 +1833,6 @@
       "native_why": "",
       "tags": [
         "Courts and Law"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "HOLIDAY ART: Cherokee Homecoming Show features wide range of cultural pieces",
-      "link": "https://www.muskogeephoenix.com/news/holiday-art-cherokee-homecoming-show-features-wide-range-of-cultural-pieces/article_a6165da8-99be-5c68-9b9c-296ebab20152.html",
-      "published": "2026-09-05T15:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture"
       ]
     },
     {
@@ -2731,39 +2786,6 @@
       ]
     },
     {
-      "source": "Oklahoma Voice",
-      "title": "Ex-vendor sues Oklahoma ethics board over ethics system replacement, seeks $6M in damages",
-      "link": "https://oklahomavoice.com/2026/08/24/ex-vendor-sues-oklahoma-ethics-board-over-ethics-system-replacement-seeks-6m-in-damages/",
-      "published": "2026-08-24T22:06:21Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Oklahoma cattlemen criticize beef import decision",
-      "link": "https://oklahomavoice.com/2026/08/24/oklahoma-cattlemen-criticize-beef-import-decision/",
-      "published": "2026-08-24T21:28:29Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Food and Agriculture"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Oklahoma GOP Party\u2019s unprecedented decision to endorse ahead of partisan primary panned",
-      "link": "https://oklahomavoice.com/2026/08/24/oklahoma-gop-partys-unprecedented-decision-to-endorse-ahead-of-partisan-primary-panned/",
-      "published": "2026-08-24T21:12:12Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
       "source": "The Frontier",
       "title": "We fact-checked GOP candidates for Oklahoma labor commissioner. Here\u2019s how they did.",
       "link": "https://www.readfrontier.org/stories/we-fact-checked-gop-candidates-for-oklahoma-labor-commissioner-heres-how-they-did/",
@@ -3286,19 +3308,6 @@
       ]
     },
     {
-      "source": "Indianz",
-      "title": "Witness list for Senate Committee on Indian Affairs hearing on tribal water rights legislation",
-      "link": "https://indianz.com/News/2026/07/28/witness-list-for-senate-committee-on-indian-affairs-hearing-on-tribal-water-rights-legislation/",
-      "published": "2026-07-28T15:55:48Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Courts and Law",
-        "Land and Environment",
-        "National and World"
-      ]
-    },
-    {
       "source": "Cherokee Phoenix",
       "title": "Cherokee Nation launches survey on citizen transportation",
       "link": "https://www.cherokeephoenix.org/news/cherokee-nation-launches-survey-on-citizen-transportation/article_47c70c83-bb5b-4ac0-a934-b638daf06003.html",
@@ -3399,18 +3408,6 @@
       "native_why": "source beat",
       "tags": [
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Cherokee Phoenix",
-      "title": "Descendants of Sequoyah Reunion set for Sept. 5 in Tahlequah",
-      "link": "https://www.cherokeephoenix.org/news/descendants-of-sequoyah-reunion-set-for-sept-5-in-tahlequah/article_2a44d672-42e7-46a8-b687-e15527e3974a.html",
-      "published": "2026-07-15T15:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Citizenship",
-        "Community"
       ]
     }
   ]
