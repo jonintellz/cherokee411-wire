@@ -1,11 +1,33 @@
 {
-  "generated": "2026-09-13T22:27:55Z",
+  "generated": "2026-09-14T01:10:38Z",
   "stats": {
     "items_before_dedup": 307,
     "items_after_dedup": 306,
     "duplicates_removed": 1
   },
   "items": [
+    {
+      "source": "KOSU",
+      "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
+      "link": "https://www.kosu.org/science/2026-09-13/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
+      "published": "2026-09-13T23:23:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Trump downplays calls for AI slowdown",
+      "link": "https://www.kosu.org/news/2026-09-13/trump-downplays-calls-for-ai-slowdown",
+      "published": "2026-09-13T22:32:39Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Technology"
+      ]
+    },
     {
       "source": "Osage News",
       "title": "Martha Elizabeth Lookout Obituary",
@@ -42,8 +64,8 @@
     },
     {
       "source": "KOSU",
-      "title": "What to expect from talks between Iran and Gulf states in Oman",
-      "link": "https://www.kosu.org/world-news/2026-09-13/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
+      "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+      "link": "https://www.kosu.org/world-news/2026-09-13/can-gulf-states-and-iran-negotiate-the-strait-of-hormuz-without-the-u-s",
       "published": "2026-09-13T21:03:12Z",
       "native": false,
       "native_why": "",
@@ -197,29 +219,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "An epic train chase is turning 100 \u2014 and Buster Keaton fans are celebrating",
-      "link": "https://www.kosu.org/arts-culture/2026-09-13/an-epic-train-chase-is-turning-100-and-buster-keaton-fans-are-celebrating",
-      "published": "2026-09-13T12:04:30Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Could AI kill us all? Professor weighs in on former Anthropic employee's claim",
-      "link": "https://www.kosu.org/technology/2026-09-13/could-ai-kill-us-all-professor-weighs-in-on-former-anthropic-employees-claim",
-      "published": "2026-09-13T12:04:30Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy",
-        "Technology"
       ]
     },
     {
