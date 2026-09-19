@@ -1,11 +1,34 @@
 {
-  "generated": "2026-09-19T18:04:30Z",
+  "generated": "2026-09-19T20:45:58Z",
   "stats": {
     "items_before_dedup": 257,
     "items_after_dedup": 257,
     "duplicates_removed": 0
   },
   "items": [
+    {
+      "source": "Native News Online",
+      "title": "Q&A: Leonard Peltier on Life After Prison, His Art, His Story and a Message to Native Youth",
+      "link": "https://nativenewsonline.net/currents/qa-leonard-peltier-on-life-after-prison-his-art-his-story-and-a-message-to-native-youth/",
+      "published": "2026-09-19T19:41:04Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Features",
+        "Youth"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The new lines of southern Lebanon",
+      "link": "https://www.kosu.org/news/2026-09-19/the-new-lines-of-southern-lebanon",
+      "published": "2026-09-19T19:00:24Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
     {
       "source": "KOSU",
       "title": "'Wait Wait' for September 19, 2026: With Not My Job guest Hernan Diaz",
@@ -187,18 +210,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
-      "link": "https://www.kosu.org/news/2026-09-19/archaeologists-are-racing-to-save-precious-artifacts-in-alaska-after-last-years-storm",
-      "published": "2026-09-19T09:01:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety",
-        "Weather"
       ]
     },
     {
@@ -924,17 +935,6 @@
       "tags": [
         "Courts and Law",
         "Technology"
-      ]
-    },
-    {
-      "source": "Native News Online",
-      "title": "Sen. Heinrich Leads Fight to Protect Tribal Gaming Rights",
-      "link": "https://nativenewsonline.net/currents/sen-heinrich-leads-fight-to-protect-tribal-gaming-rights/",
-      "published": "2026-09-17T04:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Business and Economy"
       ]
     },
     {
