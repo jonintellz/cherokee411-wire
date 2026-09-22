@@ -1,11 +1,115 @@
 {
-  "generated": "2026-09-22T10:02:59Z",
+  "generated": "2026-09-22T14:59:20Z",
   "stats": {
-    "items_before_dedup": 207,
-    "items_after_dedup": 205,
+    "items_before_dedup": 257,
+    "items_after_dedup": 255,
     "duplicates_removed": 2
   },
   "items": [
+    {
+      "source": "Oklahoma Voice",
+      "title": "Lindsay Clancy case could spur legislative action on postpartum depression, psychosis",
+      "link": "https://oklahomavoice.com/2026/09/22/repub/lindsay-clancy-case-could-spur-legislative-action-on-postpartum-depression-psychosis/",
+      "published": "2026-09-22T14:20:10Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Medical groups, patients sue Trump administration over Medicaid work requirements",
+      "link": "https://oklahomavoice.com/2026/09/22/repub/medical-groups-patients-sue-trump-administration-over-medicaid-work-requirements/",
+      "published": "2026-09-22T14:18:56Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Health",
+        "Courts and Law",
+        "Government"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
+      "link": "https://www.kosu.org/news/2026-09-22/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+      "published": "2026-09-22T13:30:01Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Crime"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Headlines: Broken Arrow mosque latest, Quapaw bison deaths & \u201cBreakfast Hub\u201d food truck",
+      "link": "https://www.kosu.org/kosudaily/2026-09-22/headlines-broken-arrow-mosque-latest-quapaw-bison-deaths-breakfast-hub-food-truck",
+      "published": "2026-09-22T11:13:10Z",
+      "native": true,
+      "native_why": "term: quapaw",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
+      "link": "https://www.kosu.org/world-news/2026-09-22/cnn-ms-now-and-politico-sue-trump-and-paramount-settles-in-massive-merger-lawsuit",
+      "published": "2026-09-22T11:01:01Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law"
+      ]
+    },
+    {
+      "source": "Oklahoma Watch",
+      "title": "Tulsa City Council Unanimously Backs New Eviction Prevention Program That Could Be a State Model",
+      "link": "https://oklahomawatch.org/2026/09/22/tulsa-city-council-unanimously-backs-new-eviction-prevention-program-that-could-be-a-state-model/",
+      "published": "2026-09-22T11:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Government"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
+      "link": "https://www.kosu.org/news/2026-09-22/houthis-try-to-push-deeper-into-western-yemen-upending-life-witnesses-tell-npr",
+      "published": "2026-09-22T10:59:37Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "News organizations barred from White House sue Trump as other outlets protests ban",
+      "link": "https://www.kosu.org/2026-09-22/news-organizations-barred-from-white-house-sue-trump-as-other-outlets-protests-ban",
+      "published": "2026-09-22T10:48:09Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Former CNN correspondent Jim Acosta on White House's ban of 3 media outlets",
+      "link": "https://www.kosu.org/2026-09-22/former-cnn-correspondent-jim-acosta-on-white-houses-ban-of-3-media-outlets",
+      "published": "2026-09-22T10:47:59Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "National and World",
+        "Media"
+      ]
+    },
     {
       "source": "ICT",
       "title": "\u2018Uncertainty\u2019: Trump tariffs bring new focus to Canadian council\u2019s \u2018Buy Indigenous\u2019 campaign",
@@ -16,6 +120,17 @@
       "tags": [
         "Elections",
         "Government"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
+      "link": "https://www.kosu.org/news/2026-09-22/new-dna-analysis-adds-evidence-jefferson-fathered-children-with-sally-hemings",
+      "published": "2026-09-22T10:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Youth"
       ]
     },
     {
@@ -31,17 +146,6 @@
     },
     {
       "source": "KOSU",
-      "title": "Quapaw Nation confirms 32 bison dead, including rare white buffalo",
-      "link": "https://www.kosu.org/local-news/2026-09-22/quapaw-nation-confirms-32-bison-dead-including-rare-white-buffalo",
-      "published": "2026-09-22T09:01:00Z",
-      "native": true,
-      "native_why": "term: quapaw",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
       "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
       "link": "https://www.kosu.org/news/2026-09-22/ai-solved-one-of-maths-hardest-problems-humanity-learned-nothing-so-far",
       "published": "2026-09-22T09:01:00Z",
@@ -53,57 +157,11 @@
     },
     {
       "source": "KOSU",
-      "title": "'Breakfast Hub' food truck providing jobs for justice-impacted young adults set to launch in October",
-      "link": "https://www.kosu.org/breakfast-food-truck-jons",
-      "published": "2026-09-22T09:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy",
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "'Stronger together': Grassroots organization to host inaugural Oklahoma Rare Disease Fair",
-      "link": "https://www.kosu.org/health/2026-09-22/stronger-together-grassroots-organization-to-host-inaugural-oklahoma-rare-disease-fair",
-      "published": "2026-09-22T09:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health",
-        "Events"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "YE\u0418DRY: Tiny Desk Concert",
-      "link": "https://www.kosu.org/music/2026-09-22/ye\u0438dry-tiny-desk-concert",
-      "published": "2026-09-22T09:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
-      "link": "https://www.kosu.org/news/2026-09-22/the-house-freedom-caucus-has-to-transform-it-could-preview-the-gops-post-trump-era",
-      "published": "2026-09-22T09:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "The best and biggest games of September",
-      "link": "https://www.kosu.org/news/2026-09-22/the-best-and-biggest-games-of-september",
-      "published": "2026-09-22T09:00:00Z",
-      "native": false,
-      "native_why": "",
+      "title": "Quapaw Nation confirms 32 bison dead, including rare white buffalo",
+      "link": "https://www.kosu.org/local-news/2026-09-22/quapaw-nation-confirms-32-bison-dead-including-rare-white-buffalo",
+      "published": "2026-09-22T09:01:00Z",
+      "native": true,
+      "native_why": "term: quapaw",
       "tags": [
         "General"
       ]
@@ -121,39 +179,25 @@
     },
     {
       "source": "KOSU",
-      "title": "Trump heads to U.N. looking for wins after a rough week",
-      "link": "https://www.kosu.org/news/2026-09-22/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
+      "title": "How unarmed 911 teams are reshaping public safety in nearly 100 cities",
+      "link": "https://www.kosu.org/news/2026-09-22/how-unarmed-911-teams-are-reshaping-public-safety-in-nearly-100-cities",
       "published": "2026-09-22T09:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "General"
+        "Public Safety"
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Police, fire, EMT and mental health: How one city is leading the charge to reshape 911",
-      "link": "https://www.kosu.org/news/2026-09-22/police-fire-emt-and-mental-health-how-one-city-is-leading-the-charge-to-reshape-911",
-      "published": "2026-09-22T09:00:00Z",
-      "native": false,
-      "native_why": "",
+      "source": "Native America Calling",
+      "title": "Tuesday, September 22, 2026 \u2014 PBS documentary \u2018Knowledge Keepers\u2019 explores Native scientific innovations",
+      "link": "https://www.nativeamericacalling.com/tuesday-september-22-2026-pbs-documentary-knowledge-keepers-explores-native-scientific-innovations/",
+      "published": "2026-09-22T07:00:32Z",
+      "native": true,
+      "native_why": "source beat",
       "tags": [
-        "Health",
-        "Public Safety",
-        "Health"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Oklahoma SNAP enrollment has dropped 20%. Here's what it sounds like in local food banks",
-      "link": "https://www.kosu.org/oklahoma-food-banks-snap-enrollment",
-      "published": "2026-09-22T08:55:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Citizenship",
-        "Food and Agriculture",
-        "Business and Economy"
+        "Arts and Entertainment",
+        "Arts and Entertainment"
       ]
     },
     {
@@ -165,6 +209,17 @@
       "native_why": "",
       "tags": [
         "Courts and Law"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "OMHOF prepares to reopen Saturday with afternoon of festivities",
+      "link": "https://www.muskogeephoenix.com/news/omhof-prepares-to-reopen-saturday-with-afternoon-of-festivities/article_0bfeb32f-0808-471c-b1a1-a5fad64a5203.html",
+      "published": "2026-09-22T05:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -205,18 +260,6 @@
       ]
     },
     {
-      "source": "Native America Calling",
-      "title": "Tuesday, September 22, 2026 \u2014 PBS documentary \u2018Knowledge Keepers\u2019 explores Native scientific innovations",
-      "link": "https://www.nativeamericacalling.com/tuesday-september-22-2026-pbs-documentary-knowledge-keepers-explores-native-scientific-innovations/",
-      "published": "2026-09-21T21:55:32Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Arts and Entertainment",
-        "Arts and Entertainment"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Diesel prices shoot upward as top farm-state GOP senator begs Trump for export embargo",
       "link": "https://oklahomavoice.com/2026/09/21/repub/diesel-prices-shoot-upward-as-top-farm-state-gop-senator-begs-trump-for-export-embargo/",
@@ -238,6 +281,17 @@
         "Health",
         "Business and Economy",
         "Health"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Muskogee Oktoberfest attracts fans of all things German",
+      "link": "https://www.muskogeephoenix.com/news/muskogee-oktoberfest-attracts-fans-of-all-things-german/article_0ad5965f-d9df-46b6-822e-467e4dac063c.html",
+      "published": "2026-09-21T18:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -264,6 +318,18 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Pride in the Park festival celebrates diversity, equality",
+      "link": "https://www.muskogeephoenix.com/news/pride-in-the-park-festival-celebrates-diversity-equality/article_26e38576-d17a-4f6f-8255-716363d43cb2.html",
+      "published": "2026-09-21T17:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment",
+        "Events"
+      ]
+    },
+    {
       "source": "Native News Online",
       "title": "Owner of Fake Sober Living Home Sentenced in $69M Fraud That Targeted Native Americans",
       "link": "https://nativenewsonline.net/health/owner-of-fake-sober-living-home-sentenced-in-69m-fraud-that-targeted-native-americans/",
@@ -286,6 +352,29 @@
         "Language and Culture",
         "Weather",
         "Health"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Oklahoma College App Week now ongoing",
+      "link": "https://www.muskogeephoenix.com/news/oklahoma-college-app-week-now-ongoing/article_728705dc-8246-5fb8-8be6-0f8aa2ab2471.html",
+      "published": "2026-09-21T15:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Technology"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "NOW TRENDING: Many ways to celebrate citizenship, ancestry",
+      "link": "https://www.muskogeephoenix.com/news/now-trending-many-ways-to-celebrate-citizenship-ancestry/article_52c923ff-8834-478b-b0e0-f5db7f4a194d.html",
+      "published": "2026-09-21T15:37:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Citizenship"
       ]
     },
     {
@@ -358,6 +447,18 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "NSU Jazz Orchestra selected to perform at Oklahoma Music Educators Association conference",
+      "link": "https://www.muskogeephoenix.com/community/arts-entertainment/nsu-jazz-orchestra-selected-to-perform-at-oklahoma-music-educators-association-conference/article_08c7a680-eda4-5bcf-aa00-f2fdf9416854.html",
+      "published": "2026-09-21T13:32:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Language and Culture"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Monday, September 21, 2026 \u2014 Ownership transfer of Native medical center promises a new era of healthcare sovereignty in Alaska",
       "link": "https://www.nativeamericacalling.com/monday-september-21-2026-ownership-transfer-of-native-focused-medical-center-promises-a-new-era-of-healthcare-sovereignty-in-alaska/",
@@ -381,6 +482,63 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Cinnamon rolls sell fast at The Hutch Bakehouse",
+      "link": "https://www.muskogeephoenix.com/news/cinnamon-rolls-sell-fast-at-the-hutch-bakehouse/article_895e6a54-b217-4c5f-a6b0-c9f1b0739751.html",
+      "published": "2026-09-21T12:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Oklahoma Foundation for Excellence opens applications for mentoring grants",
+      "link": "https://www.muskogeephoenix.com/news/oklahoma-foundation-for-excellence-opens-applications-for-mentoring-grants/article_a5e922ea-435d-531d-bf90-b07ca7344b54.html",
+      "published": "2026-09-21T11:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Jubilee Church's new location to open soon",
+      "link": "https://www.muskogeephoenix.com/news/jubilee-churchs-new-location-to-open-soon/article_d332e59a-185f-46aa-b8a7-b968e48a482a.html",
+      "published": "2026-09-21T11:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Community"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "ICTC named No. 1 of all technology centers, community colleges in Oklahoma by Niche for fourth year",
+      "link": "https://www.muskogeephoenix.com/news/ictc-named-no-1-of-all-technology-centers-community-colleges-in-oklahoma-by-niche-for/article_3b6707f8-89f8-5fda-9b70-3db9fa6491cd.html",
+      "published": "2026-09-21T11:25:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Technology"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Seats still open for Junior Achievement Restaurant Crawl",
+      "link": "https://www.muskogeephoenix.com/news/seats-still-open-for-junior-achievement-restaurant-crawl/article_8241e4f0-f46c-4b5a-8d41-ab9437e709a2.html",
+      "published": "2026-09-21T11:18:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Food and Agriculture",
+        "Youth"
+      ]
+    },
+    {
       "source": "Oklahoma Watch",
       "title": "State Question 845: What Oklahoma Voters Need to Know Before November 3",
       "link": "https://oklahomawatch.org/2026/09/21/state-question-845-what-oklahoma-voters-need-to-know-before-november-3/",
@@ -390,6 +548,17 @@
       "tags": [
         "Elections",
         "Elections"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "TRIO Talent Search programs receive $3M",
+      "link": "https://www.muskogeephoenix.com/news/trio-talent-search-programs-receive-3m/article_feebcc73-7154-59d7-89a2-33558d6fbfe2.html",
+      "published": "2026-09-21T10:37:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -542,6 +711,28 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Local bookstores provide connection, personal touch",
+      "link": "https://www.muskogeephoenix.com/news/local-bookstores-provide-connection-personal-touch/article_750f2385-c7cd-4754-8566-1ba37e0e3451.html",
+      "published": "2026-09-19T10:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "City manager discusses multiple solutions to $29M settlement",
+      "link": "https://www.muskogeephoenix.com/news/city-manager-discusses-multiple-solutions-to-29m-settlement/article_a8a9aa5c-c101-466a-a753-54c7796dd147.html",
+      "published": "2026-09-19T09:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "ICT",
       "title": "Feds award $10 million to two Oregon tribal groups for affordable housing projects",
       "link": "https://ictnews.org/news/feds-award-10-million-to-two-oregon-tribal-groups-for-affordable-housing-projects/",
@@ -623,6 +814,17 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "MPS Survey shows strong support for major building improvements",
+      "link": "https://www.muskogeephoenix.com/news/mps-survey-shows-strong-support-for-major-building-improvements/article_9f698271-ffd3-4bff-a7ee-0293a1a84756.html",
+      "published": "2026-09-18T16:19:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Bipartisan push to set rules for college athletes\u2019 pay continues to advance in US Senate",
       "link": "https://oklahomavoice.com/2026/09/18/repub/bipartisan-push-to-set-rules-for-college-athletes-pay-continues-to-advance-in-us-senate/",
@@ -644,6 +846,32 @@
       "native_why": "",
       "tags": [
         "National and World"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Cherokee Nation\u2019s 15th Warrior Flight visits Washington, D.C.",
+      "link": "https://www.muskogeephoenix.com/news/cherokee-nation-s-15th-warrior-flight-visits-washington-d-c/article_422527bb-ec71-5d66-ba56-315ee951a4dd.html",
+      "published": "2026-09-18T14:15:00Z",
+      "native": true,
+      "native_why": "term: cherokee nation",
+      "tags": [
+        "National and World"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "CHIEF CHAT: Supporting Cherokee artists means investing in our culture",
+      "link": "https://www.muskogeephoenix.com/news/chief-chat-supporting-cherokee-artists-means-investing-in-our-culture/article_f2c5be12-16ce-5523-a9d9-6ebd9161a187.html",
+      "published": "2026-09-18T13:45:00Z",
+      "native": true,
+      "native_why": "term: cherokee artists",
+      "tags": [
+        "Language and Culture",
+        "Opinion",
+        "Opinion",
+        "Arts and Entertainment",
+        "Business and Economy"
       ]
     },
     {
@@ -681,6 +909,28 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Pair pleads guilty to federal child neglect charge",
+      "link": "https://www.muskogeephoenix.com/news/pair-pleads-guilty-to-federal-child-neglect-charge/article_2f6e2a74-0a29-5e0d-b68c-8729b6e25407.html",
+      "published": "2026-09-18T12:10:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Hoskin/Warner advisers issue reports on childcare, wellness centers, career readiness",
+      "link": "https://www.muskogeephoenix.com/news/hoskin-warner-advisers-issue-reports-on-childcare-wellness-centers-career-readiness/article_affda5dc-0d0f-52d7-9991-e1cc0299a03e.html",
+      "published": "2026-09-18T11:45:00Z",
+      "native": true,
+      "native_why": "term: hoskin",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
       "source": "Oklahoma Watch",
       "title": "Cedar Lake Water Fight Deepens After State Approves Dam Settlement",
       "link": "https://oklahomawatch.org/2026/09/18/cedar-lake-water-fight-deepens-after-state-approves-dam-settlement/",
@@ -700,6 +950,28 @@
       "native_why": "",
       "tags": [
         "Education"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Police report Sept. 7-17",
+      "link": "https://www.muskogeephoenix.com/news/police-report-sept-7-17/article_227cc874-6569-45c4-8b58-1064eb385565.html",
+      "published": "2026-09-18T09:38:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Public Safety"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "All Aboard Thursday returns to Depot Green",
+      "link": "https://www.muskogeephoenix.com/news/all-aboard-thursday-returns-to-depot-green/article_fad032a0-c0d0-4395-8357-6cfb2b875f60.html",
+      "published": "2026-09-18T09:28:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Events"
       ]
     },
     {
@@ -738,6 +1010,18 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Illinois River Jam with camping, music almost here",
+      "link": "https://www.muskogeephoenix.com/news/illinois-river-jam-with-camping-music-almost-here/article_e5327844-517c-5589-b116-42414d225a87.html",
+      "published": "2026-09-17T19:38:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture",
+        "Land and Environment"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "White House yanks Oklahoma nominee to lead Immigration and Customs Enforcement",
       "link": "https://oklahomavoice.com/2026/09/17/repub/white-house-yanks-oklahoma-nominee-to-lead-immigration-and-customs-enforcement/",
@@ -749,6 +1033,17 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Love Foundation gives $1.14 million to Muskogee Public Schools",
+      "link": "https://www.muskogeephoenix.com/news/love-foundation-gives-1-14-million-to-muskogee-public-schools/article_b7da6c29-cdc4-426d-ac3b-c36b2a1b1130.html",
+      "published": "2026-09-17T17:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Record diesel prices hit North Dakota farmers at the wrong time",
       "link": "https://oklahomavoice.com/2026/09/17/repub/record-diesel-prices-hit-north-dakota-farmers-at-the-wrong-time/",
@@ -757,6 +1052,17 @@
       "native_why": "",
       "tags": [
         "Food and Agriculture"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "OKIE FROM MUSKOGEE: Michael Knapper lives for the perfect haircut",
+      "link": "https://www.muskogeephoenix.com/news/okie-from-muskogee-michael-knapper-lives-for-the-perfect-haircut/article_18165065-9c91-4ba5-9236-1d7c8aa55ac4.html",
+      "published": "2026-09-17T16:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -772,6 +1078,18 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "VA awards grants to assist homeless veterans",
+      "link": "https://www.muskogeephoenix.com/news/va-awards-grants-to-assist-homeless-veterans/article_fb3b25e5-533a-4db9-89e7-55c07622d5b7.html",
+      "published": "2026-09-17T15:38:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Housing",
+        "Veterans"
+      ]
+    },
+    {
       "source": "Oklahoma Watch",
       "title": "Eye on Oklahoma: Missing Guns, 17 Vehicles and a Meat Slicer",
       "link": "https://oklahomawatch.org/2026/09/17/eye-on-oklahoma-missing-guns-17-vehicles-and-a-meat-slicer/",
@@ -780,6 +1098,17 @@
       "native_why": "",
       "tags": [
         "Public Safety"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "NSU's RiverHawks Scholar Program opens new Independent Learning Lab",
+      "link": "https://www.muskogeephoenix.com/news/nsus-riverhawks-scholar-program-opens-new-independent-learning-lab/article_b7322c02-a7b7-5501-a36b-79e4b2a7b4f1.html",
+      "published": "2026-09-17T15:27:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Land and Environment"
       ]
     },
     {
@@ -805,6 +1134,19 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Veteran educators honored as MPS Certified Employees of the Month",
+      "link": "https://www.muskogeephoenix.com/news/veteran-educators-honored-as-mps-certified-employees-of-the-month/article_f3816e80-a416-488c-b3d4-a0c32d0a34dd.html",
+      "published": "2026-09-17T14:57:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Business and Economy",
+        "Veterans"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "More GOP lawmakers break with Trump on Iran as gas prices keep climbing",
       "link": "https://oklahomavoice.com/2026/09/17/repub/more-gop-lawmakers-break-with-trump-on-iran-as-gas-prices-keep-climbing/",
@@ -813,6 +1155,28 @@
       "native_why": "",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Celebrated Cherokee painter featured in new exhibit",
+      "link": "https://www.muskogeephoenix.com/news/celebrated-cherokee-painter-featured-in-new-exhibit/article_88b50701-765a-5541-91ec-f39b859af22a.html",
+      "published": "2026-09-17T14:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Ramming named to Oklahoma Association of Community Colleges Hall of Fame",
+      "link": "https://www.muskogeephoenix.com/news/ramming-named-to-oklahoma-association-of-community-colleges-hall-of-fame/article_b8312349-ba22-4183-a422-918210c249e3.html",
+      "published": "2026-09-17T13:56:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
       ]
     },
     {
@@ -827,6 +1191,31 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Cherokee Film expands industry presence during Toronto International Film Festival",
+      "link": "https://www.muskogeephoenix.com/community/arts-entertainment/cherokee-film-expands-industry-presence-during-toronto-international-film-festival/article_4c6bb9dd-0943-5b3e-8bf4-812969aae0d3.html",
+      "published": "2026-09-17T12:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture",
+        "Arts and Entertainment",
+        "Business and Economy",
+        "Events"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "NSU's online MBA ranks No. 11 among nation\u2019s most affordable",
+      "link": "https://www.muskogeephoenix.com/news/nsus-online-mba-ranks-no-11-among-nation-s-most-affordable/article_41e55e4c-dc05-596d-a4a1-6629fd94dda4.html",
+      "published": "2026-09-17T11:25:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Oklahoma Watch",
       "title": "Evicted Students Miss Class and Fall Behind. Tulsa Schools Want to Change That.",
       "link": "https://oklahomawatch.org/2026/09/17/evicted-students-miss-class-and-fall-behind-tulsa-schools-want-to-change-that/",
@@ -835,6 +1224,17 @@
       "native_why": "",
       "tags": [
         "Education"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "THREE FORKS HISTORY: Haggard family were Okies from Muskogee area and Checotah",
+      "link": "https://www.muskogeephoenix.com/news/three-forks-history-haggard-family-were-okies-from-muskogee-area-and-checotah/article_f69ac4b5-40e7-4149-9a43-9788a6b88ad8.html",
+      "published": "2026-09-17T10:44:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -1009,6 +1409,28 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Child abuse sentence deferred",
+      "link": "https://www.muskogeephoenix.com/news/child-abuse-sentence-deferred/article_4e6af4cf-5b40-532a-bc2b-5e21c83c69be.html",
+      "published": "2026-09-16T15:50:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Seniors learn how to protect themselves from scams, fraud",
+      "link": "https://www.muskogeephoenix.com/news/seniors-learn-how-to-protect-themselves-from-scams-fraud/article_e759164a-0d5d-5a99-bd64-9c5f5749a00f.html",
+      "published": "2026-09-16T15:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Poll finds voters favor US Senate candidates with plan for averting Social Security cut",
       "link": "https://oklahomavoice.com/2026/09/16/repub/poll-finds-voters-favor-us-senate-candidates-with-plan-for-averting-social-security-cut/",
@@ -1019,6 +1441,19 @@
         "Elections",
         "National and World",
         "Elections"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Girl Scouts continue legacy with new cookie flavors",
+      "link": "https://www.muskogeephoenix.com/news/girl-scouts-continue-legacy-with-new-cookie-flavors/article_0e951e8a-b574-4ea9-9b23-130267790b90.html",
+      "published": "2026-09-16T15:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Community",
+        "History and Heritage",
+        "Youth"
       ]
     },
     {
@@ -1047,6 +1482,18 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Muskogee Public Schools pauses bond issue plans until city decides how to settle lawsuit",
+      "link": "https://www.muskogeephoenix.com/news/muskogee-public-schools-pauses-bond-issue-plans-until-city-decides-how-to-settle-lawsuit/article_4e8e09a0-8d4c-4da6-b54f-86c31c698a78.html",
+      "published": "2026-09-16T13:14:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Courts and Law"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Wednesday, September 16, 2026 \u2014 Native advocates assess barriers to upcoming elections",
       "link": "https://www.nativeamericacalling.com/wednesday-september-16-2026-native-advocates-assess-barriers-to-upcoming-elections/",
@@ -1059,6 +1506,63 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "KILGORE'S CORNER: Delta Waterfowl is a worthy conservation organization",
+      "link": "https://www.muskogeephoenix.com/news/kilgores-corner-delta-waterfowl-is-a-worthy-conservation-organization/article_33b33d8e-27ea-4bb5-a4ec-07af1f183853.html",
+      "published": "2026-09-16T12:26:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Land and Environment",
+        "Opinion",
+        "Opinion"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "WHAT'S Happening Sept. 19-Oct 10.",
+      "link": "https://www.muskogeephoenix.com/news/whats-happening-sept-19-oct-10/article_bd578240-b05e-4a4c-9f52-0b0fb3563ba1.html",
+      "published": "2026-09-16T11:38:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Features"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Mail-in ballot process to remain unchanged for mid-term elections",
+      "link": "https://www.muskogeephoenix.com/news/mail-in-ballot-process-to-remain-unchanged-for-mid-term-elections/article_30efc319-0867-5894-9e7f-9b7787a32a42.html",
+      "published": "2026-09-16T11:20:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Authority ready to seek bids on moving the USS Batfish",
+      "link": "https://www.muskogeephoenix.com/news/authority-ready-to-seek-bids-on-moving-the-uss-batfish/article_e61f638c-06ec-43dc-a07d-0ee7d68b8e98.html",
+      "published": "2026-09-16T11:19:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Foreign national sentenced for unlawful reentry of removed alien",
+      "link": "https://www.muskogeephoenix.com/news/foreign-national-sentenced-for-unlawful-reentry-of-removed-alien/article_bed3d388-6ad3-4d77-a8a0-26afe75ffc45.html",
+      "published": "2026-09-16T11:02:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
       "source": "Oklahoma Watch",
       "title": "Missing Guns, 17 Vehicles and a Meat Slicer: What Oklahoma Sheriff Turnover Audits Are Finding",
       "link": "https://oklahomawatch.org/2026/09/16/missing-guns-17-vehicles-and-a-meat-slicer-what-oklahoma-sheriff-turnover-audits-are-finding/",
@@ -1068,6 +1572,73 @@
       "tags": [
         "Public Safety",
         "Government"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Munson holds meet-and-greet in Muskogee",
+      "link": "https://www.muskogeephoenix.com/news/munson-holds-meet-and-greet-in-muskogee/article_65c24993-2ff7-46e0-b43c-72b4785cacc4.html",
+      "published": "2026-09-16T10:41:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "SNHU president's list for summer 2026 includes local students",
+      "link": "https://www.muskogeephoenix.com/news/snhu-presidents-list-for-summer-2026-includes-local-students/article_1fe86df3-7de3-407c-80d9-0a9d3d4428b0.html",
+      "published": "2026-09-16T10:33:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "National and World"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Undocumented immigrant sentenced for unlawful reentry",
+      "link": "https://www.muskogeephoenix.com/news/undocumented-immigrant-sentenced-for-unlawful-reentry/article_966f57d8-a0d8-4f60-b510-86d40ee3069a.html",
+      "published": "2026-09-16T10:25:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Police report for Sept. 7-15",
+      "link": "https://www.muskogeephoenix.com/news/police-report-for-sept-7-15/article_4201efcb-d762-460a-8c1a-6fda3428543d.html",
+      "published": "2026-09-16T10:21:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Public Safety"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Wieners, polka bands, youngsters welcome at this year's Oktoberfest",
+      "link": "https://www.muskogeephoenix.com/news/wieners-polka-bands-youngsters-welcome-at-this-years-oktoberfest/article_cd252c3e-2400-4002-9650-592cdb6acb23.html",
+      "published": "2026-09-16T10:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Owasso man pleads guilty to child abuse, neglect charge; receives deferred sentence",
+      "link": "https://www.muskogeephoenix.com/news/owasso-man-pleads-guilty-to-child-abuse-neglect-charge-receives-deferred-sentence/article_9e19bfa4-1937-5f9c-822d-01395189dc77.html",
+      "published": "2026-09-16T10:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
       ]
     },
     {
@@ -1137,6 +1708,39 @@
       "native_why": "",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Tahlequah event highlights monarch conservation",
+      "link": "https://www.muskogeephoenix.com/news/tahlequah-event-highlights-monarch-conservation/article_c21e9c5a-1081-5ff8-acd6-ffea217f91c4.html",
+      "published": "2026-09-15T19:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Land and Environment"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Smile of the Day 9-22-2026",
+      "link": "https://www.muskogeephoenix.com/news/smile-of-the-day-9-22-2026/article_60e0743e-6cf0-495e-a62f-a62eae083fba.html",
+      "published": "2026-09-15T17:39:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Features"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "REMEMBER THE LADIES: Augusta Morris Mann reshaped Greenwood",
+      "link": "https://www.muskogeephoenix.com/news/remember-the-ladies-augusta-morris-mann-reshaped-greenwood/article_9551de0e-b5c2-4c22-84ca-4322758a3403.html",
+      "published": "2026-09-15T17:32:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "History and Heritage"
       ]
     },
     {
@@ -1331,18 +1935,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Oklahoma Watch",
-      "title": "Congress Passed the Biggest Housing Bill in Decades, but Oklahoma Advocates Say the State Still Has Work to Do",
-      "link": "https://oklahomawatch.org/2026/09/14/congress-passed-the-biggest-housing-bill-in-decades-but-oklahoma-advocates-say-the-state-still-has-work-to-do/",
-      "published": "2026-09-14T11:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Housing",
-        "National and World"
       ]
     },
     {
@@ -2108,28 +2700,6 @@
       "title": "US House clears spending stopgap backed by Trump that averts government shutdown",
       "link": "https://oklahomavoice.com/2026/09/01/repub/us-house-clears-spending-stopgap-backed-by-trump-that-averts-government-shutdown/",
       "published": "2026-09-01T19:58:43Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Interchanges removed from controversial Oklahoma turnpike design amid local opposition",
-      "link": "https://oklahomavoice.com/2026/09/01/interchanges-removed-from-controversial-oklahoma-turnpike-design-amid-local-opposition/",
-      "published": "2026-09-01T18:21:55Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Transportation"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "SpaceX sweeteners: How did Louisiana lure Elon Musk\u2019s rocket launch site to its coast?",
-      "link": "https://oklahomavoice.com/2026/09/01/repub/spacex-sweeteners-how-did-louisiana-lure-elon-musks-rocket-launch-site-to-its-coast/",
-      "published": "2026-09-01T16:41:07Z",
       "native": false,
       "native_why": "",
       "tags": [
