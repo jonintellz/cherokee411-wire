@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-23T17:08:39Z",
+  "generated": "2026-09-23T20:26:40Z",
   "stats": {
     "items_before_dedup": 257,
-    "items_after_dedup": 257,
-    "duplicates_removed": 0
+    "items_after_dedup": 256,
+    "duplicates_removed": 1
   },
   "items": [
     {
@@ -74,6 +74,95 @@
       ]
     },
     {
+      "source": "The Frontier",
+      "title": "This rural Oklahoma town doesn\u2019t want a data center. It may not be able to stop the project",
+      "link": "https://www.readfrontier.org/stories/this-rural-oklahoma-town-doesnt-want-a-data-center-it-may-not-be-able-to-stop-the-project/",
+      "published": "2026-09-23T19:03:35Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Garth Brooks announces return to Oklahoma with 3 Tulsa concerts",
+      "link": "https://www.kosu.org/garth-brooks-tulsa-concerts-2026",
+      "published": "2026-09-23T18:49:17Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Public intoxication charge dismissed against Oklahoma secretary of state",
+      "link": "https://oklahomavoice.com/2026/09/23/public-intoxication-charge-dismissed-against-oklahoma-secretary-of-state/",
+      "published": "2026-09-23T18:47:19Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Government"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Trump set to greet Xi for high-stakes state visit",
+      "link": "https://www.kosu.org/news/2026-09-23/trump-set-to-greet-xi-for-high-stakes-state-visit",
+      "published": "2026-09-23T18:23:19Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Iran's president gives a rare wartime speech at the U.N.",
+      "link": "https://www.kosu.org/news/2026-09-23/irans-president-gives-a-rare-wartime-speech-at-the-u-n",
+      "published": "2026-09-23T18:14:40Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
+      "link": "https://www.kosu.org/religion/2026-09-23/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood",
+      "published": "2026-09-23T18:09:31Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Media"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "The Trump Administration wants to fast-track Arctic drilling",
+      "link": "https://ictnews.org/news/the-trump-administration-wants-to-fast-track-arctic-drilling/",
+      "published": "2026-09-23T18:08:17Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Government",
+        "Sports"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Trump administration says developers, loggers can kill endangered species",
+      "link": "https://oklahomavoice.com/2026/09/23/repub/trump-administration-says-developers-loggers-can-kill-endangered-species/",
+      "published": "2026-09-23T17:00:27Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Government"
+      ]
+    },
+    {
       "source": "Native News Online",
       "title": "\u2018They never write a good story\u2019",
       "link": "https://nativenewsonline.net/opinion/they-never-write-a-good-story/",
@@ -97,9 +186,75 @@
     },
     {
       "source": "KOSU",
+      "title": "Alex Wagner lays out roots of conservative efforts to influence courts",
+      "link": "https://www.kosu.org/arts-culture/2026-09-23/alex-wagner-lays-out-roots-of-conservative-efforts-to-influence-courts",
+      "published": "2026-09-23T16:15:44Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The melting Alaska glacier that wears the scars of climate change",
+      "link": "https://www.kosu.org/energy-environment/2026-09-23/the-melting-alaska-glacier-that-wears-the-scars-of-climate-change",
+      "published": "2026-09-23T16:14:56Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "China and the U.S. agree to talk about AI safeguards",
+      "link": "https://www.kosu.org/technology/2026-09-23/china-and-the-u-s-agree-to-talk-about-ai-safeguards",
+      "published": "2026-09-23T16:14:31Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Technology"
+      ]
+    },
+    {
+      "source": "KOSU",
       "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
       "link": "https://www.kosu.org/politics/2026-09-23/from-cybersecurity-to-ai-to-taiwan-whats-at-stake-in-trumps-summit-with-xi",
       "published": "2026-09-23T16:13:52Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Technology"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "ICE is spending billions to expand its detention system",
+      "link": "https://www.kosu.org/2026-09-23/ice-is-spending-billions-to-expand-its-detention-system",
+      "published": "2026-09-23T16:13:42Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "How Indigenous communities are shepherding climate solutions",
+      "link": "https://www.kosu.org/energy-environment/2026-09-23/how-indigenous-communities-are-shepherding-climate-solutions",
+      "published": "2026-09-23T16:11:44Z",
+      "native": true,
+      "native_why": "term: indigenous",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The 'godfather' of AI on where the technology is headed",
+      "link": "https://www.kosu.org/technology/2026-09-23/the-godfather-of-ai-on-where-the-technology-is-headed",
+      "published": "2026-09-23T16:10:22Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -143,43 +298,10 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
-      "link": "https://www.kosu.org/news/2026-09-23/its-getting-harder-to-afford-rent-in-the-u-s-even-for-middle-income-families",
-      "published": "2026-09-23T14:09:10Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Housing"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "U.S. ambassador to the U.N. discusses progress on key issues",
-      "link": "https://www.kosu.org/world-news/2026-09-23/u-s-ambassador-to-the-u-n-discusses-progress-on-key-issues",
-      "published": "2026-09-23T14:00:19Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Two ethical oddities part of Rep. Danny Williams probe",
       "link": "https://nondoc.com/2026/09/23/two-ethical-oddities-part-of-rep-danny-williams-probe/",
       "published": "2026-09-23T13:41:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
-      "link": "https://www.kosu.org/news/2026-09-23/greetings-from-edinburgh-where-a-cheeky-tour-guide-makes-art-history-hilarious",
-      "published": "2026-09-23T13:31:47Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -198,38 +320,15 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
-      "link": "https://www.kosu.org/news/2026-09-23/is-nepals-flood-a-harbinger-of-whats-to-come-in-the-himalayas",
-      "published": "2026-09-23T11:48:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Headlines: Grady County sheriff lawsuit, deer hunting season & school rowing leagues",
-      "link": "https://www.kosu.org/kosudaily/2026-09-23/headlines-grady-county-sheriff-lawsuit-deer-hunting-season-school-rowing-leagues",
-      "published": "2026-09-23T11:23:03Z",
+      "source": "Muskogee Phoenix",
+      "title": "Learn 2 Live educates Muskogee teens about rights, choices",
+      "link": "https://www.muskogeephoenix.com/news/learn-2-live-educates-muskogee-teens-about-rights-choices/article_d1b086c7-b974-45cf-bf82-9660704976ab.html",
+      "published": "2026-09-23T11:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
         "Education",
-        "Courts and Law",
-        "Public Safety"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
-      "link": "https://www.kosu.org/world-news/2026-09-23/dems-have-an-edge-over-gop-poll-finds-and-ice-looks-into-mobile-detention-centers",
-      "published": "2026-09-23T11:13:32Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
+        "Youth"
       ]
     },
     {
@@ -244,25 +343,14 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Trump touts his economy and U.S. actions in Iran in UNGA address",
-      "link": "https://www.kosu.org/politics/2026-09-23/trump-touts-his-economy-and-u-s-actions-in-iran-in-unga-address",
-      "published": "2026-09-23T10:49:41Z",
+      "source": "Muskogee Phoenix",
+      "title": "Viaduct to remain closed through Thursday",
+      "link": "https://www.muskogeephoenix.com/news/viaduct-to-remain-closed-through-thursday/article_d2bdac10-0874-4275-8086-372d8047c24b.html",
+      "published": "2026-09-23T10:33:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-      "link": "https://www.kosu.org/news/2026-09-23/u-n-ambassador-mike-waltz-on-iran-venezuela-and-trumps-foreign-policy",
-      "published": "2026-09-23T10:48:47Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Government"
+        "General"
       ]
     },
     {
@@ -283,41 +371,6 @@
       "published": "2026-09-23T10:00:00Z",
       "native": true,
       "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Eastern Shawnee Tribe hires its first employee to work in Ohio homelands",
-      "link": "https://www.kosu.org/eastern-shawnee-tribe-ohio-employee",
-      "published": "2026-09-23T09:59:00Z",
-      "native": true,
-      "native_why": "term: tribe",
-      "tags": [
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "DOJ defends White House media ban, urges court to reject lawsuit",
-      "link": "https://www.kosu.org/news/2026-09-23/doj-defends-white-house-media-ban-urges-court-to-reject-lawsuit",
-      "published": "2026-09-23T09:06:47Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law",
-        "National and World",
-        "Media"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Oklahoma's unemployment rate inches above the national average for the first time since pandemic",
-      "link": "https://www.kosu.org/oklahoma-unemployment-above-national-average",
-      "published": "2026-09-23T09:04:00Z",
-      "native": false,
-      "native_why": "",
       "tags": [
         "General"
       ]
@@ -990,17 +1043,6 @@
       "tags": [
         "Education",
         "Technology"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Latin America accounted for 85 percent of environmental defender killings in 2025, report says",
-      "link": "https://ictnews.org/news/latin-america-accounted-for-85-percent-of-environmental-defender-killings-in-2025-report-says/",
-      "published": "2026-09-20T21:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Land and Environment"
       ]
     },
     {
@@ -1878,28 +1920,6 @@
       "tags": [
         "Education",
         "National and World"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Undocumented immigrant sentenced for unlawful reentry",
-      "link": "https://www.muskogeephoenix.com/news/undocumented-immigrant-sentenced-for-unlawful-reentry/article_966f57d8-a0d8-4f60-b510-86d40ee3069a.html",
-      "published": "2026-09-16T10:25:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Crime"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Police report for Sept. 7-15",
-      "link": "https://www.muskogeephoenix.com/news/police-report-for-sept-7-15/article_4201efcb-d762-460a-8c1a-6fda3428543d.html",
-      "published": "2026-09-16T10:21:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety"
       ]
     },
     {
@@ -2788,28 +2808,6 @@
       ]
     },
     {
-      "source": "Oklahoma Voice",
-      "title": "Why the rushed Postal Service plan for mail-in voting has states in a panic",
-      "link": "https://oklahomavoice.com/2026/09/02/repub/why-the-rushed-postal-service-plan-for-mail-in-voting-has-states-in-a-panic/",
-      "published": "2026-09-02T21:27:40Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "New work requirements could affect 250,000 Oklahomans on SoonerCare, agency warns",
-      "link": "https://oklahomavoice.com/2026/09/02/new-work-requirements-could-affect-250000-oklahomans-on-soonercare-agency-warns/",
-      "published": "2026-09-02T18:18:57Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Indianz",
       "title": "Native America Calling: Persistent heat puts strain on people, the environment, and the economy",
       "link": "https://indianz.com/News/2026/09/02/native-america-calling-persistent-heat-puts-strain-on-people-the-environment-and-the-economy/",
@@ -2897,17 +2895,6 @@
       "tags": [
         "Elections",
         "Government"
-      ]
-    },
-    {
-      "source": "The Frontier",
-      "title": "With Trump\u2019s backing, Mike Mazzei embraced the smelter. Inola residents aren\u2019t convinced.",
-      "link": "https://www.readfrontier.org/stories/with-trumps-backing-mike-mazzei-embraced-the-smelter-inola-residents-arent-convinced/",
-      "published": "2026-08-21T11:10:01Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
