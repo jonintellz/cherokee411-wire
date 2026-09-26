@@ -1,11 +1,22 @@
 {
-  "generated": "2026-09-26T17:13:54Z",
+  "generated": "2026-09-26T19:55:43Z",
   "stats": {
     "items_before_dedup": 207,
     "items_after_dedup": 207,
     "duplicates_removed": 0
   },
   "items": [
+    {
+      "source": "KOSU",
+      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "link": "https://www.kosu.org/news/2026-09-26/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
+      "published": "2026-09-26T17:10:04Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
     {
       "source": "KOSU",
       "title": "'Wait Wait' for September 26, 2026: With Not My Job guest John Cook",
@@ -153,17 +164,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "National Book Award-finalist Min Jin Lee talks about her new novel, 'American Hagwon'",
-      "link": "https://www.kosu.org/2026-09-26/national-book-award-finalist-min-jin-lee-talks-about-her-new-novel-american-hagwon",
-      "published": "2026-09-26T11:37:44Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "CDC\u2019s latest youth behavior report offers a narrower look at teen health",
       "link": "https://oklahomavoice.com/2026/09/26/repub/cdcs-latest-youth-behavior-report-offers-a-narrower-look-at-teen-health/",
@@ -178,13 +178,13 @@
     },
     {
       "source": "Native America Calling",
-      "title": "Monday, September 28, 2026 \u2014 The Menu: Tribes ready to harvest foods in Yosemite, a blue corn children\u2019s book and a new Native eatery",
+      "title": "Monday, September 28, 2026 \u2014 The Menu: Traditional foraging in Yosemite, a blue corn children\u2019s book and a new Native pastry shop",
       "link": "https://www.nativeamericacalling.com/monday-september-28-2026-the-menu-tribes-ready-to-harvest-foods-in-yosemite-a-blue-corn-childrens-book-and-a-new-native-eatery/",
       "published": "2026-09-26T00:20:17Z",
       "native": true,
       "native_why": "source beat",
       "tags": [
-        "Food and Agriculture",
+        "Language and Culture",
         "Arts and Entertainment",
         "Youth"
       ]
