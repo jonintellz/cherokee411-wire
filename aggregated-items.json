@@ -1,11 +1,46 @@
 {
-  "generated": "2026-10-05T22:42:08Z",
+  "generated": "2026-10-06T03:03:20Z",
   "stats": {
     "items_before_dedup": 257,
     "items_after_dedup": 257,
     "duplicates_removed": 0
   },
   "items": [
+    {
+      "source": "NonDoc",
+      "title": "\u2018Indiscriminate mass surveillance\u2019: Judge says ALPR search violated Fourth Amendment in meth case",
+      "link": "https://nondoc.com/2026/10/05/indiscriminate-mass-surveillance-judge-says-alpr-search-violated-fourth-amendment-in-meth-case/",
+      "published": "2026-10-06T01:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Technology"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Bill passes requiring Congressional approval of data centers",
+      "link": "https://osagenews.org/bill-passes-requiring-congressional-approval-of-data-centers/",
+      "published": "2026-10-05T23:04:46Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Business and Economy",
+        "National and World"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Line 5 pipeline construction crews breach Wisconsin aquifer",
+      "link": "https://ictnews.org/news/north-central-bureau/line-5-pipeline-construction-crews-breach-wisconsin-aquifer/",
+      "published": "2026-10-05T23:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
     {
       "source": "KOSU",
       "title": "In Iraq, ISIS members once jailed in Syria face trial",
@@ -485,6 +520,17 @@
       ]
     },
     {
+      "source": "Indianz",
+      "title": "Native America Calling: One tribe breaks from the pack on prediction markets",
+      "link": "https://indianz.com/News/2026/10/05/native-america-calling-one-tribe-breaks-from-the-pack-on-prediction-markets/",
+      "published": "2026-10-05T05:00:04Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
       "source": "Native News Online",
       "title": "Governor Anoatubby Affirms State of the Chickasaw Nation is Strong",
       "link": "https://nativenewsonline.net/sovereignty/governor-anoatubby-affirms-state-of-the-chickasaw-nation-is-strong/",
@@ -703,17 +749,6 @@
       "title": "Assisted Living Facility nears completion in Hominy",
       "link": "https://osagenews.org/assisted-living-facility-nears-completion-in-hominy/",
       "published": "2026-10-02T19:01:29Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "ICT NEWSCAST: Cycle of abuse ends, Apostle Island status dispute and more",
-      "link": "https://ictnews.org/newscasts/ict-newscast-cycle-of-abuse-ends-apostle-island-status-dispute-and-more/",
-      "published": "2026-10-02T18:57:00Z",
       "native": true,
       "native_why": "source beat",
       "tags": [
@@ -1347,17 +1382,6 @@
       ]
     },
     {
-      "source": "NonDoc",
-      "title": "\u2018Never permitted changes to the sex designation\u2019: OK Supreme Court rules on birth certificate law",
-      "link": "https://nondoc.com/2026/09/30/never-permitted-changes-to-the-sex-designation-ok-supreme-court-rules-on-birth-certificate-law/",
-      "published": "2026-09-30T05:01:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
-      ]
-    },
-    {
       "source": "Oklahoma Watch",
       "title": "Sand Springs Explosion Brings Inspection Quality Into Question",
       "link": "https://oklahomawatch.org/2026/09/30/sand-springs-explosion-brings-inspection-quality-into-question/",
@@ -1590,17 +1614,6 @@
       "native_why": "",
       "tags": [
         "Courts and Law"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "Education Committee questions WELA costs after Daposka Ahnkodapi closure",
-      "link": "https://osagenews.org/education-committee-questions-wela-costs-after-daposka-ahnkodapi-closure/",
-      "published": "2026-09-28T19:43:42Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Education"
       ]
     },
     {
@@ -2924,17 +2937,6 @@
       "tags": [
         "Elections",
         "National and World"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Native America Calling: Native Playlist with Thomas Michael Swensen and Debora Iyall",
-      "link": "https://indianz.com/News/2026/08/12/native-america-calling-native-playlist-with-thomas-michael-swensen-and-debora-iyall/",
-      "published": "2026-08-12T05:00:16Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
       ]
     }
   ]
