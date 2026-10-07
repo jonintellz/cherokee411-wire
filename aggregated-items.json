@@ -1,11 +1,68 @@
 {
-  "generated": "2026-10-06T21:42:24Z",
+  "generated": "2026-10-07T01:36:25Z",
   "stats": {
     "items_before_dedup": 207,
     "items_after_dedup": 207,
     "duplicates_removed": 0
   },
   "items": [
+    {
+      "source": "ICT",
+      "title": "Supreme Court Denies Latest Challenge to Indian Child Welfare Act",
+      "link": "https://ictnews.org/news/supreme-court-denies-latest-challenge-to-indian-child-welfare-act/",
+      "published": "2026-10-06T23:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Courts and Law",
+        "Courts and Law"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Actress Eva Marie Saint, who won an Oscar for 'On the Waterfront,' dies at 102",
+      "link": "https://www.kosu.org/news/2026-10-06/actress-eva-marie-saint-who-won-an-oscar-for-on-the-waterfront-dies-at-102",
+      "published": "2026-10-06T22:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Land and Environment"
+      ]
+    },
+    {
+      "source": "Native America Calling",
+      "title": "Wednesday, October 7, 2026 \u2014 Native Playlist: Jeremy Dutcher and Mali Obomsawin",
+      "link": "https://www.nativeamericacalling.com/wednesday-october-7-2026-native-playlist-jeremy-dutcher-and-mali-obomsawin/",
+      "published": "2026-10-06T22:15:50Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The 2026 Nobel Prize in Physics has gone to a neutrino detector in Antarctica",
+      "link": "https://www.kosu.org/science/2026-10-06/the-2026-nobel-prize-in-physics-has-gone-to-a-neutrino-detector-in-antarctica",
+      "published": "2026-10-06T21:48:52Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Germany's ex-foreign intelligence agency chief is arrested on suspicion of espionage",
+      "link": "https://www.kosu.org/2026-10-06/germanys-ex-foreign-intelligence-agency-chief-is-arrested-on-suspicion-of-espionage",
+      "published": "2026-10-06T21:46:41Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Public Safety",
+        "Crime"
+      ]
+    },
     {
       "source": "KOSU",
       "title": "'Medicare for All' message attracts midterm voters buckling under medical bills",
@@ -144,29 +201,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Cornell names former acting U.S. attorney general to review rape case",
-      "link": "https://www.kosu.org/news/2026-10-06/cornell-names-former-acting-u-s-attorney-general-to-review-rape-case",
-      "published": "2026-10-06T18:31:45Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Oklahoma gubernatorial candidate Cyndi Munson speaks with Oklahoma State University students",
-      "link": "https://www.kosu.org/cyndi-munson-okstate-students",
-      "published": "2026-10-06T18:25:16Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Education"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "\u2018A good man\u2019: Former Sen. Tom Dugger dies at 77",
       "link": "https://nondoc.com/2026/10/06/a-good-man-former-sen-tom-dugger-dies-at-77/",
@@ -175,19 +209,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
-      "link": "https://www.kosu.org/news/2026-10-06/frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-country",
-      "published": "2026-10-06T18:05:44Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Public Safety",
-        "Land and Environment"
       ]
     },
     {
@@ -750,19 +771,6 @@
       "tags": [
         "Courts and Law",
         "Government"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "South Dakota governor candidates clash on data centers, education, economic development",
-      "link": "https://ictnews.org/news/south-dakota-governor-candidates-clash-on-data-centers-education-economic-development/",
-      "published": "2026-10-03T01:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections",
-        "Education",
-        "Business and Economy"
       ]
     },
     {
@@ -1719,17 +1727,6 @@
       "tags": [
         "Crime",
         "Elections"
-      ]
-    },
-    {
-      "source": "Native America Calling",
-      "title": "Wednesday, September 23, 2026 \u2014 How Indigenous voices adapt to rapidly evolving media",
-      "link": "https://www.nativeamericacalling.com/wednesday-september-23-2026-how-indigenous-voices-adapt-to-rapidly-evolving-media/",
-      "published": "2026-09-23T13:00:07Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Media"
       ]
     },
     {
