@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T16:33:31Z",
+  "generated": "2026-10-08T22:08:17Z",
   "stats": {
     "items_before_dedup": 257,
     "items_after_dedup": 256,
@@ -8,70 +8,216 @@
   "items": [
     {
       "source": "KOSU",
-      "title": "Gubernatorial debate, President Trump's visit, State Question 843 and more",
+      "title": "P\u00e1draig \u00d3 Tuama on the fear and relief of admitting the truth",
+      "link": "https://www.kosu.org/arts-culture/2026-10-08/padraig-o-tuama-on-the-fear-and-relief-of-admitting-the-truth",
+      "published": "2026-10-08T22:02:18Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Opera singers often quit not because they're done, but because life gets in the way",
+      "link": "https://www.kosu.org/arts-culture/2026-10-08/opera-singers-often-quit-not-because-theyre-done-but-because-life-gets-in-the-way",
+      "published": "2026-10-08T22:00:04Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The USS Abraham Lincoln is home in San Diego, after a record deployment",
+      "link": "https://www.kosu.org/u-s-news/2026-10-08/the-uss-abraham-lincoln-is-home-in-san-diego-after-a-record-deployment",
+      "published": "2026-10-08T21:43:22Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Veterans"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Major news outlets and Trump administration return to court over White House ban",
+      "link": "https://www.kosu.org/2026-10-08/major-news-outlets-and-trump-administration-return-to-court-over-white-house-ban",
+      "published": "2026-10-08T21:37:18Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Government",
+        "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "A Congressman wants his colleagues to pledge to accept election results",
+      "link": "https://www.kosu.org/2026-10-08/a-congressman-wants-his-colleagues-to-pledge-to-accept-election-results",
+      "published": "2026-10-08T21:19:55Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Study finds 194-year-old tortoise is 'aging more slowly than you would expect'",
+      "link": "https://www.kosu.org/science/2026-10-08/study-finds-194-year-old-tortoise-is-aging-more-slowly-than-you-would-expect",
+      "published": "2026-10-08T21:19:16Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Flock is catching flak. Experts say other surveillance tools are more worrisome",
+      "link": "https://www.kosu.org/2026-10-08/flock-is-catching-flak-experts-say-other-surveillance-tools-are-more-worrisome",
+      "published": "2026-10-08T20:20:06Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Technology"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Newsom apologized to tribes for historic harms, but vetoed 2 bills that would have empowered them",
+      "link": "https://ictnews.org/news/pacific-bureau/newsom-vetoes-tribal-bills-days-after-signing-california-apology/",
+      "published": "2026-10-08T20:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Discursive Verses: Vic Mensa and the rise of a rap manosphere counterculture",
+      "link": "https://www.kosu.org/music/2026-10-08/discursive-verses-vic-mensa-and-the-rise-of-a-rap-manosphere-counterculture",
+      "published": "2026-10-08T19:35:54Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "Tribal Nations Urge Supreme Court to Halt Prediction Market Sports Betting",
+      "link": "https://nativenewsonline.net/sovereignty/tribal-nations-urge-supreme-court-to-halt-prediction-market-sports-betting/",
+      "published": "2026-10-08T19:19:25Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Courts and Law",
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Suicide is up among Black Americans. We need to talk about it.",
+      "link": "https://www.kosu.org/news/2026-10-08/suicide-is-up-among-black-americans-we-need-to-talk-about-it",
+      "published": "2026-10-08T18:37:02Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "4 Oklahoma counties receive federal assistance to cover July storm costs",
+      "link": "https://www.kosu.org/oklahoma-july-2026-federal-disaster-assistance",
+      "published": "2026-10-08T18:35:05Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Public Safety",
+        "Weather"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Osage-owned Skyway Range hosts international drone competition",
+      "link": "https://osagenews.org/osage-owned-skyway-range-hosts-international-drone-competition/",
+      "published": "2026-10-08T18:16:36Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Events"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "$705 million Ho-Chunk casino opens this month",
+      "link": "https://ictnews.org/news/north-central-bureau/705-million-ho-chunk-casino-opens-this-month/",
+      "published": "2026-10-08T17:44:22Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Chance of dyed diesel lingering in tanks makes some farmers hesitant to accept Trump\u2019s help",
+      "link": "https://oklahomavoice.com/2026/10/08/repub/chance-of-dyed-diesel-lingering-in-tanks-makes-some-farmers-hesitant-to-accept-trumps-help/",
+      "published": "2026-10-08T16:43:13Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Food and Agriculture"
+      ]
+    },
+    {
+      "source": "Oklahoma Watch",
+      "title": "Are self-driving cars legal in Oklahoma?",
+      "link": "https://oklahomawatch.org/2026/10/08/are-self-driving-cars-legal-in-oklahoma/",
+      "published": "2026-10-08T16:37:28Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Urban, rural hospitals closing at similar rates, study finds",
+      "link": "https://oklahomavoice.com/2026/10/08/repub/urban-rural-hospitals-closing-at-similar-rates-study-finds/",
+      "published": "2026-10-08T16:19:20Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "The long-deployed USS Lincoln is returning home to San Diego",
+      "link": "https://www.kosu.org/news/2026-10-08/the-long-deployed-uss-lincoln-is-returning-home-to-san-diego",
+      "published": "2026-10-08T16:18:20Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Veterans"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Oklahoma gubernatorial debate, Trump's Durant rally, State Question 843 and more",
       "link": "https://www.kosu.org/show/this-week-in-oklahoma-politics/2026-10-08/gubernatorial-debate-president-trumps-visit-state-question-843-and-more",
       "published": "2026-10-08T16:10:44Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "National and World",
         "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "New U.S. indictment charges former Venezuelan President Nicol\u00e1s Maduro with torture",
-      "link": "https://www.kosu.org/news/2026-10-08/new-u-s-indictment-charges-former-venezuelan-president-nicolas-maduro-with-torture",
-      "published": "2026-10-08T16:05:37Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law",
-        "National and World"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Tiny Desk Radio: Luiza Brina, Silvia P\u00e9rez Cruz, Mon Laferte",
-      "link": "https://www.kosu.org/music/2026-10-08/tiny-desk-radio-luiza-brina-silvia-perez-cruz-mon-laferte",
-      "published": "2026-10-08T16:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
-      "link": "https://www.kosu.org/news/2026-10-08/4-people-on-nasas-crew-12-mission-return-to-earth-after-8-months-in-space",
-      "published": "2026-10-08T15:34:39Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "White House correspondent April Ryan reflects on reporting while under attack",
-      "link": "https://www.kosu.org/politics/2026-10-08/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
-      "published": "2026-10-08T15:24:23Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "National and World"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "'Cupertino' bursts out of the gate as one of the best shows on TV right now",
-      "link": "https://www.kosu.org/arts-culture/2026-10-08/cupertino-bursts-out-of-the-gate-as-one-of-the-best-shows-on-tv-right-now",
-      "published": "2026-10-08T15:23:42Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -100,17 +246,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Los Texmaniacs: Tiny Desk Concert",
-      "link": "https://www.kosu.org/music/2026-10-08/los-texmaniacs-tiny-desk-concert",
-      "published": "2026-10-08T14:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
       "source": "Native News Online",
       "title": "Chumash Casino Resort Launches Annual Project Pink Fundraiser for Breast Cancer Awareness Month",
       "link": "https://nativenewsonline.net/health/chumash-casino-resort-launches-annual-project-pink-fundraiser-for-breast-cancer-awareness-month/",
@@ -135,62 +270,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "A rural Northwest Oklahoma hospital is bringing back maternity care. Can it survive healthcare cuts?",
-      "link": "https://www.kosu.org/show/stateimpact-oklahoma/2026-10-08/a-rural-northwest-oklahoma-hospital-is-bringing-back-maternity-care-can-it-survive-healthcare-cuts",
-      "published": "2026-10-08T12:31:52Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health",
-        "Health"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-      "link": "https://www.kosu.org/news/2026-10-08/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-      "published": "2026-10-08T12:13:54Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "National and World"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-      "link": "https://www.kosu.org/news/2026-10-08/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-      "published": "2026-10-08T12:01:34Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
-      "link": "https://www.kosu.org/world-news/2026-10-08/isaias-intensifies-to-hurricane-and-judge-orders-pike-execution-evidence-preserved",
-      "published": "2026-10-08T11:35:22Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
-      "link": "https://www.kosu.org/news/2026-10-08/strike-on-ukrainian-public-bus-leaves-30-dead-as-blackouts-worsen-in-kyiv",
-      "published": "2026-10-08T11:25:28Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Transportation"
-      ]
-    },
-    {
       "source": "Oklahoma Watch",
       "title": "State Question 847: What Oklahoma Voters Need to Know Before Nov. 3",
       "link": "https://oklahomawatch.org/2026/10/08/state-question-847-what-oklahoma-voters-need-to-know-before-nov-3/",
@@ -200,6 +279,28 @@
       "tags": [
         "Elections",
         "Elections"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Elder services available through EODD",
+      "link": "https://www.muskogeephoenix.com/news/elder-services-available-through-eodd/article_449b803d-1fff-42ce-a305-0dc40cc9be6e.html",
+      "published": "2026-10-08T10:48:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Local real estate agent wins national award",
+      "link": "https://www.muskogeephoenix.com/news/local-real-estate-agent-wins-national-award/article_6870a7bc-9cbd-4364-b533-26639aad2cd8.html",
+      "published": "2026-10-08T10:39:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -214,6 +315,18 @@
       ]
     },
     {
+      "source": "Muskogee Phoenix",
+      "title": "Oklahoma School for the Blind to host White Cane Safety Awareness Day rally",
+      "link": "https://www.muskogeephoenix.com/news/oklahoma-school-for-the-blind-to-host-white-cane-safety-awareness-day-rally/article_9c741629-ca9f-451b-91f7-a8e4e2367514.html",
+      "published": "2026-10-08T10:23:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Community"
+      ]
+    },
+    {
       "source": "ICT",
       "title": "\u2018A lot of hurt\u2019: Men\u2019s Wellness Camp continues the healing following Orange Shirt Day",
       "link": "https://ictnews.org/news/a-lot-of-hurt-mens-wellness-camp-continues-the-healing-following-orange-shirt-day/",
@@ -223,6 +336,28 @@
       "tags": [
         "Health",
         "Youth"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Muskogee resident sentenced for failing to register as sex offender",
+      "link": "https://www.muskogeephoenix.com/news/muskogee-resident-sentenced-for-failing-to-register-as-sex-offender/article_45a04353-4d35-4b90-94c1-4207f0c4d2f6.html",
+      "published": "2026-10-08T09:55:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Red Cross calls for October blood donations",
+      "link": "https://www.muskogeephoenix.com/news/red-cross-calls-for-october-blood-donations/article_bd539c82-0f54-4bce-a0ec-be8407731d42.html",
+      "published": "2026-10-08T09:41:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Community"
       ]
     },
     {
@@ -503,6 +638,17 @@
     },
     {
       "source": "Muskogee Phoenix",
+      "title": "Webco Industries expands to Port Muskogee",
+      "link": "https://www.muskogeephoenix.com/news/webco-industries-expands-to-port-muskogee/article_2686311c-7c3e-45c1-99ba-8fe8028c1801.html",
+      "published": "2026-10-07T11:41:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
       "title": "Local youth program receives Union Pacific grant",
       "link": "https://www.muskogeephoenix.com/news/local-youth-program-receives-union-pacific-grant/article_abe6d5f4-3699-4808-acd3-bd7db8dbd145.html",
       "published": "2026-10-07T11:20:00Z",
@@ -637,19 +783,6 @@
       "tags": [
         "Courts and Law",
         "Elections"
-      ]
-    },
-    {
-      "source": "Native News Online",
-      "title": "Cherokee Nation Among Eight Communities to Receive Millions to Expand Mental Health, Substance Use Treatment Services, Housing Support",
-      "link": "https://nativenewsonline.net/health/cherokee-nation-among-eight-communities-to-receive-millions-to-expand-mental-health-substance-use-treatment-services-housing-support/",
-      "published": "2026-10-06T18:53:10Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health",
-        "Housing",
-        "Health"
       ]
     },
     {
@@ -983,6 +1116,17 @@
     },
     {
       "source": "Muskogee Phoenix",
+      "title": "OKIE From Muskogee, NeMarca Keys incorporates natural healing, herbs to help people",
+      "link": "https://www.muskogeephoenix.com/news/okie-from-muskogee-nemarca-keys-incorporates-natural-healing-herbs-to-help-people/article_f889e077-e49a-45b3-9b36-58e93efcc94b.html",
+      "published": "2026-10-05T14:08:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
       "title": "Hoskin discusses 'Condit Report,' announces Community Building Safety Initiative at grant conference",
       "link": "https://www.muskogeephoenix.com/news/hoskin-discusses-condit-report-announces-community-building-safety-initiative-at-grant-conference/article_524b7e15-94bd-5a12-aa3b-a506685862bd.html",
       "published": "2026-10-05T13:45:00Z",
@@ -1014,17 +1158,6 @@
       "native_why": "source beat",
       "tags": [
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Fun With the Drum: Medicine, Rhythm, and the Sacred Little Ones",
-      "link": "https://ictnews.org/sponsored-content/fun-with-the-drum-medicine-rhythm-and-the-sacred-little-ones/",
-      "published": "2026-10-05T13:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -1115,18 +1248,6 @@
       "native_why": "",
       "tags": [
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Black Hills Powwow boasts record prizes and buffalo harvests",
-      "link": "https://ictnews.org/culture/black-hills-powwow-boasts-record-prizes-and-buffalo-harvests/",
-      "published": "2026-10-05T10:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Language and Culture",
-        "Food and Agriculture"
       ]
     },
     {
@@ -1480,17 +1601,6 @@
       ]
     },
     {
-      "source": "Osage News",
-      "title": "Osage-owned coffee shop in the works for downtown Pawhuska",
-      "link": "https://osagenews.org/osage-owned-coffee-shop-in-the-works-for-downtown-pawhuska/",
-      "published": "2026-10-01T20:26:24Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma Voice releases Nov. 3 voter guide, highlighting candidates and issues",
       "link": "https://oklahomavoice.com/2026/10/01/oklahoma-voice-releases-nov-3-voter-guide-highlighting-candidates-and-issues/",
@@ -1615,17 +1725,6 @@
         "Elections",
         "Courts and Law",
         "Crime"
-      ]
-    },
-    {
-      "source": "Oklahoma Watch",
-      "title": "Eye on Oklahoma: Deadly Explosion Reveals Inspection Problems",
-      "link": "https://oklahomawatch.org/2026/09/30/eye-on-oklahoma-deadly-explosion-reveals-inspection-problems/",
-      "published": "2026-09-30T19:59:54Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -1959,39 +2058,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Oklahoma Music Hall of Fame repoens to crowds, despite evening showers",
-      "link": "https://www.muskogeephoenix.com/news/oklahoma-music-hall-of-fame-repoens-to-crowds-despite-evening-showers/article_ee52b234-7392-4ca4-8252-ae01b2a100a4.html",
-      "published": "2026-09-29T08:37:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "City manager details settlement payment options",
-      "link": "https://www.muskogeephoenix.com/news/city-manager-details-settlement-payment-options/article_57dbcef1-e4b9-46f2-80f1-54c07a07650b.html",
-      "published": "2026-09-29T08:24:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Council addresses questions about Reed conflict",
-      "link": "https://www.muskogeephoenix.com/news/council-addresses-questions-about-reed-conflict/article_140affcb-d7fa-4c01-8ebf-807ae95d717a.html",
-      "published": "2026-09-29T08:23:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Government"
-      ]
-    },
-    {
       "source": "Indianz",
       "title": "Native America Calling: Finding success through the art of contemporary horsemanship",
       "link": "https://indianz.com/News/2026/09/29/native-america-calling-finding-success-through-the-art-of-contemporary-horsemanship-2/",
@@ -2036,17 +2102,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Hoskin signs executive order establishing Capitol Complex District work group",
-      "link": "https://www.muskogeephoenix.com/news/hoskin-signs-executive-order-establishing-capitol-complex-district-work-group/article_e498e6c0-98e4-5d12-be01-5cc07d9a8e7b.html",
-      "published": "2026-09-28T17:30:00Z",
-      "native": true,
-      "native_why": "term: hoskin",
-      "tags": [
-        "Government"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Trump administration revokes $810M approved by Congress for refugee aid and more",
       "link": "https://oklahomavoice.com/2026/09/28/repub/trump-administration-revokes-810m-approved-by-congress-for-refugee-aid-and-more/",
@@ -2056,17 +2111,6 @@
       "tags": [
         "Government",
         "National and World"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "WHAT'S HAPPENING Oct 4-24",
-      "link": "https://www.muskogeephoenix.com/news/whats-happening-oct-4-24/article_fa5f80b1-aa8d-42a8-a3c9-250ef5fa655b.html",
-      "published": "2026-09-28T16:56:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
       ]
     },
     {
@@ -2080,29 +2124,6 @@
         "Sports",
         "National and World",
         "Features"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "OKIE FROM MUSKOGEE, Hunter Alexander promotes teamwork in classroom and on court",
-      "link": "https://www.muskogeephoenix.com/news/okie-from-muskogee-hunter-alexander-promotes-teamwork-in-classroom-and-on-court/article_766c2820-0fe8-4e33-9276-7ce39afd63c6.html",
-      "published": "2026-09-28T16:24:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Lieutenant governor joins OMHOF grand reopening",
-      "link": "https://www.muskogeephoenix.com/news/lieutenant-governor-joins-omhof-grand-reopening/article_afe34b55-0bc5-4a2a-a9e8-ca9f9b0891a9.html",
-      "published": "2026-09-28T15:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -2774,29 +2795,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "More GOP lawmakers break with Trump on Iran as gas prices keep climbing",
-      "link": "https://oklahomavoice.com/2026/09/17/repub/more-gop-lawmakers-break-with-trump-on-iran-as-gas-prices-keep-climbing/",
-      "published": "2026-09-17T14:56:22Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Oklahoma\u2019s current drought is bad, but residents lived through worse, climatologist says",
-      "link": "https://oklahomavoice.com/2026/09/17/oklahomas-current-drought-is-bad-but-residents-lived-through-worse-climatologist-says/",
-      "published": "2026-09-17T10:30:02Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Land and Environment",
-        "Weather"
       ]
     },
     {
