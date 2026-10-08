@@ -1,11 +1,44 @@
 {
-  "generated": "2026-10-07T22:02:08Z",
+  "generated": "2026-10-08T02:00:10Z",
   "stats": {
     "items_before_dedup": 257,
-    "items_after_dedup": 257,
-    "duplicates_removed": 0
+    "items_after_dedup": 256,
+    "duplicates_removed": 1
   },
   "items": [
+    {
+      "source": "ICT",
+      "title": "The fight for the House",
+      "link": "https://ictnews.org/opinion/the-fight-for-the-house/",
+      "published": "2026-10-08T01:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native America Calling",
+      "title": "Thursday, October 8, 2026 \u2014 Native authors and book sellers reflect on a record year for banned books",
+      "link": "https://www.nativeamericacalling.com/thursday-october-8-2026-native-authors-and-book-sellers-reflect-on-a-record-year-for-banned-books/",
+      "published": "2026-10-07T23:37:40Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "ICT\u2019s 2026 Guide to Indigenous Peoples Day events",
+      "link": "https://ictnews.org/events/icts-2026-guide-to-indigenous-peoples-day-events/",
+      "published": "2026-10-07T22:17:09Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
     {
       "source": "KOSU",
       "title": "Author Tomi Adeyemi contends with reality in her new book, 'The Siren'",
@@ -15,6 +48,17 @@
       "native_why": "",
       "tags": [
         "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
+      "link": "https://www.kosu.org/health/2026-10-07/republicans-and-democrats-find-a-unifying-target-pharmacy-benefit-managers",
+      "published": "2026-10-07T21:57:35Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -31,7 +75,7 @@
     {
       "source": "KOSU",
       "title": "What is the pneumonic plague?",
-      "link": "https://www.kosu.org/world-news/2026-10-07/what-is-the-pneumonic-plague",
+      "link": "https://www.kosu.org/news/2026-10-07/what-is-the-pneumonic-plague",
       "published": "2026-10-07T21:06:31Z",
       "native": false,
       "native_why": "",
@@ -149,17 +193,6 @@
       "native_why": "",
       "tags": [
         "Public Safety"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "This surprising mammal fossil is giving scientists something to chew on",
-      "link": "https://www.kosu.org/news/2026-10-07/this-surprising-mammal-fossil-is-giving-scientists-something-to-chew-on",
-      "published": "2026-10-07T19:59:16Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -307,17 +340,6 @@
     },
     {
       "source": "Native News Online",
-      "title": "The Fight for the House",
-      "link": "https://nativenewsonline.net/currents/the-fight-for-the-house/",
-      "published": "2026-10-07T14:24:48Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Native News Online",
       "title": "DOGE Dividend. Tariff Dividend. Now a $5,000 Check. See a Pattern?",
       "link": "https://nativenewsonline.net/opinion/doge-dividend-tariff-dividend-now-a-5000-check-see-a-pattern/",
       "published": "2026-10-07T14:02:10Z",
@@ -450,6 +472,17 @@
         "Health",
         "Education",
         "Health"
+      ]
+    },
+    {
+      "source": "Indianz",
+      "title": "Native America Calling: Native Playlist with Jeremy Dutcher and Mali Obomsawin",
+      "link": "https://indianz.com/News/2026/10/07/native-america-calling-native-playlist-with-jeremy-dutcher-and-mali-obomsawin/",
+      "published": "2026-10-07T05:00:26Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -1092,17 +1125,6 @@
       ]
     },
     {
-      "source": "ICT",
-      "title": "After more than 170 years, Siletz Tribe to reclaim ceded land",
-      "link": "https://ictnews.org/news/after-more-than-170-years-siletz-tribe-to-reclaim-ceded-land/",
-      "published": "2026-10-04T17:15:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Land and Environment"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Tribal roundup: Peoria, Muscogee nations mourn former chiefs; Kiowa special election challenged",
       "link": "https://nondoc.com/2026/10/04/tribal-roundup-peoria-muscogee-nations-mourn-former-chiefs-kiowa-special-election-challenged/",
@@ -1111,17 +1133,6 @@
       "native_why": "term: tribal",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "In a warming Arctic, Inuit bear guards protect communities",
-      "link": "https://ictnews.org/news/in-a-warming-arctic-inuit-bear-guards-protect-communities/",
-      "published": "2026-10-03T21:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -2252,17 +2263,6 @@
       ]
     },
     {
-      "source": "Native America Calling",
-      "title": "Thursday, September 24, 2026 \u2014 AI threat goes beyond just misuse of data",
-      "link": "https://www.nativeamericacalling.com/thursday-september-24-2026-ai-threat-goes-beyond-just-misuse-of-data/",
-      "published": "2026-09-24T13:00:52Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Technology"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma\u2019s next state auditor plans to tackle backlog by modernizing tech, rebuilding workforce",
       "link": "https://oklahomavoice.com/2026/09/24/oklahomas-next-state-auditor-plans-to-tackle-backlog-by-modernizing-tech-rebuilding-workforce/",
@@ -2928,17 +2928,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Indianz",
-      "title": "Native America Calling: Increasing hurdles and uncertainty put strains on Native beef producers and farmers",
-      "link": "https://indianz.com/News/2026/08/31/native-america-calling-increasing-hurdles-and-uncertainty-put-strains-on-native-beef-producers-and-farmers/",
-      "published": "2026-08-31T05:00:06Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Food and Agriculture"
       ]
     }
   ]
