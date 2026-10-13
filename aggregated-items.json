@@ -1,11 +1,248 @@
 {
-  "generated": "2026-10-12T19:50:22Z",
+  "generated": "2026-10-13T02:03:41Z",
   "stats": {
     "items_before_dedup": 257,
     "items_after_dedup": 257,
     "duplicates_removed": 0
   },
   "items": [
+    {
+      "source": "KOSU",
+      "title": "Ben Gamla Jewish Charter School narrowly rejected by Oklahoma Statewide Charter School Board",
+      "link": "https://www.kosu.org/education/2026-10-12/ben-gamla-jewish-charter-school-narrowly-rejected-by-oklahoma-statewide-charter-school-board",
+      "published": "2026-10-13T00:23:22Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Behind the scenes of First Americans Museum\u2019s Indigenous Peoples\u2019 Day celebration",
+      "link": "https://www.kosu.org/race-culture/2026-10-12/behind-the-scenes-of-first-americans-museums-indigenous-peoples-day-celebration",
+      "published": "2026-10-13T00:20:27Z",
+      "native": true,
+      "native_why": "term: indigenous",
+      "tags": [
+        "Language and Culture",
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Oklahoma state board again rejects Jewish charter school in \u2018shocking\u2019 vote",
+      "link": "https://oklahomavoice.com/2026/10/12/oklahoma-state-board-again-rejects-jewish-charter-school-in-shocking-vote/",
+      "published": "2026-10-12T22:23:24Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Elections"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+      "link": "https://www.kosu.org/politics/2026-10-12/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+      "published": "2026-10-12T22:17:43Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+      "link": "https://www.kosu.org/news/2026-10-12/government-spent-10-million-on-pro-trump-ads-after-president-said-super-pac-would-fund",
+      "published": "2026-10-12T22:16:47Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "What to know about the wacky first 5 weeks of the NFL season",
+      "link": "https://www.kosu.org/sports/2026-10-12/what-to-know-about-the-wacky-first-5-weeks-of-the-nfl-season",
+      "published": "2026-10-12T22:08:55Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Rise in accidents involving kids and e-bikes sparks debate about regulation",
+      "link": "https://www.kosu.org/2026-10-12/rise-in-accidents-involving-kids-and-e-bikes-sparks-debate-about-regulation",
+      "published": "2026-10-12T22:08:45Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Youth",
+        "Courts and Law"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Oklahoma voter registration system malfunction expected to have minimal impact, official says",
+      "link": "https://oklahomavoice.com/2026/10/12/oklahoma-voter-registration-system-malfunction-expected-to-have-minimal-impact-official-says/",
+      "published": "2026-10-12T21:57:14Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Elections"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "A Korean city borrows an educational model from the U.S. amid AI concerns",
+      "link": "https://www.kosu.org/2026-10-12/a-korean-city-borrows-an-educational-model-from-the-u-s-amid-ai-concerns",
+      "published": "2026-10-12T21:48:31Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Technology"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+      "link": "https://www.kosu.org/world-news/2026-10-12/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+      "published": "2026-10-12T21:43:48Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Two Americans win Nobel for economics",
+      "link": "https://www.kosu.org/business/2026-10-12/two-americans-win-nobel-for-economics",
+      "published": "2026-10-12T21:43:46Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Oil-heated households in Northeast strained by rising fuel prices",
+      "link": "https://www.kosu.org/energy-environment/2026-10-12/oil-heated-households-in-northeast-strained-by-rising-fuel-prices",
+      "published": "2026-10-12T21:41:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Many Iranians who go to Turkey to find jobs are exploited",
+      "link": "https://www.kosu.org/world-news/2026-10-12/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
+      "published": "2026-10-12T21:37:21Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Farmers say they'll take the relief of Trump's EO \u2014 but they're still hurting",
+      "link": "https://www.kosu.org/business/2026-10-12/farmers-say-theyll-take-the-relief-of-trumps-eo-but-theyre-still-hurting",
+      "published": "2026-10-12T21:33:18Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Food and Agriculture"
+      ]
+    },
+    {
+      "source": "Native America Calling",
+      "title": "Tuesday, October 13, 2026 \u2014 Yosemite is the latest in a 10-year expansion of tribal National Park foraging",
+      "link": "https://www.nativeamericacalling.com/tuesday-october-13-2026-yosemite-is-the-latest-in-a-10-year-expansion-of-tribal-national-park-foraging/",
+      "published": "2026-10-12T21:16:15Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "Standing Rock Sioux Tribe Files Lawsuit to Shut Down Dakota Access Pipeline",
+      "link": "https://nativenewsonline.net/environment/standing-rock-sioux-tribe-files-lawsuit-to-shut-down-dakota-access-pipeline/",
+      "published": "2026-10-12T21:00:48Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Courts and Law"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Native athlete pride: Shiyazh Pete recognized on Indigenous Peoples Day",
+      "link": "https://ictnews.org/sports/native-athlete-pride-shiyazh-pete-recognized-on-indigenous-peoples-day/",
+      "published": "2026-10-12T21:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Sports"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "US senators from both parties blast Trump order to import Russian diesel as illegal",
+      "link": "https://oklahomavoice.com/2026/10/12/repub/us-senators-from-both-parties-blast-trump-order-to-import-russian-diesel-as-illegal/",
+      "published": "2026-10-12T20:38:33Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "Native American Cancer Patients Face Nearly Twice the Mortality Rate of Other Medicare Patients, Study Finds",
+      "link": "https://nativenewsonline.net/health/native-american-cancer-patients-face-nearly-twice-the-mortality-rate-of-other-medicare-patients-study-finds/",
+      "published": "2026-10-12T20:14:21Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Health",
+        "Health"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "US House Dem leaders condemn Homeland Security raid on home of Rep. Ilhan Omar",
+      "link": "https://oklahomavoice.com/2026/10/12/repub/us-house-dem-leaders-condemn-homeland-security-raid-on-home-of-rep-ilhan-omar/",
+      "published": "2026-10-12T19:45:02Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Trump heads West in latest swing to bolster GOP in rocky lead-up to midterms",
+      "link": "https://oklahomavoice.com/2026/10/12/repub/trump-heads-west-in-latest-swing-to-bolster-gop-in-rocky-lead-up-to-midterms/",
+      "published": "2026-10-12T19:43:11Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
     {
       "source": "Native News Online",
       "title": "Columbus Day Repeats a Myth. Indigenous Peoples\u2019 Day Tells a Fuller Story.",
@@ -29,140 +266,14 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Meet 3 ways to cook the versatile chickpea",
-      "link": "https://www.kosu.org/food-drink/2026-10-12/meet-3-ways-to-cook-the-versatile-chickpea",
-      "published": "2026-10-12T16:04:34Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Notes on solitude: Author Kiran Desai reflects on 'The Loneliness of Sonia and Sunny'",
-      "link": "https://www.kosu.org/arts-culture/2026-10-12/notes-on-solitude-author-kiran-desai-reflects-on-the-loneliness-of-sonia-and-sunny",
-      "published": "2026-10-12T16:04:30Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Archaeologists and Native tribes dig for earliest signs of human life in Lake Erie",
-      "link": "https://www.kosu.org/science/2026-10-12/archaeologists-and-native-tribes-dig-for-earliest-signs-of-human-life-in-lake-erie",
-      "published": "2026-10-12T16:04:17Z",
+      "source": "Muskogee Phoenix",
+      "title": "Tribe awards top honors at 21st Cherokee Art Market",
+      "link": "https://www.muskogeephoenix.com/community/arts-entertainment/tribe-awards-top-honors-at-21st-cherokee-art-market/article_412fae4f-453b-5c29-ad32-0aa01880e838.html",
+      "published": "2026-10-12T16:15:00Z",
       "native": true,
-      "native_why": "term: tribes",
+      "native_why": "term: tribe",
       "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Birds are the dinosaurs that survived the mass-extinction event 66 millions years ago",
-      "link": "https://www.kosu.org/energy-environment/2026-10-12/birds-are-the-dinosaurs-that-survived-the-mass-extinction-event-66-millions-years-ago",
-      "published": "2026-10-12T16:04:12Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Funding shift for HIV prevention could impact most vulnerable populations",
-      "link": "https://www.kosu.org/politics/2026-10-12/funding-shift-for-hiv-prevention-could-impact-most-vulnerable-populations",
-      "published": "2026-10-12T16:04:07Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Why did an Anthropic AI model file a fake homicide report?",
-      "link": "https://www.kosu.org/technology/2026-10-12/why-did-an-anthropic-ai-model-file-a-fake-homicide-report",
-      "published": "2026-10-12T16:04:05Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Crime",
-        "Technology"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Is Trump's deal to buy Russian diesel legal?",
-      "link": "https://www.kosu.org/politics/2026-10-12/is-trumps-deal-to-buy-russian-diesel-legal",
-      "published": "2026-10-12T16:04:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "India's opposition parties march to top court as protests over voter lists escalate",
-      "link": "https://www.kosu.org/news/2026-10-12/indias-opposition-parties-march-to-top-court-as-protests-over-voter-lists-escalate",
-      "published": "2026-10-12T16:01:54Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Courts and Law",
-        "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "The Indigenous tradition of creating maple sugar",
-      "link": "https://www.kosu.org/food-drink/2026-10-12/the-indigenous-tradition-of-creating-maple-sugar",
-      "published": "2026-10-12T16:01:09Z",
-      "native": true,
-      "native_why": "term: indigenous",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Voter roll purge sparks protests in India",
-      "link": "https://www.kosu.org/politics/2026-10-12/voter-roll-purge-sparks-protests-in-india",
-      "published": "2026-10-12T16:00:24Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "From influencers to AI, college majors are changing",
-      "link": "https://www.kosu.org/education/2026-10-12/from-influencers-to-ai-college-majors-are-changing",
-      "published": "2026-10-12T15:59:54Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Technology"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Washington power couple talks Trump and midterms",
-      "link": "https://www.kosu.org/politics/2026-10-12/washington-power-couple-talks-trump-and-midterms",
-      "published": "2026-10-12T15:58:51Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "National and World"
+        "Business and Economy"
       ]
     },
     {
@@ -181,6 +292,17 @@
       "title": "Trump may backtrack on livestreamed execution of Fort Hood shooter",
       "link": "https://oklahomavoice.com/2026/10/12/repub/trump-may-backtrack-on-livestreamed-execution-of-fort-hood-shooter/",
       "published": "2026-10-12T15:26:15Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Muskogee Phoenix",
+      "title": "Sooner Skyfire Showdown dazzles Hatbox Event Park",
+      "link": "https://www.muskogeephoenix.com/news/sooner-skyfire-showdown-dazzles-hatbox-event-park/article_793b1507-2446-477a-9651-ed8bacdca188.html",
+      "published": "2026-10-12T15:00:00Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -506,19 +628,6 @@
       ]
     },
     {
-      "source": "Native News Online",
-      "title": "El-Sayed Brings Senate Campaign to Saginaw Chippewa Tribal College, Emphasizes Tribal Sovereignty",
-      "link": "https://nativenewsonline.net/currents/el-sayed-brings-senate-campaign-to-saginaw-chippewa-tribal-college-emphasizes-tribal-sovereignty/",
-      "published": "2026-10-10T15:19:32Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections",
-        "Education",
-        "National and World"
-      ]
-    },
-    {
       "source": "ICT",
       "title": "Jonathan Nez bets on \u2018buyer\u2019s remorse\u2019 in rematch against Eli Crane in rural Arizona",
       "link": "https://ictnews.org/news/jonathan-nez-bets-on-buyers-remorse-in-rematch-against-eli-crane-in-rural-arizona/",
@@ -538,17 +647,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Native News Online",
-      "title": "From Tribal Council to Capitol Hill: John Morseau on Advocating for Indian Country",
-      "link": "https://nativenewsonline.net/currents/from-tribal-council-to-capitol-hill-john-morseau-on-advocating-for-indian-country/",
-      "published": "2026-10-10T06:17:29Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Government"
       ]
     },
     {
@@ -896,17 +994,6 @@
       "native_why": "source beat",
       "tags": [
         "Education"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Four more tribes partner with prediction market giant Kalshi",
-      "link": "https://ictnews.org/gaming/four-more-tribes-partner-with-prediction-market-giant-kalshi/",
-      "published": "2026-10-08T23:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Business and Economy"
       ]
     },
     {
@@ -1876,17 +1963,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Music historian Hugh Foley inducted into Oklahoma Music Hall of Fame",
-      "link": "https://www.muskogeephoenix.com/news/music-historian-hugh-foley-inducted-into-oklahoma-music-hall-of-fame/article_de717c94-e320-43a7-bec3-b4c298558168.html",
-      "published": "2026-10-03T11:01:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "After states sue, Trump administration walks away from disability rights enforcement",
       "link": "https://oklahomavoice.com/2026/10/03/repub/after-states-sue-trump-administration-walks-away-from-disability-rights-enforcement/",
@@ -1907,17 +1983,6 @@
       "native_why": "",
       "tags": [
         "Government"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "GRDA to celebrate National Public Power Week 2026",
-      "link": "https://www.muskogeephoenix.com/news/grda-to-celebrate-national-public-power-week-2026/article_87acc9af-6d00-543f-a6d2-19118d10d9dc.html",
-      "published": "2026-10-02T17:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -2236,17 +2301,6 @@
       "published": "2026-09-29T13:16:27Z",
       "native": false,
       "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Native America Calling",
-      "title": "Tuesday, September 29, 2026 \u2014 Finding success through the art of contemporary horsemanship",
-      "link": "https://www.nativeamericacalling.com/tuesday-september-29-2026-finding-success-through-the-art-of-contemporary-horsemanship/",
-      "published": "2026-09-29T13:00:32Z",
-      "native": true,
-      "native_why": "source beat",
       "tags": [
         "General"
       ]
@@ -2770,64 +2824,6 @@
         "Health",
         "Business and Economy",
         "Health"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Federal judge dismisses lawsuit over Title X grant funding for pregnancy prevention efforts",
-      "link": "https://oklahomavoice.com/2026/09/21/repub/federal-judge-dismisses-lawsuit-over-title-x-grant-funding-for-pregnancy-prevention-efforts/",
-      "published": "2026-09-21T15:34:10Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy",
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "CNN, MS Now, Politico sue Trump over White House ban",
-      "link": "https://oklahomavoice.com/2026/09/21/repub/cnn-ms-now-politico-sue-trump-over-white-house-ban/",
-      "published": "2026-09-21T15:13:47Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law",
-        "National and World"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Trump rapid third-country removal policy blocked at appeals court",
-      "link": "https://oklahomavoice.com/2026/09/21/repub/trump-rapid-third-country-removal-policy-blocked-at-appeals-court/",
-      "published": "2026-09-21T15:10:57Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law",
-        "Government"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Judge says case challenging Trump\u2019s anti-weaponization fund \u2018still alive and kicking\u2019",
-      "link": "https://oklahomavoice.com/2026/09/21/repub/judge-says-case-challenging-trumps-anti-weaponization-fund-still-alive-and-kicking/",
-      "published": "2026-09-21T15:10:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Oklahoma Voice won an open records case we never should have had to fight. Here\u2019s how it worked.",
-      "link": "https://oklahomavoice.com/2026/09/21/oklahoma-voice-won-an-open-records-case-we-never-should-have-had-to-fight-heres-how-it-worked/",
-      "published": "2026-09-21T10:29:03Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
