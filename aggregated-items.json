@@ -1,20 +1,179 @@
 {
-  "generated": "2026-10-14T13:46:58Z",
+  "generated": "2026-10-14T18:40:36Z",
   "stats": {
     "items_before_dedup": 207,
-    "items_after_dedup": 206,
-    "duplicates_removed": 1
+    "items_after_dedup": 205,
+    "duplicates_removed": 2
   },
   "items": [
     {
+      "source": "Oklahoma Voice",
+      "title": "State office building to reopen after multi-year, $70M renovation",
+      "link": "https://oklahomavoice.com/2026/10/14/state-office-building-to-reopen-after-multi-year-70m-renovation/",
+      "published": "2026-10-14T17:56:10Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "Choctaw Nation Doctor Appointed to Health Tribal Advisory Committee",
+      "link": "https://nativenewsonline.net/health/choctaw-nation-doctor-appointed-to-health-tribal-advisory-committee/",
+      "published": "2026-10-14T17:47:15Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Health",
+        "Health"
+      ]
+    },
+    {
+      "source": "The Frontier",
+      "title": "Oklahoma parole board rejects clemency for man sentenced to die in Andrew murder case",
+      "link": "https://www.readfrontier.org/stories/oklahoma-parole-board-rejects-clemency-for-man-sentenced-to-die-in-andrew-murder-case/",
+      "published": "2026-10-14T17:41:32Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
       "source": "KOSU",
-      "title": "Inflation sizzled in September -- and Social Security benefits will get a boost",
+      "title": "Oklahoma Senator calls on Trump to rescind diesel deal with Russia",
+      "link": "https://www.kosu.org/armstrong-trump-russia-oil-deal",
+      "published": "2026-10-14T17:02:25Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "BIA Reports: Feds Take Over Red Lake Nation\u2019s Child Welfare Program After Deaths of Eight Children",
+      "link": "https://nativenewsonline.net/health/bia-reports-feds-take-over-red-lake-nations-child-welfare-program-after-deaths-of-eight-children/",
+      "published": "2026-10-14T16:43:25Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Youth"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Indigenous women imagine new futures in \u2018Beyond the Glittering World\u2019",
+      "link": "https://osagenews.org/indigenous-women-imagine-new-futures-in-beyond-the-glittering-world/",
+      "published": "2026-10-14T16:31:55Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Data center backlash set to sway midterm elections",
+      "link": "https://oklahomavoice.com/2026/10/14/repub/data-center-backlash-set-to-sway-midterm-elections/",
+      "published": "2026-10-14T16:02:12Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "Oklahoma Watch",
+      "title": "Portal Meltdowns, Abortion Lawsuits, and State Question 847",
+      "link": "https://oklahomawatch.org/2026/10/14/portal-meltdowns-abortion-lawsuits-and-state-question-847/",
+      "published": "2026-10-14T16:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Elections"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Judge sides with 3 news outlets banned by White House, allowing access for now",
+      "link": "https://oklahomavoice.com/2026/10/14/repub/judge-sides-with-3-news-outlets-banned-by-white-house-allowing-access-for-now/",
+      "published": "2026-10-14T15:59:08Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "National and World"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "\u2018Longest eight seconds in the world\u2019",
+      "link": "https://ictnews.org/sports/longest-eight-seconds-in-the-world/",
+      "published": "2026-10-14T15:57:09Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Native News Online",
+      "title": "Tribal Leaders Oppose Proposed Census Changes, Warn of Harm to Native Communities",
+      "link": "https://nativenewsonline.net/currents/tribal-leaders-oppose-proposed-census-changes-warn-of-harm-to-native-communities/",
+      "published": "2026-10-14T14:52:03Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Audit shows accounting errors caused Oklahoma County budget confusion, clerk urges system reform",
+      "link": "https://www.kosu.org/ok-county-accounting-errors",
+      "published": "2026-10-14T14:36:37Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Government"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Indigenous fire practice returns to Minnesota Point after 180 years",
+      "link": "https://ictnews.org/news/indigenous-fire-practice-returns-to-minnesota-point-after-180-years/",
+      "published": "2026-10-14T14:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Events"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Inflation sizzled in September \u2014 and Social Security benefits will get a boost",
       "link": "https://www.kosu.org/news/2026-10-14/inflation-sizzled-in-september-and-social-security-benefits-will-get-a-boost",
       "published": "2026-10-14T13:33:44Z",
       "native": false,
       "native_why": "",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Native America Calling",
+      "title": "Wednesday, October 14, 2026 \u2014 Tribes remain excluded from some major water policy decisions",
+      "link": "https://www.nativeamericacalling.com/wednesday-october-14-2026-tribes-remain-excluded-from-some-major-water-policy-decisions/",
+      "published": "2026-10-14T13:00:22Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Land and Environment",
+        "Government"
       ]
     },
     {
@@ -141,39 +300,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Dumping, sewage left on abandoned marijuana grows in Oklahoma",
-      "link": "https://www.kosu.org/abandoned-marijuana-grows-oklahoma",
-      "published": "2026-10-14T09:09:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "U.S. Ambassador to Greece Kimberly Guilfoyle resigns following misconduct allegations",
-      "link": "https://www.kosu.org/politics/2026-10-14/u-s-ambassador-to-greece-kimberly-guilfoyle-resigns-following-misconduct-allegations",
-      "published": "2026-10-14T09:08:04Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
-      "link": "https://www.kosu.org/news/2026-10-14/theyre-stealing-from-the-poor-a-major-source-of-snap-fraud-robs-recipients-of-millions",
-      "published": "2026-10-14T09:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Crime"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "HD 26: Shawnee\u2019s Leah Longest, Chris Odneal delve into data centers, massage parlors",
       "link": "https://nondoc.com/2026/10/14/hd-26-shawnees-leah-longest-chris-odneal-delve-into-data-centers-massage-parlors/",
@@ -187,7 +313,7 @@
     {
       "source": "Native News Online",
       "title": "Alaska Native Attorney Sam Schimmel Connects Cultural Traditions, Tribal Sovereignty in New PBS Series",
-      "link": "https://nativenewsonline.net/currents/alaska-native-attorney-sam-schimmel-connects-cultural-traditions-tribal-sovereignty-in-new-pbs-series/",
+      "link": "https://nativenewsonline.net/currents/sam-schimmel-pbs-american-creed-tribal-sovereignty/",
       "published": "2026-10-13T22:56:51Z",
       "native": true,
       "native_why": "source beat",
@@ -206,18 +332,6 @@
         "Health",
         "Elections",
         "Health"
-      ]
-    },
-    {
-      "source": "Native America Calling",
-      "title": "Wednesday, October 14, 2026 \u2014 Tribes remain excluded from some major water policy decisions",
-      "link": "https://www.nativeamericacalling.com/wednesday-october-14-2026-tribes-remain-excluded-from-some-major-water-policy-decisions/",
-      "published": "2026-10-13T22:09:22Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Land and Environment",
-        "Government"
       ]
     },
     {
@@ -497,18 +611,6 @@
       ]
     },
     {
-      "source": "Native News Online",
-      "title": "Native American Cancer Patients on Medicare Face Nearly Twice the Mortality Rate of Other Medicare Patients, Study Finds",
-      "link": "https://nativenewsonline.net/health/native-american-cancer-patients-face-nearly-twice-the-mortality-rate-of-other-medicare-patients-study-finds/",
-      "published": "2026-10-12T20:14:21Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health",
-        "Health"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "US House Dem leaders condemn Homeland Security raid on home of Rep. Ilhan Omar",
       "link": "https://oklahomavoice.com/2026/10/12/repub/us-house-dem-leaders-condemn-homeland-security-raid-on-home-of-rep-ilhan-omar/",
@@ -526,28 +628,6 @@
       "published": "2026-10-12T19:43:11Z",
       "native": false,
       "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Native News Online",
-      "title": "Columbus Day Repeats a Myth. Indigenous Peoples\u2019 Day Tells a Fuller Story.",
-      "link": "https://nativenewsonline.net/opinion/columbus-day-repeats-a-myth-indigenous-peoples-day-tells-a-fuller-story/",
-      "published": "2026-10-12T18:04:54Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Native News Online",
-      "title": "Monday Morning (October 12, 2026): Articles You May Have Missed This Past Weekend",
-      "link": "https://nativenewsonline.net/currents/monday-morning-october-12-2026-articles-you-may-have-missed-this-past-weekend/",
-      "published": "2026-10-12T18:01:12Z",
-      "native": true,
-      "native_why": "source beat",
       "tags": [
         "General"
       ]
@@ -653,17 +733,6 @@
       ]
     },
     {
-      "source": "ICT",
-      "title": "Tribal communities respond to reports of euthanized wolf pack",
-      "link": "https://ictnews.org/news/tribal-communities-respond-to-reports-of-euthanized-wolf-pack/",
-      "published": "2026-10-11T14:32:14Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Herschel Brown, Melvin Latham hope to help OKC\u2019s House District 99",
       "link": "https://nondoc.com/2026/10/11/herschel-brown-melvin-latham-hope-to-help-okcs-house-district-99/",
@@ -672,18 +741,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Washington state governor \u2018disappointed\u2019 Canada is fast-tracking new oil pipeline to B.C.",
-      "link": "https://ictnews.org/news/washington-state-governor-disappointed-canada-is-fast-tracking-new-oil-pipeline-to-b-c/",
-      "published": "2026-10-10T21:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Sports",
-        "National and World"
       ]
     },
     {
@@ -1170,19 +1227,6 @@
       ]
     },
     {
-      "source": "Oklahoma Watch",
-      "title": "State Examines Arrests For Unpaid Court Fines and Fees",
-      "link": "https://oklahomawatch.org/2026/10/07/state-examines-arrests-for-unpaid-court-fines-and-fees/",
-      "published": "2026-10-07T11:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law",
-        "Public Safety",
-        "Crime"
-      ]
-    },
-    {
       "source": "The Frontier",
       "title": "Mike Mazzei and Cyndi Munson debated. We checked the facts.",
       "link": "https://www.readfrontier.org/stories/mike-mazzei-and-cyndi-munson-debated-we-checked-the-facts/",
@@ -1351,17 +1395,6 @@
       "native_why": "",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "Osage Wildland firefighters utilize skills to protect communities near and far",
-      "link": "https://osagenews.org/osage-wildland-firefighters-utilize-skills-to-protect-communities-near-and-far/",
-      "published": "2026-10-05T19:23:49Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -1970,18 +2003,6 @@
       ]
     },
     {
-      "source": "The Frontier",
-      "title": "\u2018David against an army of Goliaths\u2019: The fight over a proposed data center in Sand Springs",
-      "link": "https://www.readfrontier.org/stories/david-against-an-army-of-goliaths-the-fight-over-a-proposed-data-center-in-sand-springs/",
-      "published": "2026-09-25T13:02:54Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy",
-        "Veterans"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma can\u2019t deny Jewish charter school from opening, federal judge decides",
       "link": "https://oklahomavoice.com/2026/09/24/oklahoma-cant-deny-jewish-charter-school-from-opening-federal-judge-decides/",
@@ -2193,42 +2214,6 @@
       "native_why": "source beat",
       "tags": [
         "Media"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Committee directs millions to drought relief for Oklahoma agricultural producers",
-      "link": "https://oklahomavoice.com/2026/09/22/committee-directs-millions-to-drought-relief-for-oklahoma-agricultural-producers/",
-      "published": "2026-09-22T21:17:26Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Land and Environment",
-        "Food and Agriculture",
-        "Weather"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "\u2018Drive them into hell\u2019: Trump ponders destruction of Iran at United Nations",
-      "link": "https://oklahomavoice.com/2026/09/22/repub/drive-them-into-hell-trump-ponders-destruction-of-iran-at-united-nations/",
-      "published": "2026-09-22T20:06:33Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Mayor breaks into song, crowd cheers state-aided Nebraska market",
-      "link": "https://oklahomavoice.com/2026/09/22/repub/mayor-breaks-into-song-crowd-cheers-state-aided-nebraska-market/",
-      "published": "2026-09-22T16:35:20Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Government",
-        "Business and Economy"
       ]
     },
     {
