@@ -1,20 +1,176 @@
 {
-  "generated": "2026-10-14T07:42:55Z",
+  "generated": "2026-10-14T13:46:58Z",
   "stats": {
     "items_before_dedup": 207,
-    "items_after_dedup": 207,
-    "duplicates_removed": 0
+    "items_after_dedup": 206,
+    "duplicates_removed": 1
   },
   "items": [
     {
       "source": "KOSU",
-      "title": "CNN, MS NOW and Politico prevail against White House \u2014 for now",
-      "link": "https://www.kosu.org/news/2026-10-14/cnn-ms-now-and-politico-prevail-against-white-house-for-now",
-      "published": "2026-10-14T07:16:02Z",
+      "title": "Inflation sizzled in September -- and Social Security benefits will get a boost",
+      "link": "https://www.kosu.org/news/2026-10-14/inflation-sizzled-in-september-and-social-security-benefits-will-get-a-boost",
+      "published": "2026-10-14T13:33:44Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
+      "link": "https://www.kosu.org/news/2026-10-14/hands-on-with-the-ocarina-of-time-remake-the-most-ornate-zelda-game-ever-made",
+      "published": "2026-10-14T13:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+      "link": "https://www.kosu.org/world-news/2026-10-14/zelenskyy-sits-down-with-npr-and-pope-leo-diagnosed-with-lung-cancer",
+      "published": "2026-10-14T11:38:51Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "source": "Oklahoma Watch",
+      "title": "More Data Centers, More Coal Emissions \u2014 and an OU Researcher Watching Atlantic Storms",
+      "link": "https://oklahomawatch.org/2026/10/14/more-data-centers-more-coal-emissions-and-an-ou-researcher-watching-atlantic-storms/",
+      "published": "2026-10-14T11:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy",
+        "Public Safety",
+        "Weather"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Headlines: Abandoned marijuana businesses, Sand Springs data center & Infinity One Spaceport",
+      "link": "https://www.kosu.org/kosudaily/2026-10-14/headlines-abandoned-marijuana-businesses-sand-springs-data-center-infinity-one-spaceport",
+      "published": "2026-10-14T10:49:04Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
+      "link": "https://www.kosu.org/world-news/2026-10-14/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
+      "published": "2026-10-14T10:44:30Z",
       "native": false,
       "native_why": "",
       "tags": [
         "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Trump takes campaign tour to Alaska as rallies for GOP candidates continue",
+      "link": "https://www.kosu.org/2026-10-14/trump-takes-campaign-tour-to-alaska-as-rallies-for-gop-candidates-continue",
+      "published": "2026-10-14T10:44:23Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "State Question 847 would cap Oklahomans\u2019 property tax growth. At what cost?",
+      "link": "https://oklahomavoice.com/2026/10/14/state-question-847-would-cap-oklahomans-property-tax-growth-at-what-cost/",
+      "published": "2026-10-14T10:30:08Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "The Frontier",
+      "title": "These brothers once shared an Oklahoma death row cell. Now they hope to share a home.",
+      "link": "https://www.readfrontier.org/stories/these-brothers-once-shared-an-oklahoma-death-row-cell-now-they-hope-to-share-a-home/",
+      "published": "2026-10-14T10:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Trump is heading all the way to Alaska in a sign of just how close its Senate race may be",
+      "link": "https://ictnews.org/politics/election-2026/trump-is-heading-all-the-way-to-alaska-in-a-sign-of-just-how-close-its-senate-race-may-be/",
+      "published": "2026-10-14T10:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "National and World"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "These workers help train robots who could one day steal their jobs",
+      "link": "https://www.kosu.org/news/2026-10-14/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
+      "published": "2026-10-14T09:28:47Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+      "link": "https://www.kosu.org/news/2026-10-14/trumps-ambassador-to-greece-kimberly-guilfoyle-resigns-after-allegations-of-improper-conduct",
+      "published": "2026-10-14T09:09:39Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Dumping, sewage left on abandoned marijuana grows in Oklahoma",
+      "link": "https://www.kosu.org/abandoned-marijuana-grows-oklahoma",
+      "published": "2026-10-14T09:09:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "U.S. Ambassador to Greece Kimberly Guilfoyle resigns following misconduct allegations",
+      "link": "https://www.kosu.org/politics/2026-10-14/u-s-ambassador-to-greece-kimberly-guilfoyle-resigns-following-misconduct-allegations",
+      "published": "2026-10-14T09:08:04Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
+      "link": "https://www.kosu.org/news/2026-10-14/theyre-stealing-from-the-poor-a-major-source-of-snap-fraud-robs-recipients-of-millions",
+      "published": "2026-10-14T09:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
       ]
     },
     {
@@ -53,17 +209,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
-      "link": "https://www.kosu.org/news/2026-10-13/pope-leo-has-lung-cancer-the-vatican-announces-after-surgery",
-      "published": "2026-10-13T22:29:26Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
       "source": "Native America Calling",
       "title": "Wednesday, October 14, 2026 \u2014 Tribes remain excluded from some major water policy decisions",
       "link": "https://www.nativeamericacalling.com/wednesday-october-14-2026-tribes-remain-excluded-from-some-major-water-policy-decisions/",
@@ -73,19 +218,6 @@
       "tags": [
         "Land and Environment",
         "Government"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Osage Nation police investigating language homeschool program, execute warrant mid-lessons",
-      "link": "https://www.kosu.org/osage-police-homeschool-search",
-      "published": "2026-10-13T21:43:50Z",
-      "native": true,
-      "native_why": "term: osage",
-      "tags": [
-        "Language and Culture",
-        "Public Safety",
-        "Business and Economy"
       ]
     },
     {
@@ -122,30 +254,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "How colleges are creating programs for a changing U.S. job market",
-      "link": "https://www.kosu.org/education/2026-10-13/how-colleges-are-creating-programs-for-a-changing-u-s-job-market",
-      "published": "2026-10-13T21:10:07Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Business and Economy",
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Pope Leo XIV has been diagnosed with lung cancer",
-      "link": "https://www.kosu.org/religion/2026-10-13/pope-leo-xiv-has-been-diagnosed-with-lung-cancer",
-      "published": "2026-10-13T21:10:06Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
       "source": "Native News Online",
       "title": "Native News Online Wants to Hear From You: Data Centers and AI",
       "link": "https://nativenewsonline.net/currents/native-news-online-wants-to-hear-from-you-data-centers-and-ai/",
@@ -155,84 +263,6 @@
       "tags": [
         "Business and Economy",
         "Technology"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Two Bass Hit: Ray Brown at 100 with Christian McBride and John Clayton",
-      "link": "https://www.kosu.org/music/2026-10-13/two-bass-hit-ray-brown-at-100-with-christian-mcbride-and-john-clayton",
-      "published": "2026-10-13T20:30:19Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Kimberly Guilfoyle has been asked to resign among corruption allegations",
-      "link": "https://www.kosu.org/politics/2026-10-13/kimberly-guilfoyle-has-been-asked-to-resign-among-corruption-allegations",
-      "published": "2026-10-13T20:03:45Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "President Trump's Ohio campaign ads have hit a roadblock",
-      "link": "https://www.kosu.org/2026-10-13/president-trumps-ohio-campaign-ads-have-hit-a-roadblock",
-      "published": "2026-10-13T20:03:43Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "National and World"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Why does Pete Hegseth want to livestream an execution?",
-      "link": "https://www.kosu.org/politics/2026-10-13/why-does-pete-hegseth-want-to-livestream-an-execution",
-      "published": "2026-10-13T20:03:42Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "NASA's Mars rover Perseverance has broken a landmark distance record",
-      "link": "https://www.kosu.org/2026-10-13/nasas-mars-rover-perseverance-has-broken-a-landmark-distance-record",
-      "published": "2026-10-13T20:03:41Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Land and Environment"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Researchers are tracking Monarch butterflies to learn more about their journey",
-      "link": "https://www.kosu.org/science/2026-10-13/researchers-are-tracking-monarch-butterflies-to-learn-more-about-their-journey",
-      "published": "2026-10-13T20:03:40Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "How will a diesel deal with Russia impact the U.S. market?",
-      "link": "https://www.kosu.org/world-news/2026-10-13/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
-      "published": "2026-10-13T20:03:37Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy"
       ]
     },
     {
@@ -654,17 +684,6 @@
       "tags": [
         "Sports",
         "National and World"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Jonathan Nez bets on \u2018buyer\u2019s remorse\u2019 in rematch against Eli Crane in rural Arizona",
-      "link": "https://ictnews.org/news/jonathan-nez-bets-on-buyers-remorse-in-rematch-against-eli-crane-in-rural-arizona/",
-      "published": "2026-10-10T12:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -1284,17 +1303,6 @@
       "native_why": "",
       "tags": [
         "Housing"
-      ]
-    },
-    {
-      "source": "Oklahoma Watch",
-      "title": "Oklahoma Mother\u2019s Lawsuit Joins Dozens of Others Across the Nation",
-      "link": "https://oklahomawatch.org/2026/10/06/oklahoma-mothers-lawsuit-joins-dozens-of-others-across-the-nation/",
-      "published": "2026-10-06T11:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Courts and Law"
       ]
     },
     {
@@ -2132,17 +2140,6 @@
       ]
     },
     {
-      "source": "The Frontier",
-      "title": "This rural Oklahoma town doesn\u2019t want a data center. It may not be able to stop the project",
-      "link": "https://www.readfrontier.org/stories/this-rural-oklahoma-town-doesnt-want-a-data-center-it-may-not-be-able-to-stop-the-project/",
-      "published": "2026-09-23T19:03:35Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Business and Economy"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Public intoxication charge dismissed against Oklahoma secretary of state",
       "link": "https://oklahomavoice.com/2026/09/23/public-intoxication-charge-dismissed-against-oklahoma-secretary-of-state/",
@@ -2232,17 +2229,6 @@
       "tags": [
         "Government",
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Where do Oklahoma universities rank among the nation\u2019s best colleges?",
-      "link": "https://oklahomavoice.com/2026/09/22/where-do-oklahoma-universities-rank-among-the-nations-best-colleges/",
-      "published": "2026-09-22T15:00:15Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
       ]
     },
     {
