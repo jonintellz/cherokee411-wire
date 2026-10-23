@@ -1,11 +1,34 @@
 {
-  "generated": "2026-10-23T01:34:22Z",
+  "generated": "2026-10-23T07:37:11Z",
   "stats": {
-    "items_before_dedup": 207,
-    "items_after_dedup": 207,
+    "items_before_dedup": 257,
+    "items_after_dedup": 257,
     "duplicates_removed": 0
   },
   "items": [
+    {
+      "source": "Native News Online",
+      "title": "California Indian Legal Services Sues National Archives Over Planned San Bruno Closure",
+      "link": "https://nativenewsonline.net/currents/california-indian-legal-services-sues-national-archives-over-planned-san-bruno-closure/",
+      "published": "2026-10-23T04:00:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Courts and Law",
+        "History and Heritage"
+      ]
+    },
+    {
+      "source": "NonDoc",
+      "title": "State downgrades 67 school districts as \u2018academic proficiency\u2019 enters accreditation matrix",
+      "link": "https://nondoc.com/2026/10/22/state-downgrades-67-school-districts-as-academic-proficiency-enters-accreditation-matrix/",
+      "published": "2026-10-23T01:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
+      ]
+    },
     {
       "source": "Native America Calling",
       "title": "Friday, October 23, 2026 \u2014 60 years of Alaska Native advocacy at AFN and assessing Typhoon Halong flooding a year later",
@@ -580,6 +603,17 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "Hoskin signs Victim Protection Act to protect privacy of domestic violence survivors",
+      "link": "https://www.tahlequahdailypress.com/news/hoskin-signs-victim-protection-act-to-protect-privacy-of-domestic-violence-survivors/article_dd811f64-16e9-41fd-a611-ae68ce86b12b.html",
+      "published": "2026-10-21T16:45:00Z",
+      "native": true,
+      "native_why": "term: hoskin",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Oklahoma Watch",
       "title": "Gubernatorial Loans, Data Center Pollution and DA Controversies",
       "link": "https://oklahomawatch.org/2026/10/21/gubernatorial-loans-data-center-pollution-and-da-controversies/",
@@ -592,6 +626,18 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "UKB Council rep files for impeachment of chief",
+      "link": "https://www.tahlequahdailypress.com/news/ukb-council-rep-files-for-impeachment-of-chief/article_7664081d-467b-4fcf-be36-7ceb8b5b1118.html",
+      "published": "2026-10-21T15:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Government"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "9 states shed jobs in the past year",
       "link": "https://oklahomavoice.com/2026/10/21/repub/nine-states-shed-jobs-in-the-past-year/",
@@ -600,6 +646,28 @@
       "native_why": "",
       "tags": [
         "Business and Economy"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Homeschooling changes since COVID-19",
+      "link": "https://www.tahlequahdailypress.com/news/homeschooling-changes-since-covid-19/article_d40d1f91-4da5-561f-959a-c3c3c11dbc7b.html",
+      "published": "2026-10-21T15:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Miss Christmas to return for third Holiday Showcase with new crowning date",
+      "link": "https://www.tahlequahdailypress.com/news/miss-christmas-to-return-for-third-holiday-showcase-with-new-crowning-date/article_787bf55b-0a23-40dc-812e-bf15ef03c0ac.html",
+      "published": "2026-10-21T15:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture"
       ]
     },
     {
@@ -623,6 +691,17 @@
       "tags": [
         "Public Safety",
         "Events"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "SPOOKS GALORE: Halloween means scary costumes, treats",
+      "link": "https://www.tahlequahdailypress.com/news/spooks-galore-halloween-means-scary-costumes-treats/article_d0aab3ab-6530-416b-adf3-16baa9d515fb.html",
+      "published": "2026-10-21T14:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -650,6 +729,17 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "Open enrollment started Oct. 15, runs through Dec. 7",
+      "link": "https://www.tahlequahdailypress.com/news/open-enrollment-started-oct-15-runs-through-dec-7/article_f9cf5bde-b430-4084-8732-1bf4ab399739.html",
+      "published": "2026-10-21T14:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Citizenship"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Wednesday, October 21, 2026 \u2014 Alaska Native advocates cite shortcomings in addressing MMIP crisis",
       "link": "https://www.nativeamericacalling.com/wednesday-october-21-2026-alaska-native-advocates-cite-shortcomings-in-addressing-mmip-crisis/",
@@ -665,6 +755,17 @@
       "title": "Five things to know about Oklahoma\u2019s role in immigration detention",
       "link": "https://www.readfrontier.org/stories/five-things-to-know-about-oklahomas-role-in-immigration-detention/",
       "published": "2026-10-21T12:48:18Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Oklahoma to promote safe medication disposal on DEA Take Back Day",
+      "link": "https://www.tahlequahdailypress.com/news/oklahoma-to-promote-safe-medication-disposal-on-dea-take-back-day/article_33625ffc-d9fc-465f-b243-14676edceced.html",
+      "published": "2026-10-21T12:45:00Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -696,10 +797,43 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "Child abuse sentence suspended",
+      "link": "https://www.tahlequahdailypress.com/news/child-abuse-sentence-suspended/article_1e2bfad3-a755-4a6d-ba7f-1401bab3ea66.html",
+      "published": "2026-10-21T11:39:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "EVERYDAY HEROES: Woman overcomes struggles to serve Cherokee people",
+      "link": "https://www.tahlequahdailypress.com/news/everyday-heroes-woman-overcomes-struggles-to-serve-cherokee-people/article_91dcdd56-8220-4acd-a540-4f6afb00388c.html",
+      "published": "2026-10-21T11:15:00Z",
+      "native": true,
+      "native_why": "term: cherokee people",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Oklahoma Watch",
       "title": "Pulpit Politics: Johnson Amendment Rarely Enforced",
       "link": "https://oklahomawatch.org/2026/10/21/pulpit-politics-johnson-amendment-rarely-enforced/",
       "published": "2026-10-21T11:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "AAUW to address wills, trusts",
+      "link": "https://www.tahlequahdailypress.com/news/aauw-to-address-wills-trusts/article_571dfec2-d1dd-4a70-a995-55589b982416.html",
+      "published": "2026-10-21T10:46:00Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -718,6 +852,19 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "SHERIFF'S BEAT Oct. 22, 2026: Man booked for allegedly assaulting relatives",
+      "link": "https://www.tahlequahdailypress.com/news/sheriffs-beat-oct-22-2026-man-booked-for-allegedly-assaulting-relatives/article_be5a373f-ecb4-401f-8390-4ca4eb692073.html",
+      "published": "2026-10-21T10:20:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Public Safety",
+        "Crime",
+        "Arts and Entertainment"
+      ]
+    },
+    {
       "source": "ICT",
       "title": "More than 100 Indigenous candidates running for local seats in 2026 midterm election",
       "link": "https://ictnews.org/politics/election-2026/more-than-100-indigenous-candidates-running-for-local-seats-in-2026-midterm-election/",
@@ -726,6 +873,17 @@
       "native_why": "source beat",
       "tags": [
         "Elections"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Christmas ship dates important to ensure gifts arrive on time",
+      "link": "https://www.tahlequahdailypress.com/news/christmas-ship-dates-important-to-ensure-gifts-arrive-on-time/article_5f812785-c86e-4c95-92ea-15990cd2bd8b.html",
+      "published": "2026-10-21T09:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -806,18 +964,6 @@
       ]
     },
     {
-      "source": "Native News Online",
-      "title": "$5 Million in Maternal Health Research Funding to Support Projects Aimed at Improving Outcomes for Native Mothers",
-      "link": "https://nativenewsonline.net/health/5-million-in-maternal-health-research-funding-to-support-projects-aimed-at-improving-outcomes-for-native-mothers/",
-      "published": "2026-10-20T19:12:27Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Health",
-        "Health"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Cheaper manufactured homes could be having a moment, if only states can catch up",
       "link": "https://oklahomavoice.com/2026/10/20/repub/cheaper-manufactured-homes-could-be-having-a-moment-if-only-states-can-catch-up/",
@@ -848,6 +994,17 @@
       "native_why": "",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "NSU ranks No. 7 in South for college value",
+      "link": "https://www.tahlequahdailypress.com/news/nsu-ranks-no-7-in-south-for-college-value/article_1ed317a4-1693-48f3-8ee1-31a076f9d5db.html",
+      "published": "2026-10-20T16:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
       ]
     },
     {
@@ -981,6 +1138,39 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "CUPCAKE WARS: 4-H members compete for best of show",
+      "link": "https://www.tahlequahdailypress.com/news/cupcake-wars-4-h-members-compete-for-best-of-show/article_c11570fa-6755-4061-a864-5cb0911fa5c1.html",
+      "published": "2026-10-19T17:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Youth"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "NHS data security incident involves former electronic medical records vendor",
+      "link": "https://www.tahlequahdailypress.com/news/nhs-data-security-incident-involves-former-electronic-medical-records-vendor/article_6953c7cf-56ae-4a1a-9345-47d1fc9a465f.html",
+      "published": "2026-10-19T16:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Inaugural community dinner boasts big turnout",
+      "link": "https://www.tahlequahdailypress.com/news/inaugural-community-dinner-boasts-big-turnout/article_d7ee5113-e214-4441-920e-6670d3e01179.html",
+      "published": "2026-10-19T16:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Bear killings skyrocket as garbage, bird feeders draw them into conflict",
       "link": "https://oklahomavoice.com/2026/10/19/repub/bear-killings-skyrocket-as-garbage-birdfeeders-draw-them-into-conflict/",
@@ -989,6 +1179,28 @@
       "native_why": "",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Commissioners revise AHJ contract with county, city",
+      "link": "https://www.tahlequahdailypress.com/news/commissioners-revise-ahj-contract-with-county-city/article_5feca9b6-e5a6-4ff4-a7ef-fa692a5adbe6.html",
+      "published": "2026-10-19T15:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Government"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "GRAMMAR DOG: Eliminating unnecessary words, revision, part 2",
+      "link": "https://www.tahlequahdailypress.com/news/grammar-dog-eliminating-unnecessary-words-revision-part-2/article_696b95e2-3d23-4e63-837e-4b59b9f47e03.html",
+      "published": "2026-10-19T14:55:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Opinion"
       ]
     },
     {
@@ -1003,6 +1215,31 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "SUPERINTENDENT'S CORNER: Family events on tap at Heritage Elementary",
+      "link": "https://www.tahlequahdailypress.com/news/superintendents-corner-family-events-on-tap-at-heritage-elementary/article_95c8c856-d591-444e-a249-3fe200434f39.html",
+      "published": "2026-10-19T13:20:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Language and Culture",
+        "Opinion",
+        "Opinion",
+        "History and Heritage"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "No Kings event urges locals to cast ballots in midterm election",
+      "link": "https://www.tahlequahdailypress.com/news/no-kings-event-urges-locals-to-cast-ballots-in-midterm-election/article_90bb3d23-d57e-471c-9b6a-a961aa1b5dec.html",
+      "published": "2026-10-19T13:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Monday, October 19, 2026 \u2014 Native in the Spotlight: Recorder Gabriella C\u00e1zares-Kelly",
       "link": "https://www.nativeamericacalling.com/monday-october-19-2026-native-in-the-spotlight-recorder-gabriella-cazares-kelly/",
@@ -1011,6 +1248,28 @@
       "native_why": "source beat",
       "tags": [
         "Features"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "COMMUNITY SPIRIT: Martial arts students collecting winter clothes for needy",
+      "link": "https://www.tahlequahdailypress.com/news/community-spirit-martial-arts-students-collecting-winter-clothes-for-needy/article_527cc7fd-e9fd-4816-8e23-2b5f5a17bd31.html",
+      "published": "2026-10-19T12:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Halloween events on tap in Tahlequah",
+      "link": "https://www.tahlequahdailypress.com/news/halloween-events-on-tap-in-tahlequah/article_c49a2202-c24e-4e02-a422-cc4def0afed1.html",
+      "published": "2026-10-19T11:53:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -1037,14 +1296,14 @@
       ]
     },
     {
-      "source": "NonDoc",
-      "title": "HD 28: Amid harassment, ethics inquiries, Danny Williams challenged by Blake Cummings",
-      "link": "https://nondoc.com/2026/10/19/hd-28-amid-harassment-ethics-inquiries-danny-williams-challenged-by-blake-cummings/",
-      "published": "2026-10-19T05:05:00Z",
+      "source": "Tahlequah Daily Press",
+      "title": "Teen drivers need proper instruction before licenses",
+      "link": "https://www.tahlequahdailypress.com/news/teen-drivers-need-proper-instruction-before-licenses/article_0f1fe39e-16c9-4453-ab91-3962ba726442.html",
+      "published": "2026-10-19T09:52:00Z",
       "native": false,
       "native_why": "",
       "tags": [
-        "General"
+        "Youth"
       ]
     },
     {
@@ -1070,6 +1329,18 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "SCHOOL SPOTLIGHT: Woodall carnival more than fun day for students",
+      "link": "https://www.tahlequahdailypress.com/news/school-spotlight-woodall-carnival-more-than-fun-day-for-students/article_84c6b7ac-a856-492a-b3a1-3f67bd1690b6.html",
+      "published": "2026-10-18T15:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Features"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "No Kings shifts strategy from streets to ballot boxes with early voting day of action",
       "link": "https://oklahomavoice.com/2026/10/17/repub/no-kings-shifts-strategy-from-streets-to-the-ballot-box-with-early-voting-day-of-action/",
@@ -1091,6 +1362,28 @@
       "tags": [
         "Arts and Entertainment",
         "Elections"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Scanning drivers license common practice for IDs",
+      "link": "https://www.tahlequahdailypress.com/news/scanning-drivers-license-common-practice-for-ids/article_113fd873-929e-4e4b-a142-0e92316bc366.html",
+      "published": "2026-10-17T14:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "What's Happening Oct 19-25",
+      "link": "https://www.tahlequahdailypress.com/news/whats-happening-oct-19-25/article_7c2cd527-98a0-445b-b9cf-e1ef4acdef03.html",
+      "published": "2026-10-17T06:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Features"
       ]
     },
     {
@@ -1161,6 +1454,52 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "Pediatrics Plus' Tahlequah Farm grand opening set for Nov. 5",
+      "link": "https://www.tahlequahdailypress.com/news/pediatrics-plus-tahlequah-farm-grand-opening-set-for-nov-5/article_fb0f5040-55a4-409d-a2bc-872a0cfa991c.html",
+      "published": "2026-10-16T15:08:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Food and Agriculture",
+        "Events"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "CHIEF CHAT: Reimagining Cherokee Nation Foundation",
+      "link": "https://www.tahlequahdailypress.com/news/chief-chat-reimagining-cherokee-nation-foundation/article_c3840e8b-2acc-4fae-82d8-9a154d08814a.html",
+      "published": "2026-10-16T15:08:00Z",
+      "native": true,
+      "native_why": "term: cherokee nation",
+      "tags": [
+        "Opinion",
+        "Opinion"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "MIRANDA RIGHTS: Thorp, local law officials explain rules, process",
+      "link": "https://www.tahlequahdailypress.com/news/miranda-rights-thorp-local-law-officials-explain-rules-process/article_10a1bf77-b96e-4681-a863-542cec16350c.html",
+      "published": "2026-10-16T15:02:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "TCP's 'Calendar Girls'",
+      "link": "https://www.tahlequahdailypress.com/community/arts-entertainment/tcps-calendar-girls/article_a7977760-94af-4a5e-b061-b552336fd6bd.html",
+      "published": "2026-10-16T14:05:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Events"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "California sued by Trump administration over demand to purge 20,000 voters from rolls",
       "link": "https://oklahomavoice.com/2026/10/16/repub/california-sued-by-trump-administration-over-demand-to-purge-20000-voters-from-rolls/",
@@ -1175,6 +1514,51 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "COLUMN: Tips on pansies, flower beds for fall",
+      "link": "https://www.tahlequahdailypress.com/news/column-tips-on-pansies-flower-beds-for-fall/article_26563438-5183-48a4-859a-7ba849740ceb.html",
+      "published": "2026-10-16T13:40:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Opinion",
+        "Opinion"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Cherokee Nation celebrates grand opening of Catoosa Child Development Center",
+      "link": "https://www.tahlequahdailypress.com/news/cherokee-nation-celebrates-grand-opening-of-catoosa-child-development-center/article_db6b29b9-1bb3-4068-ae43-fddd1498f7e2.html",
+      "published": "2026-10-16T13:38:00Z",
+      "native": true,
+      "native_why": "term: cherokee nation",
+      "tags": [
+        "Events"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Democrats to host Munson",
+      "link": "https://www.tahlequahdailypress.com/news/democrats-to-host-munson/article_ccc56b58-2abf-4415-93ea-f3ff2a8c1541.html",
+      "published": "2026-10-16T13:28:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Kidnapping case on tap",
+      "link": "https://www.tahlequahdailypress.com/news/kidnapping-case-on-tap/article_b48b973b-6257-4cc8-bbea-361c287f259a.html",
+      "published": "2026-10-16T13:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Friday, October 16, 2026 \u2014 The ongoing struggle to protect wild horses",
       "link": "https://www.nativeamericacalling.com/friday-october-16-2026-the-ongoing-struggle-to-protect-wild-horses/",
@@ -1183,6 +1567,19 @@
       "native_why": "source beat",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Cherokee Nation to celebrate season with return of Fall Harvest Festival",
+      "link": "https://www.tahlequahdailypress.com/news/cherokee-nation-to-celebrate-season-with-return-of-fall-harvest-festival/article_bfb2b4ba-4ac0-4849-ae8c-5d22a7e8e6dc.html",
+      "published": "2026-10-16T12:43:00Z",
+      "native": true,
+      "native_why": "term: cherokee nation",
+      "tags": [
+        "Arts and Entertainment",
+        "Food and Agriculture",
+        "Events"
       ]
     },
     {
@@ -1197,6 +1594,39 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "NHS recognized for efforts to improve outcomes for Oklahoma mothers, babies",
+      "link": "https://www.tahlequahdailypress.com/news/nhs-recognized-for-efforts-to-improve-outcomes-for-oklahoma-mothers-babies/article_29d68b7a-8681-486b-90f7-71051b5dfb1a.html",
+      "published": "2026-10-16T11:50:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Medicare, Social Security telephone town hall slated for Oct. 22",
+      "link": "https://www.tahlequahdailypress.com/news/medicare-social-security-telephone-town-hall-slated-for-oct-22/article_35b76dff-7be1-4ad1-8aeb-33fa906cc664.html",
+      "published": "2026-10-16T11:19:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "TPWA board hears positive report on September revenue",
+      "link": "https://www.tahlequahdailypress.com/news/tpwa-board-hears-positive-report-on-september-revenue/article_1e262e69-8d23-4c1f-a5a4-c976b1875219.html",
+      "published": "2026-10-16T11:08:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
       "source": "Oklahoma Watch",
       "title": "Tulsa DA Just Won Reelection. Now a Citizens\u2019 Group Wants a Grand Jury to Investigate Him.",
       "link": "https://oklahomawatch.org/2026/10/16/tulsa-da-just-won-reelection-now-a-citizens-group-wants-a-grand-jury-to-investigate-him/",
@@ -1205,6 +1635,28 @@
       "native_why": "",
       "tags": [
         "Business and Economy"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "POLITICAL ROUNDUP: Trump's comments about bombing L.A. creates division",
+      "link": "https://www.tahlequahdailypress.com/news/political-roundup-trumps-comments-about-bombing-l-a-creates-division/article_92394e55-a863-473d-b7b0-a32482d249b0.html",
+      "published": "2026-10-16T10:12:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Red Ribbon Week to start",
+      "link": "https://www.tahlequahdailypress.com/news/red-ribbon-week-to-start/article_dc5a7ce7-43ef-4cb9-8b49-f9805f669f1c.html",
+      "published": "2026-10-16T09:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
       ]
     },
     {
@@ -1300,6 +1752,17 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "Park Hill man pleads guilty to child neglect",
+      "link": "https://www.tahlequahdailypress.com/news/park-hill-man-pleads-guilty-to-child-neglect/article_1666ec6d-bdd9-44a2-bcc4-be74b7db5495.html",
+      "published": "2026-10-15T16:33:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Trump: Execution of Fort Hood shooter will not be livestreamed",
       "link": "https://oklahomavoice.com/2026/10/15/repub/trump-execution-of-fort-hood-shooter-will-not-be-livestreamed/",
@@ -1324,12 +1787,34 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "After 'Dateline': New questions emerge in Galloway murder case",
+      "link": "https://www.tahlequahdailypress.com/news/after-dateline-new-questions-emerge-in-galloway-murder-case/article_a896932e-997a-429f-b0b0-e93a8261a154.html",
+      "published": "2026-10-15T14:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Thursday, October 15, 2026 \u2014 How a young Ponca activist shaped the future of Native activism",
       "link": "https://www.nativeamericacalling.com/thursday-october-15-2026-how-a-young-ponca-activist-shaped-the-future-of-native-activism/",
       "published": "2026-10-15T13:00:50Z",
       "native": true,
       "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "NSU grant expands access to affordable childcare at Little Rowdy Childcare Center",
+      "link": "https://www.tahlequahdailypress.com/news/nsu-grant-expands-access-to-affordable-childcare-at-little-rowdy-childcare-center/article_e845a93c-1edc-4231-8490-7a51e65800a8.html",
+      "published": "2026-10-15T12:45:00Z",
+      "native": false,
+      "native_why": "",
       "tags": [
         "General"
       ]
@@ -1350,6 +1835,17 @@
       "title": "Detention for Dollars",
       "link": "https://www.readfrontier.org/stories/detention-for-dollars/",
       "published": "2026-10-15T11:30:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "'IT' IS ALIVE: Prepare to meet nightmares while trying to score candy",
+      "link": "https://www.tahlequahdailypress.com/news/it-is-alive-prepare-to-meet-nightmares-while-trying-to-score-candy/article_883c911a-f9eb-4173-b12c-3523f9b2a7ee.html",
+      "published": "2026-10-15T09:24:00Z",
       "native": false,
       "native_why": "",
       "tags": [
@@ -1471,6 +1967,43 @@
       ]
     },
     {
+      "source": "Tahlequah Daily Press",
+      "title": "Nursing students trade clinical hours for construction site, tackle local housing crisis",
+      "link": "https://www.tahlequahdailypress.com/news/nursing-students-trade-clinical-hours-for-construction-site-tackle-local-housing-crisis/article_fbe9e2cb-7f7c-45a8-bfba-f33013d5e4dc.html",
+      "published": "2026-10-14T15:35:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Health",
+        "Education",
+        "Housing"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "DIVISION AGAIN: Farm bill deeply divides Congress",
+      "link": "https://www.tahlequahdailypress.com/news/division-again-farm-bill-deeply-divides-congress/article_a7409844-26a8-4229-ac6e-4c307a007418.html",
+      "published": "2026-10-14T15:00:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Food and Agriculture",
+        "National and World"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "4-H Pumpkin Fair Oct. 17",
+      "link": "https://www.tahlequahdailypress.com/news/4-h-pumpkin-fair-oct-17/article_b5d5526c-e3b6-4c13-8071-971df3aeee49.html",
+      "published": "2026-10-14T14:15:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Youth",
+        "Events"
+      ]
+    },
+    {
       "source": "Native America Calling",
       "title": "Wednesday, October 14, 2026 \u2014 Tribes remain excluded from some major water policy decisions",
       "link": "https://www.nativeamericacalling.com/wednesday-october-14-2026-tribes-remain-excluded-from-some-major-water-policy-decisions/",
@@ -1480,6 +2013,29 @@
       "tags": [
         "Land and Environment",
         "Government"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "EVERYDAY HEROES: Homecoming Queen balances school, jobs, business",
+      "link": "https://www.tahlequahdailypress.com/news/everyday-heroes-homecoming-queen-balances-school-jobs-business/article_e983662b-204d-4f3e-8f97-0ab832335209.html",
+      "published": "2026-10-14T11:45:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Education",
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Officials: Despite tough economic times, CN in good shape",
+      "link": "https://www.tahlequahdailypress.com/news/officials-despite-tough-economic-times-cn-in-good-shape/article_ca25c39f-0fd7-479f-b321-ce472009cac5.html",
+      "published": "2026-10-14T10:48:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
       ]
     },
     {
@@ -1502,6 +2058,17 @@
       "native_why": "",
       "tags": [
         "General"
+      ]
+    },
+    {
+      "source": "Tahlequah Daily Press",
+      "title": "Tribal man receives deferred sentence for firing weapon in public place",
+      "link": "https://www.tahlequahdailypress.com/news/tribal-man-receives-deferred-sentence-for-firing-weapon-in-public-place/article_71ce6116-7c96-4449-880e-059d4aba628c.html",
+      "published": "2026-10-14T10:22:00Z",
+      "native": true,
+      "native_why": "term: tribal",
+      "tags": [
+        "Crime"
       ]
     },
     {
