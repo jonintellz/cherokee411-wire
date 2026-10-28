@@ -1,32 +1,258 @@
 {
-  "generated": "2026-10-28T13:04:18Z",
+  "generated": "2026-10-28T18:53:19Z",
   "stats": {
     "items_before_dedup": 257,
-    "items_after_dedup": 255,
-    "duplicates_removed": 2
+    "items_after_dedup": 256,
+    "duplicates_removed": 1
   },
   "items": [
     {
+      "source": "ICT",
+      "title": "Before you sign: Key contract provisions for tribes considering data center developments",
+      "link": "https://ictnews.org/opinion/before-you-sign-key-contract-provisions-for-tribes-considering-data-center-developments/",
+      "published": "2026-10-28T18:30:00Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
       "source": "KOSU",
-      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-      "link": "https://www.kosu.org/politics/2026-10-28/israels-election-too-close-to-call-and-the-ebola-outbreak-reaches-grim-milestone",
-      "published": "2026-10-28T11:28:55Z",
+      "title": "Thomas Mann returns to his 'Fatherland' in this practically flawless film",
+      "link": "https://www.kosu.org/arts-culture/2026-10-28/thomas-mann-returns-to-his-fatherland-in-this-practically-flawless-film",
+      "published": "2026-10-28T18:13:21Z",
       "native": false,
       "native_why": "",
+      "tags": [
+        "Language and Culture",
+        "Arts and Entertainment",
+        "Events"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+      "link": "https://www.kosu.org/arts-culture/2026-10-28/new-book-revisits-the-2023-killing-of-an-unhoused-man-in-crisis-on-the-nyc-subway",
+      "published": "2026-10-28T18:07:33Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Fed holds interest rates steady even as inflation remains stubborn",
+      "link": "https://www.kosu.org/news/2026-10-28/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
+      "published": "2026-10-28T18:04:42Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Oklahoma tribal leadership fight puts Kalshi\u2019s prediction markets at center of dispute",
+      "link": "https://oklahomavoice.com/2026/10/28/oklahoma-tribal-leadership-fight-puts-kalshis-prediction-markets-at-center-of-dispute/",
+      "published": "2026-10-28T17:03:09Z",
+      "native": true,
+      "native_why": "term: tribal",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Tommy Lee Marshall Slankard Obituary",
+      "link": "https://osagenews.org/tommy-lee-marshall-slankard-obituary/",
+      "published": "2026-10-28T16:48:54Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Public Safety",
+        "Obituaries"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+      "link": "https://www.kosu.org/news/2026-10-28/dolores-huerta-influential-labor-leader-feminist-and-civil-rights-icon-dies-at-96",
+      "published": "2026-10-28T16:10:43Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "What do costumers wear for Halloween?",
+      "link": "https://www.kosu.org/arts-culture/2026-10-28/what-do-costumers-wear-for-halloween",
+      "published": "2026-10-28T16:03:44Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Still recovering from Hurricane Helene, North Carolinians heads to the polls",
+      "link": "https://www.kosu.org/politics/2026-10-28/still-recovering-from-hurricane-helene-north-carolinians-heads-to-the-polls",
+      "published": "2026-10-28T16:03:11Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "CDC deputy director resigns as the agency faces mounting criticism",
+      "link": "https://www.kosu.org/politics/2026-10-28/cdc-deputy-director-resigns-as-the-agency-faces-mounting-criticism",
+      "published": "2026-10-28T16:03:05Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Trump merchandise stores are struggling to stay in business",
+      "link": "https://www.kosu.org/politics/2026-10-28/trump-merchandise-stores-are-struggling-to-stay-in-business",
+      "published": "2026-10-28T16:02:47Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "How the AI race is impacting Seattle's economy",
+      "link": "https://www.kosu.org/technology/2026-10-28/how-the-ai-race-is-impacting-seattles-economy",
+      "published": "2026-10-28T16:02:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Business and Economy",
+        "Technology"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "This year's midterms are the most expensive in U.S. history",
+      "link": "https://www.kosu.org/politics/2026-10-28/this-years-midterms-are-the-most-expensive-in-u-s-history",
+      "published": "2026-10-28T16:01:47Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "'Free birth' gains attention on social media despite medical risks",
+      "link": "https://www.kosu.org/2026-10-28/free-birth-gains-attention-on-social-media-despite-medical-risks",
+      "published": "2026-10-28T16:01:22Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Media"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "UN peacekeeping mission in Lebanon will end this year",
+      "link": "https://www.kosu.org/politics/2026-10-28/un-peacekeeping-mission-in-lebanon-will-end-this-year",
+      "published": "2026-10-28T16:00:12Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "Incumbent congressional candidates skip Alaska Native convention\u2019s forum",
+      "link": "https://ictnews.org/news/incumbent-congressional-candidates-skip-alaska-native-conventions-forum/",
+      "published": "2026-10-28T16:00:00Z",
+      "native": true,
+      "native_why": "source beat",
       "tags": [
         "Elections",
         "National and World"
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Headlines: Early voting begins, Apple indigenous languages & \u201cHansel and Gretel\u2019s Halloween\u201d",
-      "link": "https://www.kosu.org/kosudaily/2026-10-28/headlines-early-voting-begins-apple-indigenous-languages-hansel-and-gretels-halloween",
-      "published": "2026-10-28T11:18:26Z",
-      "native": true,
-      "native_why": "term: indigenous",
+      "source": "Oklahoma Watch",
+      "title": "Taxpayer-Funded Faith, Court Debt, and Preaching Politics",
+      "link": "https://oklahomawatch.org/2026/10/28/taxpayer-funded-faith-court-debt-and-preaching-politics/",
+      "published": "2026-10-28T16:00:00Z",
+      "native": false,
+      "native_why": "",
       "tags": [
-        "Language and Culture",
+        "Courts and Law"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Commentary: A New Approach to Closing the Disability Wealth Gap",
+      "link": "https://oklahomavoice.com/2026/10/28/a-new-approach-to-closing-the-disability-wealth-gap/",
+      "published": "2026-10-28T15:30:49Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Opinion"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Early voting surges in midterm elections as millions cast their ballots",
+      "link": "https://oklahomavoice.com/2026/10/28/repub/early-voting-surges-in-midterm-elections-as-millions-cast-their-ballots/",
+      "published": "2026-10-28T14:24:43Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Elections"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "Courts to decide fate of Trump\u2019s latest push to control voting as Election Day nears",
+      "link": "https://oklahomavoice.com/2026/10/28/repub/courts-to-decide-fate-of-trumps-latest-push-to-control-voting-as-election-day-nears/",
+      "published": "2026-10-28T14:23:51Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Courts and Law",
+        "Elections"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "North Carolina, Oklahoma join \u2018overcharging\u2019 lawsuit against Dollar General",
+      "link": "https://oklahomavoice.com/2026/10/28/north-carolina-oklahoma-join-overcharging-lawsuit-against-dollar-general/",
+      "published": "2026-10-28T14:21:58Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law"
+      ]
+    },
+    {
+      "source": "Native America Calling",
+      "title": "Wednesday, October 28, 2026 \u2014 Election Day anticipation",
+      "link": "https://www.nativeamericacalling.com/wednesday-october-28-2026-election-day-anticipation/",
+      "published": "2026-10-28T13:00:40Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
         "Elections"
       ]
     },
@@ -53,40 +279,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Trump's messaging meanders as GOP makes final push toward Election Day",
-      "link": "https://www.kosu.org/2026-10-28/trumps-messaging-meanders-as-gop-makes-final-push-toward-election-day",
-      "published": "2026-10-28T10:58:14Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Larry Sabato on Trump's messaging and the issues driving voters to the polls",
-      "link": "https://www.kosu.org/2026-10-28/larry-sabato-on-trumps-messaging-and-the-issues-driving-voters-to-the-polls",
-      "published": "2026-10-28T10:58:06Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Tampa Bay Rays extends World Series against the Milwaukee Brewers",
-      "link": "https://www.kosu.org/sports/2026-10-28/tampa-bay-rays-extends-world-series-against-the-milwaukee-brewers",
-      "published": "2026-10-28T10:58:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Oklahoma Watch",
       "title": "Rural Counties Face Hurdles in Tapping State Question 781 Money",
       "link": "https://oklahomawatch.org/2026/10/28/rural-counties-face-hurdles-in-tapping-state-question-781-money/",
@@ -95,18 +287,6 @@
       "native_why": "",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "At least 30 dead in crash between two trains in central Spain, media say",
-      "link": "https://www.kosu.org/news/2026-10-28/at-least-30-dead-in-crash-between-two-trains-in-central-spain-media-say",
-      "published": "2026-10-28T10:09:46Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety",
-        "Media"
       ]
     },
     {
@@ -122,63 +302,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "As food aid enrollment drops nationwide, Oklahoma sees steep declines",
-      "link": "https://www.kosu.org/oklahoma-snap-enrollment-declines",
-      "published": "2026-10-28T09:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Citizenship",
-        "National and World"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "10 Oklahoma-based tribes negotiating $22 million in federal grants for energy projects",
-      "link": "https://www.kosu.org/tribal-federal-funding-energy-projects",
-      "published": "2026-10-28T09:05:00Z",
-      "native": true,
-      "native_why": "term: tribes",
-      "tags": [
-        "Land and Environment"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Oklahoma lawmaker hopes to protect event venues, patrons from bot-powered ticket fraud",
-      "link": "https://www.kosu.org/oklahoma-online-ticket-resale-study",
-      "published": "2026-10-28T09:05:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Crime"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Apple adds Comanche, Kiowa languages to iPhone keyboards",
-      "link": "https://www.kosu.org/apple-iphone-comanche-kiowa-language",
-      "published": "2026-10-28T09:01:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Language and Culture"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Could Oklahoma's pesky redcedars find use in soil health and orphan well plugging?",
-      "link": "https://www.kosu.org/oklahoma-redcedars-biochar",
-      "published": "2026-10-28T09:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health",
-        "Health"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Judicial candidate for Pottawatomie, Lincoln counties accused of rape in 2020, not charged",
       "link": "https://nondoc.com/2026/10/28/judicial-candidate-for-pottawatomie-lincoln-counties-accused-of-rape-in-2020-not-charged/",
@@ -188,6 +311,17 @@
       "tags": [
         "Elections",
         "Crime"
+      ]
+    },
+    {
+      "source": "NonDoc",
+      "title": "Fact check: Oklahoma AG candidates debate Blaine Amendments, Inola smelter claims",
+      "link": "https://nondoc.com/2026/10/28/fact-check-oklahoma-ag-candidates-debate-blaine-amendments-inola-smelter-claims/",
+      "published": "2026-10-28T05:01:00Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
       ]
     },
     {
@@ -221,17 +355,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Native America Calling",
-      "title": "Wednesday, October 28, 2026 \u2014 Election Day anticipation",
-      "link": "https://www.nativeamericacalling.com/wednesday-october-28-2026-election-day-anticipation/",
-      "published": "2026-10-27T22:10:40Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections"
       ]
     },
     {
@@ -677,17 +800,6 @@
       ]
     },
     {
-      "source": "ICT",
-      "title": "Will Mary Peltola make history? Alaska race tightens for U.S. Senate",
-      "link": "https://ictnews.org/news/will-mary-peltola-make-history-alaska-race-tightens-for-u-s-senate/",
-      "published": "2026-10-26T10:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "National and World"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Brad Boles, Rhonda Eastman race for Oklahoma Corporation Commission seat",
       "link": "https://nondoc.com/2026/10/26/brad-boles-rhonda-eastman-race-for-oklahoma-corporation-commission-seat/",
@@ -733,17 +845,6 @@
       ]
     },
     {
-      "source": "ICT",
-      "title": "Long after the Maui fires, toxic metals linger in residents\u2019 bodies",
-      "link": "https://ictnews.org/news/long-after-the-maui-fires-toxic-metals-linger-in-residents-bodies/",
-      "published": "2026-10-25T23:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Out of the brine and into the public: Brent Swadley sentenced, released",
       "link": "https://nondoc.com/2026/10/25/out-of-the-brine-and-into-the-public-brent-swadley-sentenced/",
@@ -763,19 +864,6 @@
       "native_why": "",
       "tags": [
         "Courts and Law"
-      ]
-    },
-    {
-      "source": "NonDoc",
-      "title": "Yukon mayor recall election fueled by data center angst, transparency concerns",
-      "link": "https://nondoc.com/2026/10/24/yukon-mayor-recall-election-fueled-by-data-center-angst-transparency-concerns/",
-      "published": "2026-10-24T05:06:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Business and Economy",
-        "Government"
       ]
     },
     {
@@ -1343,18 +1431,6 @@
       ]
     },
     {
-      "source": "Oklahoma Watch",
-      "title": "Was Oklahoma denied Title X funding by the Biden administration for not providing patients with abortion information?",
-      "link": "https://oklahomawatch.org/2026/10/20/was-oklahoma-denied-title-x-funding-by-the-biden-administration-for-not-providing-patients-with-abortion-information/",
-      "published": "2026-10-20T16:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health",
-        "Government"
-      ]
-    },
-    {
       "source": "Native America Calling",
       "title": "Tuesday, October 20, 2026 \u2014 Alaska Native leadership and land rights advocacy through the generations",
       "link": "https://www.nativeamericacalling.com/tuesday-october-20-2026-alaska-native-leadership-and-land-rights-advocacy-through-the-generations/",
@@ -1665,17 +1741,6 @@
       "native_why": "",
       "tags": [
         "Government"
-      ]
-    },
-    {
-      "source": "Osage News",
-      "title": "Tillman pocket vetoes Daposka Ahnkodapi funding, data center oversight bills",
-      "link": "https://osagenews.org/tillman-pocket-vetoes-daposka-ahnkodapi-funding-data-center-oversight-bills/",
-      "published": "2026-10-15T20:30:22Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Business and Economy"
       ]
     },
     {
@@ -2333,40 +2398,6 @@
       ]
     },
     {
-      "source": "Oklahoma Voice",
-      "title": "US Senate candidates in 9 key races quiet about Social Security benefits cliff",
-      "link": "https://oklahomavoice.com/2026/10/07/repub/us-senate-candidates-in-9-key-races-quiet-about-social-security-benefits-cliff/",
-      "published": "2026-10-07T19:30:11Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "National and World"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Kansas agriculture and rural communities need immigrants, but system has failed them",
-      "link": "https://oklahomavoice.com/2026/10/07/repub/kansas-agriculture-and-rural-communities-need-immigrants-but-system-has-failed-them/",
-      "published": "2026-10-07T17:46:12Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Las redadas migratorias de Trump dejan al suroeste de Kansas buscando c\u00f3mo seguir adelante",
-      "link": "https://oklahomavoice.com/2026/10/07/repub/las-redadas-migratorias-de-trump-dejan-al-suroeste-de-kansas-buscando-como-seguir-adelante/",
-      "published": "2026-10-07T17:44:26Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "Cherokee Phoenix",
       "title": "CN designates Oct. 3 as John Ross Day",
       "link": "https://www.cherokeephoenix.org/news/cn-designates-oct-3-as-john-ross-day/article_863c0eb5-5c04-47ef-942f-60ed11557084.html",
@@ -2375,29 +2406,6 @@
       "native_why": "source beat",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Democrats more trusted on healthcare costs, survey shows",
-      "link": "https://oklahomavoice.com/2026/10/07/repub/democrats-more-trusted-on-healthcare-costs-survey-shows/",
-      "published": "2026-10-07T14:57:46Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health",
-        "Health"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Unusually high number of Oklahoma House incumbents face November reelection challenges",
-      "link": "https://oklahomavoice.com/2026/10/07/unusually-high-number-of-oklahoma-house-incumbents-face-november-reelection-challenges/",
-      "published": "2026-10-07T10:30:31Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections"
       ]
     },
     {
