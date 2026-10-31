@@ -1,29 +1,187 @@
 {
-  "generated": "2026-10-30T20:50:56Z",
+  "generated": "2026-10-31T00:50:47Z",
   "stats": {
-    "items_before_dedup": 247,
-    "items_after_dedup": 246,
-    "duplicates_removed": 1
+    "items_before_dedup": 207,
+    "items_after_dedup": 205,
+    "duplicates_removed": 2
   },
   "items": [
     {
-      "source": "KOSU",
-      "title": "Jordan launches air strikes in Syria following unprecedented church shooting",
-      "link": "https://www.kosu.org/world-news/2026-10-30/jordan-launches-air-strikes-in-syria-following-unprecedented-church-shooting",
-      "published": "2026-10-30T20:30:50Z",
-      "native": false,
-      "native_why": "",
+      "source": "ICT",
+      "title": "Oklahoma tribal leadership fight puts Kalshi\u2019s prediction markets at center of dispute",
+      "link": "https://ictnews.org/news/oklahoma-tribal-leadership-fight-puts-kalshis-prediction-markets-at-center-of-dispute/",
+      "published": "2026-10-30T23:38:08Z",
+      "native": true,
+      "native_why": "source beat",
       "tags": [
-        "Community"
+        "Business and Economy"
       ]
     },
     {
       "source": "KOSU",
-      "title": "New songs from Tate McRae and Zach Bryan enter the Billboard Hot 100",
-      "link": "https://www.kosu.org/music/2026-10-30/new-songs-from-tate-mcrae-and-zach-bryan-enter-the-billboard-hot-100",
-      "published": "2026-10-30T20:27:11Z",
+      "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+      "link": "https://www.kosu.org/u-s-news/2026-10-30/despite-concerns-the-trump-administration-still-sends-pregnant-migrant-minors-to-south-texas",
+      "published": "2026-10-30T22:06:18Z",
       "native": false,
       "native_why": "",
+      "tags": [
+        "Government"
+      ]
+    },
+    {
+      "source": "Oklahoma Voice",
+      "title": "New Oklahoma laws take effect on Sunday",
+      "link": "https://oklahomavoice.com/2026/10/30/new-oklahoma-laws-take-effect/",
+      "published": "2026-10-30T22:05:32Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Here's what it's like to live in Salem, Mass., during the Halloween tourism season",
+      "link": "https://www.kosu.org/arts-culture/2026-10-30/heres-what-its-like-to-live-in-salem-mass-during-the-halloween-tourism-season",
+      "published": "2026-10-30T22:05:04Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Oklahoma leaders seek dismissal of lawsuit challenging state abortion bans",
+      "link": "https://www.kosu.org/health/2026-10-30/oklahoma-leaders-seek-dismissal-of-lawsuit-challenging-state-abortion-bans",
+      "published": "2026-10-30T21:59:54Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Answering NPR listeners' questions about the good and bad of AI",
+      "link": "https://www.kosu.org/2026-10-30/answering-npr-listeners-questions-about-the-good-and-bad-of-ai",
+      "published": "2026-10-30T21:59:45Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Technology"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+      "link": "https://www.kosu.org/news/2026-10-30/judge-orders-an-inquiry-into-potential-doj-misconduct-in-trumps-golf-course-case",
+      "published": "2026-10-30T21:56:52Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Courts and Law",
+        "Sports"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "This week in science: mysterious X-rays, movement and learning, and memory formation",
+      "link": "https://www.kosu.org/science/2026-10-30/this-week-in-science-mysterious-x-rays-movement-and-learning-and-memory-formation",
+      "published": "2026-10-30T21:56:39Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "How Esther Perel's parents' experience as Holocaust survivors shaped her worldview",
+      "link": "https://www.kosu.org/arts-culture/2026-10-30/how-esther-perels-parents-experience-as-holocaust-survivors-shaped-her-worldview",
+      "published": "2026-10-30T21:54:46Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "How religion is influencing the midterm elections",
+      "link": "https://www.kosu.org/religion/2026-10-30/how-religion-is-influencing-the-midterm-elections",
+      "published": "2026-10-30T21:52:36Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Puerto Ricans protest record-high electricity costs",
+      "link": "https://www.kosu.org/energy-environment/2026-10-30/puerto-ricans-protest-record-high-electricity-costs",
+      "published": "2026-10-30T21:47:54Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "Land and Environment"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
+      "link": "https://www.kosu.org/business/2026-10-30/hackers-steal-over-6-billion-from-crypto-exchange-binance-in-staggering-heist",
+      "published": "2026-10-30T21:44:09Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "General"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Alaska voters react to allegations of a spoiler in the U.S. Senate race",
+      "link": "https://www.kosu.org/2026-10-30/alaska-voters-react-to-allegations-of-a-spoiler-in-the-u-s-senate-race",
+      "published": "2026-10-30T21:36:04Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Elections",
+        "National and World",
+        "Elections"
+      ]
+    },
+    {
+      "source": "KOSU",
+      "title": "Why scary movies keep borrowing ideas from religion",
+      "link": "https://www.kosu.org/arts-culture/2026-10-30/why-scary-movies-keep-borrowing-ideas-from-religion",
+      "published": "2026-10-30T21:34:08Z",
+      "native": false,
+      "native_why": "",
+      "tags": [
+        "Arts and Entertainment"
+      ]
+    },
+    {
+      "source": "Native America Calling",
+      "title": "Monday, November 2, 2026 \u2014 Amid election anxiety, Native candidates are poised for historic representation",
+      "link": "https://www.nativeamericacalling.com/monday-november-2-2026-amid-election-anxiety-native-candidates-are-poised-for-historic-representation/",
+      "published": "2026-10-30T21:10:47Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Elections"
+      ]
+    },
+    {
+      "source": "ICT",
+      "title": "5 key takeaways from NCAI\u2019s 83rd annual convention",
+      "link": "https://ictnews.org/news/5-key-takeaways-from-ncais-83rd-annual-convention/",
+      "published": "2026-10-30T21:00:00Z",
+      "native": true,
+      "native_why": "source beat",
       "tags": [
         "General"
       ]
@@ -62,29 +220,6 @@
       ]
     },
     {
-      "source": "KOSU",
-      "title": "Have a story or tradition around Truman Capote's 'A Christmas Memory'? Tell us",
-      "link": "https://www.kosu.org/arts-culture/2026-10-30/have-a-story-or-tradition-around-truman-capotes-a-christmas-memory-tell-us",
-      "published": "2026-10-30T18:34:49Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
-      "link": "https://www.kosu.org/news/2026-10-30/ice-activity-is-surging-ahead-of-midterms-so-is-voter-turnout",
-      "published": "2026-10-30T17:45:27Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Elections"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma State Department of Education faces discrimination, retaliation lawsuit",
       "link": "https://oklahomavoice.com/2026/10/30/oklahoma-state-department-of-education-faces-discrimination-retaliation-lawsuit/",
@@ -118,96 +253,6 @@
       "native_why": "source beat",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Latest Korean beauty craze uses dead Americans' skin cells",
-      "link": "https://www.kosu.org/arts-culture/2026-10-30/latest-korean-beauty-craze-uses-dead-americans-skin-cells",
-      "published": "2026-10-30T16:11:29Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Get a good scare this Halloween from one of these horror books",
-      "link": "https://www.kosu.org/arts-culture/2026-10-30/get-a-good-scare-this-halloween-from-one-of-these-horror-books",
-      "published": "2026-10-30T16:10:39Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "What to make of the closing arguments this midterm election",
-      "link": "https://www.kosu.org/politics/2026-10-30/what-to-make-of-the-closing-arguments-this-midterm-election",
-      "published": "2026-10-30T16:09:03Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Why we're so fascinated by the spooky and inexplicable",
-      "link": "https://www.kosu.org/arts-culture/2026-10-30/why-were-so-fascinated-by-the-spooky-and-inexplicable",
-      "published": "2026-10-30T16:08:58Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Some students are trying to find a political middle ground. But don't call them moderates",
-      "link": "https://www.kosu.org/politics/2026-10-30/some-students-are-trying-to-find-a-political-middle-ground-but-dont-call-them-moderates",
-      "published": "2026-10-30T16:08:53Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "State and federal government officials at odds over election processes, voter roll vetting",
-      "link": "https://www.kosu.org/politics/2026-10-30/state-and-federal-government-officials-at-odds-over-election-processes-voter-roll-vetting",
-      "published": "2026-10-30T16:08:30Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "National and World",
-        "Elections"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Hiking untouched arctic wilderness before it becomes a mining road",
-      "link": "https://www.kosu.org/politics/2026-10-30/hiking-untouched-arctic-wilderness-before-it-becomes-a-mining-road",
-      "published": "2026-10-30T16:08:17Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "KOSU",
-      "title": "Atlanta Dream force Game 7 in WNBA finals",
-      "link": "https://www.kosu.org/sports/2026-10-30/atlanta-dream-force-game-7-in-wnba-finals",
-      "published": "2026-10-30T16:06:53Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -312,17 +357,6 @@
       "tags": [
         "Food and Agriculture",
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Early voting numbers vary by location",
-      "link": "https://www.muskogeephoenix.com/news/early-voting-numbers-vary-by-location/article_17073ba7-7314-4a45-8a26-71eb3c6821f9.html",
-      "published": "2026-10-30T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections"
       ]
     },
     {
@@ -463,6 +497,17 @@
       ]
     },
     {
+      "source": "Osage News",
+      "title": "Osage Nation vehicle tag renewal service now available online",
+      "link": "https://osagenews.org/osage-nation-vehicle-tag-renewal-service-now-available-online/",
+      "published": "2026-10-29T18:45:46Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Oklahoma Watch",
       "title": "Are absentee ballots mailed to the deceased a frequent form of voting fraud?",
       "link": "https://oklahomawatch.org/2026/10/29/are-absentee-ballots-mailed-to-the-deceased-a-frequent-form-of-voting-fraud/",
@@ -484,17 +529,6 @@
       "native_why": "source beat",
       "tags": [
         "Land and Environment"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Former Sallisaw resident pleads guilty to wire fraud",
-      "link": "https://www.muskogeephoenix.com/news/former-sallisaw-resident-pleads-guilty-to-wire-fraud/article_7ea62a5d-95a7-457f-b945-def1987b4e5d.html",
-      "published": "2026-10-29T16:48:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Crime"
       ]
     },
     {
@@ -558,18 +592,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Adults, youth get into old style schoolyard kickball Sundays at Hatbox",
-      "link": "https://www.muskogeephoenix.com/news/adults-youth-get-into-old-style-schoolyard-kickball-sundays-at-hatbox/article_a4d1263b-1aba-400f-82bd-99741cbf9f64.html",
-      "published": "2026-10-29T15:06:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Youth"
-      ]
-    },
-    {
       "source": "NonDoc",
       "title": "Tailgate Talk: College football\u2019s competition gap is back",
       "link": "https://nondoc.com/2026/10/29/tailgate-talk-college-football-competition-gap-is-back/",
@@ -612,28 +634,6 @@
       "native_why": "",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Local teacher named OG&E Power Educator of the Month",
-      "link": "https://www.muskogeephoenix.com/news/local-teacher-named-og-e-power-educator-of-the-month/article_1f2af0e3-a4a6-44b7-994f-7c99a4dae7f4.html",
-      "published": "2026-10-29T11:29:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Purple Heart Corridor dedication ceremony set for Nov. 7",
-      "link": "https://www.muskogeephoenix.com/news/purple-heart-corridor-dedication-ceremony-set-for-nov-7/article_adb83d5d-6769-5faa-91cc-c6539e2b5f7e.html",
-      "published": "2026-10-29T11:07:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -717,6 +717,18 @@
       ]
     },
     {
+      "source": "Osage News",
+      "title": "Limited cash reserves prevent ON Health System from absorbing additional program costs",
+      "link": "https://osagenews.org/limited-cash-reserves-prevent-on-health-system-from-absorbing-additional-program-costs/",
+      "published": "2026-10-28T21:50:51Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Health",
+        "Health"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma lawmakers consider strategies to counter student absenteeism",
       "link": "https://oklahomavoice.com/2026/10/28/oklahoma-lawmakers-consider-strategies-to-counter-student-absenteeism/",
@@ -740,48 +752,15 @@
       ]
     },
     {
-      "source": "ICT",
-      "title": "Before you sign: Key contract provisions for tribes considering data center developments",
-      "link": "https://ictnews.org/opinion/before-you-sign-key-contract-provisions-for-tribes-considering-data-center-developments/",
-      "published": "2026-10-28T18:30:00Z",
+      "source": "Osage News",
+      "title": "Tommy Lee Marshall Slankard Obituary",
+      "link": "https://osagenews.org/tommy-lee-marshall-slankard-obituary/",
+      "published": "2026-10-28T16:48:54Z",
       "native": true,
       "native_why": "source beat",
       "tags": [
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Oklahoma tribal leadership fight puts Kalshi\u2019s prediction markets at center of dispute",
-      "link": "https://oklahomavoice.com/2026/10/28/oklahoma-tribal-leadership-fight-puts-kalshis-prediction-markets-at-center-of-dispute/",
-      "published": "2026-10-28T17:03:09Z",
-      "native": true,
-      "native_why": "term: tribal",
-      "tags": [
-        "Business and Economy"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "'The Rocky Horror Picture Show' invites audience, stage participation",
-      "link": "https://www.muskogeephoenix.com/news/the-rocky-horror-picture-show-invites-audience-stage-participation/article_bbc7968f-2d26-471d-bfe8-bd92d27a9c56.html",
-      "published": "2026-10-28T17:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "ICT",
-      "title": "Incumbent congressional candidates skip Alaska Native convention\u2019s forum",
-      "link": "https://ictnews.org/news/incumbent-congressional-candidates-skip-alaska-native-conventions-forum/",
-      "published": "2026-10-28T16:00:00Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Elections",
-        "National and World"
+        "Public Safety",
+        "Obituaries"
       ]
     },
     {
@@ -804,29 +783,6 @@
       "native_why": "",
       "tags": [
         "Opinion"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Muskogee Homeschool Band provides opportunities",
-      "link": "https://www.muskogeephoenix.com/news/muskogee-homeschool-band-provides-opportunities/article_5f60a2cd-ee84-4b59-a195-1ab1e4997e33.html",
-      "published": "2026-10-28T15:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Business, education, civic leaders tour Muskogee High School during District Showcase",
-      "link": "https://www.muskogeephoenix.com/news/business-education-civic-leaders-tour-muskogee-high-school-during-district-showcase/article_e467c64f-95b8-4ead-bfcc-6433c68a5f48.html",
-      "published": "2026-10-28T14:33:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Education",
-        "Business and Economy"
       ]
     },
     {
@@ -866,17 +822,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Warner announces campaign for principal chief; Duncan running for deputy chief",
-      "link": "https://www.muskogeephoenix.com/news/warner-announces-campaign-for-principal-chief-duncan-running-for-deputy-chief/article_3978c3d6-9b1f-5dac-bd6d-b289913f145b.html",
-      "published": "2026-10-28T13:50:00Z",
-      "native": true,
-      "native_why": "term: principal chief",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
       "source": "Native America Calling",
       "title": "Wednesday, October 28, 2026 \u2014 Election Day anticipation",
       "link": "https://www.nativeamericacalling.com/wednesday-october-28-2026-election-day-anticipation/",
@@ -885,39 +830,6 @@
       "native_why": "source beat",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Extra Mile Day to honor volunteers",
-      "link": "https://www.muskogeephoenix.com/news/extra-mile-day-to-honor-volunteers/article_6926c3f1-1070-4485-8698-4ec2688acfb8.html",
-      "published": "2026-10-28T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Men get breast cancer, have mastectomies",
-      "link": "https://www.muskogeephoenix.com/news/men-get-breast-cancer-have-mastectomies/article_bf429f23-a2df-5f42-8c91-45bbe8532f7f.html",
-      "published": "2026-10-28T11:40:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "What's Happening Oct. 31-Nov. 21",
-      "link": "https://www.muskogeephoenix.com/news/whats-happening-oct-31-nov-21/article_9a9ec37e-6027-4895-a04a-05ee16c4fb93.html",
-      "published": "2026-10-28T11:39:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
       ]
     },
     {
@@ -943,18 +855,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "ODOT pulls campaign signs from highway",
-      "link": "https://www.muskogeephoenix.com/news/odot-pulls-campaign-signs-from-highway/article_a76f7699-3084-50c6-8608-9043ab6bcbb3.html",
-      "published": "2026-10-28T10:47:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "Transportation"
-      ]
-    },
-    {
       "source": "Oklahoma Watch",
       "title": "Rural Counties Face Hurdles in Tapping State Question 781 Money",
       "link": "https://oklahomawatch.org/2026/10/28/rural-counties-face-hurdles-in-tapping-state-question-781-money/",
@@ -963,28 +863,6 @@
       "native_why": "",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Downtown Muskogee signs to light up in teal for Alzheimer's awareness",
-      "link": "https://www.muskogeephoenix.com/news/downtown-muskogee-signs-to-light-up-in-teal-for-alzheimers-awareness/article_2554ff8c-2fd6-48c3-b1b0-f920baa21a0f.html",
-      "published": "2026-10-28T09:10:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Tricks, treats await young, old on Halloween weekend",
-      "link": "https://www.muskogeephoenix.com/news/tricks-treats-await-young-old-on-halloween-weekend/article_cfb3c1a9-2736-405a-8a7e-46de03bc8b2c.html",
-      "published": "2026-10-28T08:35:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -997,18 +875,6 @@
       "tags": [
         "Elections",
         "Crime"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Council, Redevelopment Authority agree to seek bond assistance in paying off settlement",
-      "link": "https://www.muskogeephoenix.com/news/council-redevelopment-authority-agree-to-seek-bond-assistance-in-paying-off-settlement/article_61f9848c-fa27-40d5-84a4-53d7c21f876d.html",
-      "published": "2026-10-28T00:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Government",
-        "Arts and Entertainment"
       ]
     },
     {
@@ -1034,6 +900,17 @@
       ]
     },
     {
+      "source": "Osage News",
+      "title": "Osage Nation speeds up orphan well plugging as BIA steps back from oversight",
+      "link": "https://osagenews.org/osage-nation-speeds-up-orphan-well-plugging-as-bia-steps-back-from-oversight/",
+      "published": "2026-10-27T18:31:33Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "General"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Candidates pledge to improve consumer advocacy at Oklahoma Insurance Department",
       "link": "https://oklahomavoice.com/2026/10/27/candidates-pledge-to-improve-consumer-advocacy-at-oklahoma-insurance-department/",
@@ -1043,17 +920,6 @@
       "tags": [
         "Elections",
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Smile of the day 11-1-2026",
-      "link": "https://www.muskogeephoenix.com/news/smile-of-the-day-11-1-2026/article_5e911548-dbb2-4e0d-a421-a0d44ca47d78.html",
-      "published": "2026-10-27T17:10:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
       ]
     },
     {
@@ -1104,14 +970,14 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "U.S. 69 widening to begin after Halloween weekend route closure",
-      "link": "https://www.muskogeephoenix.com/news/u-s-69-widening-to-begin-after-halloween-weekend-route-closure/article_c33ae662-b638-4ac3-a336-9b2cd12cd339.html",
-      "published": "2026-10-27T15:52:00Z",
-      "native": false,
-      "native_why": "",
+      "source": "Osage News",
+      "title": "Osage Nation, VA to host free Veterans benefits and disability claims event Nov. 17-18",
+      "link": "https://osagenews.org/osage-nation-va-to-host-free-veterans-benefits-and-disability-claims-event-nov-17-18/",
+      "published": "2026-10-27T15:49:02Z",
+      "native": true,
+      "native_why": "source beat",
       "tags": [
-        "General"
+        "Veterans"
       ]
     },
     {
@@ -1137,29 +1003,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Shooting suspect sought by Muskogee Police Department",
-      "link": "https://www.muskogeephoenix.com/news/shooting-suspect-sought-by-muskogee-police-department/article_fcfb7b5b-d062-495d-8098-5384858a3e9e.html",
-      "published": "2026-10-27T14:32:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Q5, Senate District 8 candidates answer questions",
-      "link": "https://www.muskogeephoenix.com/news/q5-senate-district-8-candidates-answer-questions/article_da94e8b8-4246-407d-b6d6-ad0cf40ef947.html",
-      "published": "2026-10-27T13:55:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections",
-        "National and World"
-      ]
-    },
-    {
       "source": "Native America Calling",
       "title": "Tuesday, October 27, 2026 \u2014 Native Bookshelf: Spooky books for the season",
       "link": "https://www.nativeamericacalling.com/tuesday-october-27-2026-native-bookshelf-spooky-books-for-the-season/",
@@ -1171,17 +1014,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Body recovered at Three Forks Harbor",
-      "link": "https://www.muskogeephoenix.com/news/body-recovered-at-three-forks-harbor/article_b457062c-4b34-4aa3-8a93-0a28c79e5b2a.html",
-      "published": "2026-10-27T12:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "The Frontier",
       "title": "This oil company is linked to 1,000 pollution incidents and other violations. Oklahoma never punished it.",
       "link": "https://www.readfrontier.org/stories/this-oil-company-is-linked-to-1000-pollution-incidents-and-other-violations-oklahoma-never-punished-it/",
@@ -1190,74 +1022,6 @@
       "native_why": "",
       "tags": [
         "Land and Environment"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Oklahoma Project Woman saves lives with vouchers",
-      "link": "https://www.muskogeephoenix.com/news/oklahoma-project-woman-saves-lives-with-vouchers/article_e7e3c6d0-b262-457b-80d3-93cde6f93baf.html",
-      "published": "2026-10-27T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Doctor: Mental healthcare critical part of cancer treatment",
-      "link": "https://www.muskogeephoenix.com/news/doctor-mental-healthcare-critical-part-of-cancer-treatment/article_278f1c33-02cc-4649-98a9-0ef698e0743a.html",
-      "published": "2026-10-27T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health",
-        "Health"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Bringing breast health to underserved areas, populations takes team effort",
-      "link": "https://www.muskogeephoenix.com/news/bringing-breast-health-to-underserved-areas-populations-takes-team-effort/article_e3c5f9da-8f88-4c99-b084-e8a237b8f09f.html",
-      "published": "2026-10-27T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health",
-        "Health"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Windber institute's data tracking system used by scientists far and wide",
-      "link": "https://www.muskogeephoenix.com/news/windber-institutes-data-tracking-system-used-by-scientists-far-and-wide/article_c3420264-65df-49a4-ad41-5506e5471048.html",
-      "published": "2026-10-27T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Crosby details fear, faith in posts about breast cancer",
-      "link": "https://www.muskogeephoenix.com/news/crosby-details-fear-faith-in-posts-about-breast-cancer/article_7dc038aa-8ab4-4ccd-af36-31bf0bd3e8a5.html",
-      "published": "2026-10-27T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "'Game-changer drug': Discoveries in trials could work their way into patient care",
-      "link": "https://www.muskogeephoenix.com/news/game-changer-drug-discoveries-in-trials-could-work-their-way-into-patient-care/article_2f4b1978-bcce-4616-a260-32cb9ac7ece1.html",
-      "published": "2026-10-27T08:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Health"
       ]
     },
     {
@@ -1280,28 +1044,6 @@
       "native_why": "",
       "tags": [
         "Elections"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "NSU secures $5M grant for career pathways",
-      "link": "https://www.muskogeephoenix.com/news/nsu-secures-5m-grant-for-career-pathways/article_b80a217f-fd30-5fd5-ba4b-fd414513cbd0.html",
-      "published": "2026-10-26T16:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Smile of the Day: 10-29-2026",
-      "link": "https://www.muskogeephoenix.com/news/smile-of-the-day-10-29-2026/article_fd48e721-153a-4eea-a141-40f7e98fdf57.html",
-      "published": "2026-10-26T15:56:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
       ]
     },
     {
@@ -1341,61 +1083,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "City of Muskogee Foundation board approves $10 million agreement with city",
-      "link": "https://www.muskogeephoenix.com/news/city-of-muskogee-foundation-board-approves-10-million-agreement-with-city/article_eea0aa72-ddbe-45d0-9c38-fd6371a69d8a.html",
-      "published": "2026-10-26T15:07:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Zack Robinson and the Last Call Band to perform in Eufaula",
-      "link": "https://www.muskogeephoenix.com/news/zack-robinson-and-the-last-call-band-to-perform-in-eufaula/article_47f9e7bf-5d5e-42bf-9c1d-6f7041df76b8.html",
-      "published": "2026-10-26T13:49:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Early voting for mid-terms start Wednesday, Oct. 28",
-      "link": "https://www.muskogeephoenix.com/news/early-voting-for-mid-terms-start-wednesday-oct-28/article_2e073bfb-657d-56ee-957b-47a3c7f75348.html",
-      "published": "2026-10-26T13:31:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Elections"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Strangulation warrant issued",
-      "link": "https://www.muskogeephoenix.com/news/strangulation-warrant-issued/article_20c14e0c-c444-583d-a045-682a2c57180b.html",
-      "published": "2026-10-26T13:25:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "PHO to provide spooky fun Oct. 30",
-      "link": "https://www.muskogeephoenix.com/news/pho-to-provide-spooky-fun-oct-30/article_39a316fa-64fb-53ce-8de5-7f69b401bb7a.html",
-      "published": "2026-10-26T13:20:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
       "source": "The Frontier",
       "title": "Oklahoma law requires judges to waive court debt for poor defendants. Some refuse.",
       "link": "https://www.readfrontier.org/stories/oklahoma-law-requires-judges-to-waive-court-debt-for-poor-defendants-some-refuse/",
@@ -1418,51 +1105,6 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "NSU Foundation partners with OBI, Donable Cares for October blood drive",
-      "link": "https://www.muskogeephoenix.com/news/nsu-foundation-partners-with-obi-donable-cares-for-october-blood-drive/article_0f2d8902-f229-5bc1-9612-7e05141cee15.html",
-      "published": "2026-10-26T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Planes and Pumpkins set to land at Muskogee-Davis airport",
-      "link": "https://www.muskogeephoenix.com/news/planes-and-pumpkins-set-to-land-at-muskogee-davis-airport/article_ef51e6ad-2ed6-4962-9d62-6c1481a7bd47.html",
-      "published": "2026-10-26T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Land and Environment",
-        "Transportation"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Foundation rejects mayor's proposal to help city pay $29.25M judgment",
-      "link": "https://www.muskogeephoenix.com/news/foundation-rejects-mayors-proposal-to-help-city-pay-29-25m-judgment/article_0cf33da7-c9ca-4cf4-a954-4ce3a56015d6.html",
-      "published": "2026-10-26T12:52:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Government"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Police report for Oct. 23-26",
-      "link": "https://www.muskogeephoenix.com/news/police-report-for-oct-23-26/article_b6fd2950-e325-48c2-9e7b-ab76171e420e.html",
-      "published": "2026-10-26T12:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Public Safety"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Commentary: Oklahoma voters can pick between disparate views for governor, but down ballot races matter, too",
       "link": "https://oklahomavoice.com/2026/10/26/oklahoma-voters-can-pick-between-disparate-views-for-governor-but-down-ballot-races-matter-too/",
@@ -1473,50 +1115,6 @@
         "Elections",
         "Opinion",
         "Elections"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Food by the Book: Good eating for spooky reading",
-      "link": "https://www.muskogeephoenix.com/news/food-by-the-book-good-eating-for-spooky-reading/article_0343fdbc-f2a1-44f3-812b-4b097830e383.html",
-      "published": "2026-10-26T10:07:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Arts and Entertainment"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Suspect in custody relating to Saturday night shooting",
-      "link": "https://www.muskogeephoenix.com/news/suspect-in-custody-relating-to-saturday-night-shooting/article_69bf54dc-3c3c-46a5-b4cf-610d5f637c28.html",
-      "published": "2026-10-26T09:53:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Smile of the Day 10-27-2026",
-      "link": "https://www.muskogeephoenix.com/news/smile-of-the-day-10-27-2026/article_1197d1a9-1790-48bb-b59d-41fbeff9ddcf.html",
-      "published": "2026-10-26T08:50:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Trick-or-treaters fill downtown Muskogee for Boo-Nanza",
-      "link": "https://www.muskogeephoenix.com/news/trick-or-treaters-fill-downtown-muskogee-for-boo-nanza/article_730a7bc9-2df6-49ef-b9c0-2beb45e0291c.html",
-      "published": "2026-10-26T08:14:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
@@ -1591,23 +1189,12 @@
       ]
     },
     {
-      "source": "Muskogee Phoenix",
-      "title": "Mazzei talks about tax reform, reading coaches at Eufaula town hall",
-      "link": "https://www.muskogeephoenix.com/news/mazzei-talks-about-tax-reform-reading-coaches-at-eufaula-town-hall/article_560a1661-8147-4aba-b217-6d6652849933.html",
-      "published": "2026-10-23T17:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Sports"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Flu gets booed at Muskogee Civic Center",
-      "link": "https://www.muskogeephoenix.com/news/flu-gets-booed-at-muskogee-civic-center/article_6b378fce-a369-46a2-85ca-01637363df03.html",
-      "published": "2026-10-23T15:15:00Z",
-      "native": false,
-      "native_why": "",
+      "source": "Osage News",
+      "title": "Nation issues more than 500 new membership ID cards since September",
+      "link": "https://osagenews.org/nation-issues-more-than-500-new-membership-id-cards-since-september/",
+      "published": "2026-10-23T17:09:20Z",
+      "native": true,
+      "native_why": "source beat",
       "tags": [
         "General"
       ]
@@ -1621,28 +1208,6 @@
       "native_why": "",
       "tags": [
         "General"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Smile of the Day 10-25-2026",
-      "link": "https://www.muskogeephoenix.com/news/smile-of-the-day-10-25-2026/article_7addf193-ba6c-42e8-8cb3-d02cbee51533.html",
-      "published": "2026-10-23T14:25:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "TCP to present 'Calendar Girls'",
-      "link": "https://www.muskogeephoenix.com/community/arts-entertainment/tcp-to-present-calendar-girls/article_d1d207c7-3783-5e7a-94d3-05dc9db9fc51.html",
-      "published": "2026-10-23T14:16:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Events"
       ]
     },
     {
@@ -1665,50 +1230,6 @@
       "published": "2026-10-23T13:00:52Z",
       "native": true,
       "native_why": "source beat",
-      "tags": [
-        "Public Safety"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Venice to visit Muskogee at Grace Episcopal Church",
-      "link": "https://www.muskogeephoenix.com/news/venice-to-visit-muskogee-at-grace-episcopal-church/article_bb141ec3-8ac9-49cb-815b-2e33d7483892.html",
-      "published": "2026-10-23T13:00:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Community"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Cherokee Nation accepting 2026 Angel Project, Elder Angel Project applications",
-      "link": "https://www.muskogeephoenix.com/news/cherokee-nation-accepting-2026-angel-project-elder-angel-project-applications/article_249f814c-edf5-5675-889e-2d5efb370330.html",
-      "published": "2026-10-23T12:33:00Z",
-      "native": true,
-      "native_why": "term: cherokee nation",
-      "tags": [
-        "General"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Foundation, City Council to discuss settlement payment options",
-      "link": "https://www.muskogeephoenix.com/news/foundation-city-council-to-discuss-settlement-payment-options/article_9d67007c-3b39-4eca-8033-5c25db8ca03c.html",
-      "published": "2026-10-23T12:30:00Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "Government"
-      ]
-    },
-    {
-      "source": "Muskogee Phoenix",
-      "title": "Police report for Oct. 13 - 22",
-      "link": "https://www.muskogeephoenix.com/news/police-report-for-oct-13---22/article_65aa0313-f20c-4d29-91e3-b7247eb04227.html",
-      "published": "2026-10-23T12:00:00Z",
-      "native": false,
-      "native_why": "",
       "tags": [
         "Public Safety"
       ]
@@ -1747,6 +1268,17 @@
         "Education",
         "Government",
         "National and World"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Nearly five years after purchase, Lost Creek Ranch still lacks finalized plan",
+      "link": "https://osagenews.org/nearly-five-years-after-purchase-lost-creek-ranch-still-lacks-finalized-plan/",
+      "published": "2026-10-22T18:17:18Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Food and Agriculture"
       ]
     },
     {
@@ -1887,6 +1419,17 @@
       "tags": [
         "Elections",
         "Courts and Law"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Daposka Ahnkodapi supporters protest following police searches of homeschool sites",
+      "link": "https://osagenews.org/daposka-ahnkodapi-supporters-protest-following-police-searches-of-homeschool-sites/",
+      "published": "2026-10-21T19:01:49Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Public Safety"
       ]
     },
     {
@@ -2059,6 +1602,18 @@
       ]
     },
     {
+      "source": "Osage News",
+      "title": "Tulsa celebrates Indigenous heritage, culture and achievements for 10th Native American Day Celebration",
+      "link": "https://osagenews.org/tulsa-celebrates-indigenous-heritage-culture-and-achievements-for-10th-native-american-day-celebration/",
+      "published": "2026-10-20T03:45:48Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Language and Culture",
+        "History and Heritage"
+      ]
+    },
+    {
       "source": "Oklahoma Voice",
       "title": "Oklahoma health care agency boasts low payment error rate",
       "link": "https://oklahomavoice.com/2026/10/19/oklahoma-health-care-agency-boasts-low-payment-error-rate/",
@@ -2118,17 +1673,6 @@
       ]
     },
     {
-      "source": "Native America Calling",
-      "title": "Monday, October 19, 2026 \u2014 Native in the Spotlight: Recorder Gabriella C\u00e1zares-Kelly",
-      "link": "https://www.nativeamericacalling.com/monday-october-19-2026-native-in-the-spotlight-recorder-gabriella-cazares-kelly/",
-      "published": "2026-10-19T13:00:50Z",
-      "native": true,
-      "native_why": "source beat",
-      "tags": [
-        "Features"
-      ]
-    },
-    {
       "source": "Oklahoma Voice",
       "title": "Commentary: Oklahoma\u2019s GOP Legislature left out key info on property taxes state question: the financial impact",
       "link": "https://oklahomavoice.com/2026/10/19/oklahomas-gop-legislature-left-out-key-info-on-property-taxes-state-question-the-financial-impact/",
@@ -2149,6 +1693,17 @@
       "native_why": "source beat",
       "tags": [
         "Features"
+      ]
+    },
+    {
+      "source": "Osage News",
+      "title": "Julia Marie Seals Obituary",
+      "link": "https://osagenews.org/julia-marie-seals-obituary/",
+      "published": "2026-10-19T00:10:07Z",
+      "native": true,
+      "native_why": "source beat",
+      "tags": [
+        "Obituaries"
       ]
     },
     {
@@ -2577,17 +2132,6 @@
       "tags": [
         "Business and Economy",
         "Business and Economy"
-      ]
-    },
-    {
-      "source": "Oklahoma Voice",
-      "title": "Trump appoints committee to revive quest to remove Lisa Cook from Fed board",
-      "link": "https://oklahomavoice.com/2026/10/09/repub/trump-appoints-committee-to-revive-quest-to-remove-lisa-cook-from-fed-board/",
-      "published": "2026-10-09T19:17:18Z",
-      "native": false,
-      "native_why": "",
-      "tags": [
-        "General"
       ]
     },
     {
